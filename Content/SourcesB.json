@@ -1,0 +1,7586 @@
+[
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd538" },
+    "sourceID": "14march-en",
+    "country": "Lebanon",
+    "countryCode": "LB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd539" },
+    "sourceID": "24Tanzania",
+    "country": "Tanzania",
+    "countryCode": "TZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd53a" },
+    "sourceID": "24dash",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd53b" },
+    "sourceID": "24-kg-en",
+    "country": "Kyrgyzstan",
+    "countryCode": "KG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd53c" },
+    "sourceID": "38north",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd53d" },
+    "sourceID": "4-traders",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd53e" },
+    "sourceID": "680news",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd53f" },
+    "sourceID": "7days",
+    "country": "United Arab Emirates",
+    "countryCode": "AE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd540" },
+    "sourceID": "7online",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd541" },
+    "sourceID": "9news",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd542" },
+    "sourceID": "972mag",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd543" },
+    "sourceID": "ABCnews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd544" },
+    "sourceID": "abstvradio",
+    "country": "Antigua and Barbuda",
+    "countryCode": "AG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd545" },
+    "sourceID": "abs-cbnnews",
+    "country": "Philippines",
+    "countryCode": "PH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd546" },
+    "sourceID": "acdp",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd547" },
+    "sourceID": "afp-english",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd548" },
+    "sourceID": "agris-fao",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd549" },
+    "sourceID": "moldpres-en",
+    "country": "Moldova",
+    "countryCode": "MD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd54a" },
+    "sourceID": "ait",
+    "country": "Austria",
+    "countryCode": "AT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd54b" },
+    "sourceID": "ajw",
+    "country": "Japan",
+    "countryCode": "JP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd54c" },
+    "sourceID": "ansamed",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd54d" },
+    "sourceID": "arka-am-en",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd54e" },
+    "sourceID": "arushatimes",
+    "country": "Tanzania",
+    "countryCode": "TZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd54f" },
+    "sourceID": "africaintelligence",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd550" },
+    "sourceID": "africareview",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd551" },
+    "sourceID": "africanbrains",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd552" },
+    "sourceID": "africanbusinessmagazine",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd553" },
+    "sourceID": "africanmining",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd554" },
+    "sourceID": "apanews-en",
+    "country": "Senegal",
+    "countryCode": "SN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd555" },
+    "sourceID": "africanreview",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd556" },
+    "sourceID": "akp-en",
+    "country": "Cambodia",
+    "countryCode": "KH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd557" },
+    "sourceID": "aib",
+    "country": "Burkina Faso",
+    "countryCode": "BF"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd558" },
+    "sourceID": "efe",
+    "country": "Spain",
+    "countryCode": "ES"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd559" },
+    "sourceID": "agentura",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd55a" },
+    "sourceID": "atwonline",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd55b" },
+    "sourceID": "airforcetechnology",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd55c" },
+    "sourceID": "almanar-en",
+    "country": "Lebanon",
+    "countryCode": "LB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd55d" },
+    "sourceID": "ahram-EN",
+    "country": "Egypt",
+    "countryCode": "EG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd55e" },
+    "sourceID": "ahram-hebdo",
+    "country": "Egypt",
+    "countryCode": "EG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd55f" },
+    "sourceID": "ahram-weekly",
+    "country": "Egypt",
+    "countryCode": "EG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd560" },
+    "sourceID": "albasrah-en",
+    "country": "Iraq",
+    "countryCode": "IQ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd561" },
+    "sourceID": "albawaba-en",
+    "country": "Jordan",
+    "countryCode": "JO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd562" },
+    "sourceID": "aljazeera-en",
+    "country": "Qatar",
+    "countryCode": "QA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd563" },
+    "sourceID": "allafrica",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd564" },
+    "sourceID": "allghananews",
+    "country": "Ghana",
+    "countryCode": "GH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd565" },
+    "sourceID": "alternet",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd566" },
+    "sourceID": "amandala",
+    "country": "Belize",
+    "countryCode": "BZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd567" },
+    "sourceID": "ambergristoday",
+    "country": "Belize",
+    "countryCode": "BZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd568" },
+    "sourceID": "eurasiareview",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd569" },
+    "sourceID": "amren",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd56a" },
+    "sourceID": "americasmexico",
+    "country": "Mexico",
+    "countryCode": "MX"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd56b" },
+    "sourceID": "as-coa",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd56c" },
+    "sourceID": "ammonnews-en",
+    "country": "Jordan",
+    "countryCode": "JO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd56d" },
+    "sourceID": "amnesty",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd56e" },
+    "sourceID": "aa-en",
+    "country": "Turkey",
+    "countryCode": "TR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd56f" },
+    "sourceID": "angola",
+    "country": "Angola",
+    "countryCode": "AO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd570" },
+    "sourceID": "antiguaobserver",
+    "country": "Antigua and Barbuda",
+    "countryCode": "AG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd571" },
+    "sourceID": "arabtimes",
+    "country": "Kuwait",
+    "countryCode": "KW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd572" },
+    "sourceID": "arabnews",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd573" },
+    "sourceID": "armenianow",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd574" },
+    "sourceID": "minenergy",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd575" },
+    "sourceID": "ArmInfoPolitics-en",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd576" },
+    "sourceID": "armenpress",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd577" },
+    "sourceID": "armscontrol",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd578" },
+    "sourceID": "armscontrolwonk",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd579" },
+    "sourceID": "armytechnology",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd57a" },
+    "sourceID": "artmatters",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd57b" },
+    "sourceID": "asahi",
+    "country": "Japan",
+    "countryCode": "JP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd57c" },
+    "sourceID": "asbarez",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd57d" },
+    "sourceID": "aawsat",
+    "country": "Lebanon",
+    "countryCode": "LB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd57e" },
+    "sourceID": "asianewsnet",
+    "country": "Thailand",
+    "countryCode": "TH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd57f" },
+    "sourceID": "AsiaOne",
+    "country": "Singapore",
+    "countryCode": "SG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd580" },
+    "sourceID": "asiatimes",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd581" },
+    "sourceID": "asianews-en",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd582" },
+    "sourceID": "asiantribune",
+    "country": "Thailand",
+    "countryCode": "TH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd583" },
+    "sourceID": "askanisenegambia",
+    "country": "Gambia",
+    "countryCode": "GM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd584" },
+    "sourceID": "AP",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd585" },
+    "sourceID": "app-en",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd586" },
+    "sourceID": "AthensNews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd587" },
+    "sourceID": "ajc",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd588" },
+    "sourceID": "australianetworknews",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd589" },
+    "sourceID": "abc-au",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd58a" },
+    "sourceID": "aviationweek",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd58b" },
+    "sourceID": "azernews",
+    "country": "Azerbaijan",
+    "countryCode": "AZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd58c" },
+    "sourceID": "bbc",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd58d" },
+    "sourceID": "bbc-radio4-1800",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd58e" },
+    "sourceID": "gisbarbados",
+    "country": "Barbados",
+    "countryCode": "BB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd58f" },
+    "sourceID": "bnonews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd590" },
+    "sourceID": "BulgariaTelegraph-en",
+    "country": "Bulgaria",
+    "countryCode": "BG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd591" },
+    "sourceID": "bahamas-gov",
+    "country": "Bahamas",
+    "countryCode": "BS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd592" },
+    "sourceID": "bna-en",
+    "country": "Bahrain",
+    "countryCode": "BH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd593" },
+    "sourceID": "baikal-daily",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd594" },
+    "sourceID": "BakhtarNewsAgency-en",
+    "country": "Afghanistan",
+    "countryCode": "AF"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd595" },
+    "sourceID": "balkaninsight",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd596" },
+    "sourceID": "baltic-course",
+    "country": "Latvia",
+    "countryCode": "LV"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd597" },
+    "sourceID": "BalticTimes",
+    "country": "Latvia",
+    "countryCode": "LV"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd598" },
+    "sourceID": "baltictransportjournal",
+    "country": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd599" },
+    "sourceID": "BangkokPost",
+    "country": "Thailand",
+    "countryCode": "TH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd59a" },
+    "sourceID": "bdnews24",
+    "country": "Bangladesh",
+    "countryCode": "BD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd59b" },
+    "sourceID": "euromoney",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd59c" },
+    "sourceID": "barrons",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd59d" },
+    "sourceID": "bay",
+    "country": "Malta",
+    "countryCode": "MT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd59e" },
+    "sourceID": "beat102103",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd59f" },
+    "sourceID": "beijingreview-en",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5a0" },
+    "sourceID": "belarustoday-en",
+    "country": "Belarus",
+    "countryCode": "BY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5a1" },
+    "sourceID": "belfasttelegraph",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5a2" },
+    "sourceID": "bernama",
+    "country": "Malaysia",
+    "countryCode": "MY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5a3" },
+    "sourceID": "betanews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5a4" },
+    "sourceID": "betterdiamondinitiative",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5a5" },
+    "sourceID": "biofuelsjournal",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5a6" },
+    "sourceID": "bio",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5a7" },
+    "sourceID": "blic-en",
+    "country": "Serbia",
+    "countryCode": "RS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5a8" },
+    "sourceID": "weeklyblitz",
+    "country": "Bangladesh",
+    "countryCode": "BD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5a9" },
+    "sourceID": "bloomberg",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5aa" },
+    "sourceID": "bosnia",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ab" },
+    "sourceID": "boston",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ac" },
+    "sourceID": "bostonglobe",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ad" },
+    "sourceID": "bostonhaitian",
+    "country": "Haiti",
+    "countryCode": "HT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ae" },
+    "sourceID": "bostonherald",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5af" },
+    "sourceID": "botswanadiamonds",
+    "country": "Cameroon",
+    "countryCode": "CM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5b0" },
+    "sourceID": "botswanaguardian",
+    "country": "Botswana",
+    "countryCode": "BW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5b1" },
+    "sourceID": "breakingnews-ie",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5b2" },
+    "sourceID": "brookings",
+    "country": "Colombia",
+    "countryCode": "CO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5b3" },
+    "sourceID": "BBJ",
+    "country": "Hungary",
+    "countryCode": "HU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5b4" },
+    "sourceID": "budapestsun",
+    "country": "Hungary",
+    "countryCode": "HU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5b5" },
+    "sourceID": "buenosairesherald",
+    "country": "Argentina",
+    "countryCode": "AR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5b6" },
+    "sourceID": "bulawayo24",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5b7" },
+    "sourceID": "business-humanrights",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5b8" },
+    "sourceID": "businessdailyafrica",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5b9" },
+    "sourceID": "businessday",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ba" },
+    "sourceID": "businessnews",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5bb" },
+    "sourceID": "polishmarket",
+    "country": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5bc" },
+    "sourceID": "zfenglish",
+    "country": "Romania",
+    "countryCode": "RO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5bd" },
+    "sourceID": "business-times",
+    "country": "Singapore",
+    "countryCode": "SG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5be" },
+    "sourceID": "bworldcom",
+    "country": "Philippines",
+    "countryCode": "PH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5bf" },
+    "sourceID": "baltimore-cbslocal",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5c0" },
+    "sourceID": "CBSnews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5c1" },
+    "sourceID": "cbsradio",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5c2" },
+    "sourceID": "tv6tnt",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5c3" },
+    "sourceID": "CERN",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5c4" },
+    "sourceID": "cipamericas",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5c5" },
+    "sourceID": "cna-en",
+    "country": "Cyprus",
+    "countryCode": "CY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5c6" },
+    "sourceID": "cnbc",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5c7" },
+    "sourceID": "cnet",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5c8" },
+    "sourceID": "cnn",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5c9" },
+    "sourceID": "money-cnn",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ca" },
+    "sourceID": "cpac",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5cb" },
+    "sourceID": "cpifinancial",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5cc" },
+    "sourceID": "chinabroadcast",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5cd" },
+    "sourceID": "ctntworld",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ce" },
+    "sourceID": "ctvnews",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5cf" },
+    "sourceID": "cafebabel",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5d0" },
+    "sourceID": "cameroonpostline",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5d1" },
+    "sourceID": "cameroonjournal",
+    "country": "Cameroon",
+    "countryCode": "CM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5d2" },
+    "sourceID": "cameroononline",
+    "country": "Cameroon",
+    "countryCode": "CM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5d3" },
+    "sourceID": "CBC",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5d4" },
+    "sourceID": "caboverde24",
+    "country": "Cape Verde",
+    "countryCode": "CV"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5d5" },
+    "sourceID": "capitalfm",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5d6" },
+    "sourceID": "care",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5d7" },
+    "sourceID": "caribantigua",
+    "country": "Antigua and Barbuda",
+    "countryCode": "AG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5d8" },
+    "sourceID": "caribbean360",
+    "country": "Barbados",
+    "countryCode": "BB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5d9" },
+    "sourceID": "cbc-bb",
+    "country": "Barbados",
+    "countryCode": "BB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5da" },
+    "sourceID": "carlow-nationalist",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5db" },
+    "sourceID": "carnegie-us-en",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5dc" },
+    "sourceID": "carnegieeurope",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5dd" },
+    "sourceID": "carnegie-ru-en",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5de" },
+    "sourceID": "caspionet",
+    "country": "Kazakhstan",
+    "countryCode": "KZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5df" },
+    "sourceID": "cato",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5e0" },
+    "sourceID": "kavkaz-uzel",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5e1" },
+    "sourceID": "caycompass",
+    "country": "Cayman Islands",
+    "countryCode": "KY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5e2" },
+    "sourceID": "americanprogress",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5e3" },
+    "sourceID": "nonproliferation",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5e4" },
+    "sourceID": "cbpp",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5e5" },
+    "sourceID": "cacianalyst",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5e6" },
+    "sourceID": "ca-news",
+    "country": "Kyrgyzstan",
+    "countryCode": "KG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5e7" },
+    "sourceID": "centreforaviation",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5e8" },
+    "sourceID": "channel4",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5e9" },
+    "sourceID": "channel5belize",
+    "country": "Belize",
+    "countryCode": "BZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ea" },
+    "sourceID": "7newsbelize",
+    "country": "Belize",
+    "countryCode": "BZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5eb" },
+    "sourceID": "channelafrica",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ec" },
+    "sourceID": "channelnewsasia",
+    "country": "Singapore",
+    "countryCode": "SG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ed" },
+    "sourceID": "chathamhouse",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ee" },
+    "sourceID": "suntimes",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ef" },
+    "sourceID": "chicagotribune",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5f0" },
+    "sourceID": "china.org.cn",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5f1" },
+    "sourceID": "china",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5f2" },
+    "sourceID": "chinadaily",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5f3" },
+    "sourceID": "eppgroup",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5f4" },
+    "sourceID": "cityam",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5f5" },
+    "sourceID": "civil-en",
+    "country": "Georgia",
+    "countryCode": "GE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5f6" },
+    "sourceID": "coastweek",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5f7" },
+    "sourceID": "colombiareports",
+    "country": "Colombia",
+    "countryCode": "CO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5f8" },
+    "sourceID": "colombopage",
+    "country": "Sri Lanka",
+    "countryCode": "LK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5f9" },
+    "sourceID": "commongroundnews-en",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5fa" },
+    "sourceID": "congressrentalnetwork",
+    "country": "Malta",
+    "countryCode": "MT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5fb" },
+    "sourceID": "constructionweekonline",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5fc" },
+    "sourceID": "contexte",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5fd" },
+    "sourceID": "copenhagenpost",
+    "country": "Denmark",
+    "countryCode": "DK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5fe" },
+    "sourceID": "96fm",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd5ff" },
+    "sourceID": "cornwallseawaynews",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd600" },
+    "sourceID": "consilium-europa",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd601" },
+    "sourceID": "foreignaffairs",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd602" },
+    "sourceID": "courier-journal",
+    "country": "CostaRica",
+    "countryCode": "CR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd603" },
+    "sourceID": "criticalthreats",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd604" },
+    "sourceID": "cronimet-mining",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd605" },
+    "sourceID": "currencynews",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd606" },
+    "sourceID": "cyprusexpat",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd607" },
+    "sourceID": "cyprus-mail",
+    "country": "Cyprus",
+    "countryCode": "CY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd608" },
+    "sourceID": "cyprusweekly",
+    "country": "Cyprus",
+    "countryCode": "CY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd609" },
+    "sourceID": "cyprustraveller",
+    "country": "Cyprus",
+    "countryCode": "CY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd60a" },
+    "sourceID": "kenyan-post",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd60b" },
+    "sourceID": "dg-comm-en",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd60c" },
+    "sourceID": "dg-comm-photos",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd60d" },
+    "sourceID": "dnaindia",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd60e" },
+    "sourceID": "DRNyheder-en",
+    "country": "Denmark",
+    "countryCode": "DK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd60f" },
+    "sourceID": "dailyfinance",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd610" },
+    "sourceID": "dailyindependentnig",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd611" },
+    "sourceID": "mailonsunday",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd612" },
+    "sourceID": "dailymail",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd613" },
+    "sourceID": "dailymaverick",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd614" },
+    "sourceID": "nation-ke",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd615" },
+    "sourceID": "energyworldmag",
+    "country": "Romania",
+    "countryCode": "RO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd616" },
+    "sourceID": "sundaymail",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd617" },
+    "sourceID": "dailytrust",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd618" },
+    "sourceID": "dailymirror",
+    "country": "Sri Lanka",
+    "countryCode": "LK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd619" },
+    "sourceID": "dailynews-co-zw",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd61a" },
+    "sourceID": "dailypost",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd61b" },
+    "sourceID": "dailystar-NG",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd61c" },
+    "sourceID": "dailytimes-NG",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd61d" },
+    "sourceID": "dalje-en",
+    "country": "Croatia",
+    "countryCode": "HR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd61e" },
+    "sourceID": "dallasnews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd61f" },
+    "sourceID": "dawn",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd620" },
+    "sourceID": "daytonmostmetro",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd621" },
+    "sourceID": "daytondailynews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd622" },
+    "sourceID": "dcist",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd623" },
+    "sourceID": "deccanherald",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd624" },
+    "sourceID": "dsalert",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd625" },
+    "sourceID": "defenseindustrydaily",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd626" },
+    "sourceID": "defensenews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd627" },
+    "sourceID": "da-za",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd628" },
+    "sourceID": "dvb",
+    "country": "Norway",
+    "countryCode": "NO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd629" },
+    "sourceID": "denverpost",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd62a" },
+    "sourceID": "freep",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd62b" },
+    "sourceID": "deutschewelle-en",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd62c" },
+    "sourceID": "digitaljournal",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd62d" },
+    "sourceID": "dipnote",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd62e" },
+    "sourceID": "diplomatie",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd62f" },
+    "sourceID": "djibnet",
+    "country": "Djibouti",
+    "countryCode": "DJ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd630" },
+    "sourceID": "djiboutination",
+    "country": "Djibouti",
+    "countryCode": "DJ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd631" },
+    "sourceID": "dodd-frank",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd632" },
+    "sourceID": "dominicantoday",
+    "country": "Domenican Republic",
+    "countryCode": "DO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd633" },
+    "sourceID": "donegaldemocrat",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd634" },
+    "sourceID": "dublinpeople",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd635" },
+    "sourceID": "dundalkdemocrat",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd636" },
+    "sourceID": "dundeeprecious",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd637" },
+    "sourceID": "dunmowbroadcast",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd638" },
+    "sourceID": "durhamregion",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd639" },
+    "sourceID": "dutchnews",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd63a" },
+    "sourceID": "eiti",
+    "country": "Norway",
+    "countryCode": "NO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd63b" },
+    "sourceID": "elpais-en",
+    "country": "Spain",
+    "countryCode": "ES"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd63c" },
+    "sourceID": "enea-en",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd63d" },
+    "sourceID": "err-en",
+    "country": "Estonia",
+    "countryCode": "EE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd63e" },
+    "sourceID": "esa",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd63f" },
+    "sourceID": "esrf",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd640" },
+    "sourceID": "ETUC",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd641" },
+    "sourceID": "eufundingtrends",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd642" },
+    "sourceID": "eureporter",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd643" },
+    "sourceID": "eubusiness",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd644" },
+    "sourceID": "eurweb",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd645" },
+    "sourceID": "eyewitness-news",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd646" },
+    "sourceID": "earthquake-report",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd647" },
+    "sourceID": "eadt",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd648" },
+    "sourceID": "edmontonjournal",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd649" },
+    "sourceID": "egyptindependent",
+    "country": "Egypt",
+    "countryCode": "EG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd64a" },
+    "sourceID": "sis",
+    "country": "Egypt",
+    "countryCode": "EG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd64b" },
+    "sourceID": "ekantipur",
+    "country": "Nepal",
+    "countryCode": "NP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd64c" },
+    "sourceID": "elpasotimes",
+    "country": "Mexico",
+    "countryCode": "MX"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd64d" },
+    "sourceID": "elections",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd64e" },
+    "sourceID": "eoj",
+    "country": "Jamaica",
+    "countryCode": "JM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd64f" },
+    "sourceID": "emigrate",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd650" },
+    "sourceID": "emirates247",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd651" },
+    "sourceID": "Belta_en",
+    "country": "Belarus",
+    "countryCode": "BY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd652" },
+    "sourceID": "english-news-mn",
+    "country": "Mongolia",
+    "countryCode": "MN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd653" },
+    "sourceID": "eritreadaily",
+    "country": "Eritrea",
+    "countryCode": "ER"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd654" },
+    "sourceID": "shabait",
+    "country": "Eritrea",
+    "countryCode": "ER"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd655" },
+    "sourceID": "esenbogaairport-en",
+    "country": "Turkey",
+    "countryCode": "TR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd656" },
+    "sourceID": "vm-ee",
+    "country": "Estonia",
+    "countryCode": "EE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd657" },
+    "sourceID": "ethioipianreview",
+    "country": "Ethiopia",
+    "countryCode": "ET"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd658" },
+    "sourceID": "euractiv-en",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd659" },
+    "sourceID": "eurasianet",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd65a" },
+    "sourceID": "euronews-en",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd65b" },
+    "sourceID": "euroalert",
+    "country": "Spain",
+    "countryCode": "ES"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd65c" },
+    "sourceID": "europa-pressReleases",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd65d" },
+    "sourceID": "europesworld",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd65e" },
+    "sourceID": "easo",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd65f" },
+    "sourceID": "epc",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd660" },
+    "sourceID": "europeanrailwayreview",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd661" },
+    "sourceID": "Cor-EN",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd662" },
+    "sourceID": "euobserver",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd663" },
+    "sourceID": "europol",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd664" },
+    "sourceID": "eecho",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd665" },
+    "sourceID": "emansion",
+    "country": "Liberia",
+    "countryCode": "LR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd666" },
+    "sourceID": "expatica",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd667" },
+    "sourceID": "express",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd668" },
+    "sourceID": "expressindia",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd669" },
+    "sourceID": "expressodasilhas",
+    "country": "Cape Verde",
+    "countryCode": "CV"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd66a" },
+    "sourceID": "gov-uk",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd66b" },
+    "sourceID": "foxbusiness",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd66c" },
+    "sourceID": "foxnews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd66d" },
+    "sourceID": "fairwarning",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd66e" },
+    "sourceID": "falklandnews",
+    "country": "Falkland Islands",
+    "countryCode": "FK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd66f" },
+    "sourceID": "famagusta-gazette",
+    "country": "Cyprus",
+    "countryCode": "CY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd670" },
+    "sourceID": "fwi",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd671" },
+    "sourceID": "farminglife",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd672" },
+    "sourceID": "farsnews-en",
+    "country": "Iran",
+    "countryCode": "IR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd673" },
+    "sourceID": "fergananews-en",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd674" },
+    "sourceID": "finance-commerce",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd675" },
+    "sourceID": "FinancialMirror",
+    "country": "Cyprus",
+    "countryCode": "CY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd676" },
+    "sourceID": "efinancialnews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd677" },
+    "sourceID": "ft",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd678" },
+    "sourceID": "finanznachrichten-en",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd679" },
+    "sourceID": "FIS",
+    "country": "Japan",
+    "countryCode": "JP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd67a" },
+    "sourceID": "intrafish",
+    "country": "Norway",
+    "countryCode": "NO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd67b" },
+    "sourceID": "focustaiwan",
+    "country": "Taiwan",
+    "countryCode": "TW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd67c" },
+    "sourceID": "focus-news-en",
+    "country": "Bulgaria",
+    "countryCode": "BG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd67d" },
+    "sourceID": "fao-en",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd67e" },
+    "sourceID": "foroyaa",
+    "country": "Gambia",
+    "countryCode": "GM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd67f" },
+    "sourceID": "foss",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd680" },
+    "sourceID": "france24-en",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd681" },
+    "sourceID": "fraunhofer",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd682" },
+    "sourceID": "fremonttribune",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd683" },
+    "sourceID": "friedlnews",
+    "country": "Austria",
+    "countryCode": "AT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd684" },
+    "sourceID": "pnc",
+    "country": "Guam",
+    "countryCode": "GU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd685" },
+    "sourceID": "frontpagemag",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd686" },
+    "sourceID": "frontex",
+    "country": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd687" },
+    "sourceID": "fukuoka-now",
+    "country": "Japan",
+    "countryCode": "JP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd688" },
+    "sourceID": "giews",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd689" },
+    "sourceID": "gizmodo-in",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd68a" },
+    "sourceID": "gmanews",
+    "country": "Philippines",
+    "countryCode": "PH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd68b" },
+    "sourceID": "gue-ngl",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd68c" },
+    "sourceID": "gabonews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd68d" },
+    "sourceID": "gabzfm",
+    "country": "Botswana",
+    "countryCode": "BW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd68e" },
+    "sourceID": "gambianewsonline",
+    "country": "Gambia",
+    "countryCode": "GM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd68f" },
+    "sourceID": "garda",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd690" },
+    "sourceID": "garoweonline",
+    "country": "Somalia",
+    "countryCode": "SO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd691" },
+    "sourceID": "geo-tv",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd692" },
+    "sourceID": "geopromining",
+    "country": "Cyprus",
+    "countryCode": "CY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd693" },
+    "sourceID": "georgiatoday",
+    "country": "Georgia",
+    "countryCode": "GE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd694" },
+    "sourceID": "geworld-en",
+    "country": "Georgia",
+    "countryCode": "GE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd695" },
+    "sourceID": "news-tj-en",
+    "country": "Tajikistan",
+    "countryCode": "TJ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd696" },
+    "sourceID": "ghanaweb",
+    "country": "Ghana",
+    "countryCode": "GH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd697" },
+    "sourceID": "gizmodo",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd698" },
+    "sourceID": "globalissues",
+    "country": "Haiti",
+    "countryCode": "HT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd699" },
+    "sourceID": "globalresearch",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd69a" },
+    "sourceID": "globalsecurity",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd69b" },
+    "sourceID": "globalpost",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd69c" },
+    "sourceID": "gorkhapatra",
+    "country": "Nepal",
+    "countryCode": "NP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd69d" },
+    "sourceID": "gina",
+    "country": "Guyana",
+    "countryCode": "GY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd69e" },
+    "sourceID": "gc",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd69f" },
+    "sourceID": "ghana-gov",
+    "country": "Ghana",
+    "countryCode": "GH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6a0" },
+    "sourceID": "ontario",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6a1" },
+    "sourceID": "gov-pe-ca",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6a2" },
+    "sourceID": "gov-za",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6a3" },
+    "sourceID": "gozonews",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6a4" },
+    "sourceID": "greatlakesvoice",
+    "country": "Ruanda",
+    "countryCode": "RW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6a5" },
+    "sourceID": "greenpeace",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6a6" },
+    "sourceID": "GulfDailyNews",
+    "country": "Bahrain",
+    "countryCode": "BH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6a7" },
+    "sourceID": "gulf-times",
+    "country": "Qatar",
+    "countryCode": "QA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6a8" },
+    "sourceID": "gulfnews",
+    "country": "United Arab Emirates",
+    "countryCode": "AE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6a9" },
+    "sourceID": "gurtong",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6aa" },
+    "sourceID": "gecom",
+    "country": "Guyana",
+    "countryCode": "GY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ab" },
+    "sourceID": "guyanachronicle",
+    "country": "Guyana",
+    "countryCode": "GY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ac" },
+    "sourceID": "hic-en",
+    "country": "Croatia",
+    "countryCode": "HR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ad" },
+    "sourceID": "haaretz",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ae" },
+    "sourceID": "haitian-truth",
+    "country": "Haiti",
+    "countryCode": "HT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6af" },
+    "sourceID": "harboroughmail",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6b0" },
+    "sourceID": "havanatimes",
+    "country": "Cuba",
+    "countryCode": "CU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6b1" },
+    "sourceID": "htsstlucia",
+    "country": "St. Lucia",
+    "countryCode": "LC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6b2" },
+    "sourceID": "mfa-en",
+    "country": "Greece",
+    "countryCode": "GR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6b3" },
+    "sourceID": "hellenicshippingnews",
+    "country": "Greece",
+    "countryCode": "GR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6b4" },
+    "sourceID": "herald-ie",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6b5" },
+    "sourceID": "heraldargus",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6b6" },
+    "sourceID": "heritage",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6b7" },
+    "sourceID": "crisisgroup",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6b8" },
+    "sourceID": "hiawathaworldonline",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6b9" },
+    "sourceID": "highlandradio",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ba" },
+    "sourceID": "HindustanTimes",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6bb" },
+    "sourceID": "historynewsnetwork",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6bc" },
+    "sourceID": "trust2",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6bd" },
+    "sourceID": "homelandsecuritynewswire",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6be" },
+    "sourceID": "thestandard-hk",
+    "country": "Hong Kong",
+    "countryCode": "HK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6bf" },
+    "sourceID": "horizonweekly",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6c0" },
+    "sourceID": "hotnews-en",
+    "country": "Romania",
+    "countryCode": "RO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6c1" },
+    "sourceID": "HumanRightsWatch",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6c2" },
+    "sourceID": "echo",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6c3" },
+    "sourceID": "home-affairs",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6c4" },
+    "sourceID": "humanitarianresponse",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6c5" },
+    "sourceID": "hurriyetdailynews",
+    "country": "Turkey",
+    "countryCode": "TR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6c6" },
+    "sourceID": "iaea",
+    "country": "Austria",
+    "countryCode": "AT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6c7" },
+    "sourceID": "ibtimes-au",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6c8" },
+    "sourceID": "ibtimes-uk",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6c9" },
+    "sourceID": "ibtimes",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ca" },
+    "sourceID": "ibtimes-in",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6cb" },
+    "sourceID": "ifex",
+    "country": "Tunisia",
+    "countryCode": "TN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6cc" },
+    "sourceID": "ill",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6cd" },
+    "sourceID": "inta",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ce" },
+    "sourceID": "ipisresearch",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6cf" },
+    "sourceID": "ippmedia-en",
+    "country": "Tanzania",
+    "countryCode": "TZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6d0" },
+    "sourceID": "ipsnews",
+    "country": "Algeria",
+    "countryCode": "DZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6d1" },
+    "sourceID": "irna",
+    "country": "Iran",
+    "countryCode": "IR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6d2" },
+    "sourceID": "isis-online",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6d3" },
+    "sourceID": "ISN",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6d4" },
+    "sourceID": "terrorism-info",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6d5" },
+    "sourceID": "itv",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6d6" },
+    "sourceID": "icenews",
+    "country": "Iceland",
+    "countryCode": "IS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6d7" },
+    "sourceID": "in2eastafrica",
+    "country": "Tanzania",
+    "countryCode": "TZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6d8" },
+    "sourceID": "in-cyprus",
+    "country": "Cyprus",
+    "countryCode": "CY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6d9" },
+    "sourceID": "indahnesia",
+    "country": "Indonesia",
+    "countryCode": "ID"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6da" },
+    "sourceID": "irn",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6db" },
+    "sourceID": "indiantelevision",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6dc" },
+    "sourceID": "infomine",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6dd" },
+    "sourceID": "Infopak-en",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6de" },
+    "sourceID": "ifp",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6df" },
+    "sourceID": "inmarsat",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6e0" },
+    "sourceID": "inseconline",
+    "country": "Nepal",
+    "countryCode": "NP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6e1" },
+    "sourceID": "insidepalestine",
+    "country": "Palestine",
+    "countryCode": "PS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6e2" },
+    "sourceID": "insightcrime",
+    "country": "Colombia",
+    "countryCode": "CO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6e3" },
+    "sourceID": "issafrica",
+    "country": "Algeria",
+    "countryCode": "DZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6e4" },
+    "sourceID": "iwpr",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6e5" },
+    "sourceID": "imr-en",
+    "country": "Norway",
+    "countryCode": "NO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6e6" },
+    "sourceID": "il-rs",
+    "country": "Brazil",
+    "countryCode": "BR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6e7" },
+    "sourceID": "iam-magazine",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6e8" },
+    "sourceID": "igad",
+    "country": "Algeria",
+    "countryCode": "DZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6e9" },
+    "sourceID": "interfax-ua-en",
+    "country": "Ukraine",
+    "countryCode": "UA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ea" },
+    "sourceID": "international-alert",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6eb" },
+    "sourceID": "icmc",
+    "country": "Swaziland",
+    "countryCode": "SZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ec" },
+    "sourceID": "icao-en",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ed" },
+    "sourceID": "redCross",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ee" },
+    "sourceID": "icij",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ef" },
+    "sourceID": "icj-cij",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6f0" },
+    "sourceID": "nytimes",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6f1" },
+    "sourceID": "idea",
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6f2" },
+    "sourceID": "ict",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6f3" },
+    "sourceID": "imf",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6f4" },
+    "sourceID": "iom",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6f5" },
+    "sourceID": "iom-fr",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6f6" },
+    "sourceID": "iom-es",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6f7" },
+    "sourceID": "internews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6f8" },
+    "sourceID": "interpol",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6f9" },
+    "sourceID": "investineu",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6fa" },
+    "sourceID": "investingnews",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6fb" },
+    "sourceID": "investors",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6fc" },
+    "sourceID": "iranvajahan",
+    "country": "Iran",
+    "countryCode": "IR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6fd" },
+    "sourceID": "iran-daily",
+    "country": "Iran",
+    "countryCode": "IR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6fe" },
+    "sourceID": "irishecho",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd6ff" },
+    "sourceID": "irishexaminer",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd700" },
+    "sourceID": "farmersjournal",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd701" },
+    "sourceID": "independent-ie",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd702" },
+    "sourceID": "independent-ie-regional",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd703" },
+    "sourceID": "irishsun",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd704" },
+    "sourceID": "irishabroad",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd705" },
+    "sourceID": "israelnationalnews",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd706" },
+    "sourceID": "israelidiamond",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd707" },
+    "sourceID": "istoe",
+    "country": "Brazil",
+    "countryCode": "BR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd708" },
+    "sourceID": "itartass_en",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd709" },
+    "sourceID": "iwacu-burundi-en",
+    "country": "Burundi",
+    "countryCode": "BI"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd70a" },
+    "sourceID": "jckonline",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd70b" },
+    "sourceID": "jis",
+    "country": "Jamaica",
+    "countryCode": "JM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd70c" },
+    "sourceID": "jsonline",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd70d" },
+    "sourceID": "jamaicans",
+    "country": "Jamaica",
+    "countryCode": "JM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd70e" },
+    "sourceID": "jamaica-gleaner",
+    "country": "Jamaica",
+    "countryCode": "JM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd70f" },
+    "sourceID": "jamaica-star",
+    "country": "Jamaica",
+    "countryCode": "JM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd710" },
+    "sourceID": "jamaicaobserver",
+    "country": "Jamaica",
+    "countryCode": "JM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd711" },
+    "sourceID": "janes",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd712" },
+    "sourceID": "japantimes",
+    "country": "Japan",
+    "countryCode": "JP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd713" },
+    "sourceID": "japantoday",
+    "country": "Japan",
+    "countryCode": "JP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd714" },
+    "sourceID": "japanupdate",
+    "country": "Japan",
+    "countryCode": "JP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd715" },
+    "sourceID": "jeberti",
+    "country": "Eritrea",
+    "countryCode": "ER"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd716" },
+    "sourceID": "jollofnews",
+    "country": "Gambia",
+    "countryCode": "GM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd717" },
+    "sourceID": "joongangdaily",
+    "country": "South Korea",
+    "countryCode": "KR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd718" },
+    "sourceID": "journalstar",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd719" },
+    "sourceID": "jcea",
+    "country": "Croatia",
+    "countryCode": "HR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd71a" },
+    "sourceID": "joc",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd71b" },
+    "sourceID": "justiceinmexico",
+    "country": "Mexico",
+    "countryCode": "MX"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd71c" },
+    "sourceID": "kbs-en",
+    "country": "South Korea",
+    "countryCode": "KR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd71d" },
+    "sourceID": "kclr96fm",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd71e" },
+    "sourceID": "kimt",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd71f" },
+    "sourceID": "kit",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd720" },
+    "sourceID": "kuam",
+    "country": "Guam",
+    "countryCode": "GU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd721" },
+    "sourceID": "kaieteurnewsonline",
+    "country": "Guyana",
+    "countryCode": "GY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd722" },
+    "sourceID": "kansascity",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd723" },
+    "sourceID": "kavkazcenter",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd724" },
+    "sourceID": "kenyalondonnews",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd725" },
+    "sourceID": "kenyastar",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd726" },
+    "sourceID": "kenya-today",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd727" },
+    "sourceID": "khovar-en",
+    "country": "Tajikistan",
+    "countryCode": "TJ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd728" },
+    "sourceID": "kilkennypeople",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd729" },
+    "sourceID": "korea-net-en",
+    "country": "South Korea",
+    "countryCode": "KR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd72a" },
+    "sourceID": "KosovaLive",
+    "country": "Serbia",
+    "countryCode": "RS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd72b" },
+    "sourceID": "krakowpost",
+    "country": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd72c" },
+    "sourceID": "kremlin-en",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd72d" },
+    "sourceID": "kuenselonline",
+    "country": "Bhutan",
+    "countryCode": "BT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd72e" },
+    "sourceID": "ekurd",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd72f" },
+    "sourceID": "kuwaittimes",
+    "country": "Kuwait",
+    "countryCode": "KW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd730" },
+    "sourceID": "kyivpost",
+    "country": "Ukraine",
+    "countryCode": "UA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd731" },
+    "sourceID": "kyodonews",
+    "country": "Japan",
+    "countryCode": "JP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd732" },
+    "sourceID": "humaniteinenglish",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd733" },
+    "sourceID": "lacrossetribune",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd734" },
+    "sourceID": "lagazzettadelmezzogiorno-en",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd735" },
+    "sourceID": "lastradainternational",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd736" },
+    "sourceID": "lanoticia1",
+    "country": "Argentina",
+    "countryCode": "AR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd737" },
+    "sourceID": "lankaenews",
+    "country": "Sri Lanka",
+    "countryCode": "LK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd738" },
+    "sourceID": "lcsun-news",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd739" },
+    "sourceID": "latinamericacurrentevents",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd73a" },
+    "sourceID": "latinamericamonitor",
+    "country": "Panama",
+    "countryCode": "PA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd73b" },
+    "sourceID": "laht",
+    "country": "Venezuela",
+    "countryCode": "VE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd73c" },
+    "sourceID": "legriot",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd73d" },
+    "sourceID": "lemauricien",
+    "country": "Mauritius",
+    "countryCode": "MU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd73e" },
+    "sourceID": "mondediplo",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd73f" },
+    "sourceID": "leadership",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd740" },
+    "sourceID": "lebanonews",
+    "country": "Lebanon",
+    "countryCode": "LB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd741" },
+    "sourceID": "leibniz-gemeinschaft",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd742" },
+    "sourceID": "leinsterleader",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd743" },
+    "sourceID": "leitrimobserver",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd744" },
+    "sourceID": "lestimes",
+    "country": "Lesotho",
+    "countryCode": "LS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd745" },
+    "sourceID": "limerickleader",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd746" },
+    "sourceID": "live95fm",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd747" },
+    "sourceID": "lmfm",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd748" },
+    "sourceID": "standard",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd749" },
+    "sourceID": "longfordleader",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd74a" },
+    "sourceID": "latimes",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd74b" },
+    "sourceID": "lydianinternational",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd74c" },
+    "sourceID": "memri_home",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd74d" },
+    "sourceID": "mninews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd74e" },
+    "sourceID": "msn-uk",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd74f" },
+    "sourceID": "msnbc",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd750" },
+    "sourceID": "maannews-en",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd751" },
+    "sourceID": "maghrebinfo",
+    "country": "Morocco",
+    "countryCode": "MA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd752" },
+    "sourceID": "mg",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd753" },
+    "sourceID": "malaysiakini",
+    "country": "Malaysia",
+    "countryCode": "MY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd754" },
+    "sourceID": "maldivesindependent",
+    "country": "Maldives",
+    "countryCode": "MV"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd755" },
+    "sourceID": "MaltaToday",
+    "country": "Malta",
+    "countryCode": "MT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd756" },
+    "sourceID": "MaltaStar",
+    "country": "Malta",
+    "countryCode": "MT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd757" },
+    "sourceID": "maltamedia",
+    "country": "Malta",
+    "countryCode": "MT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd758" },
+    "sourceID": "timesofmalta",
+    "country": "Malta",
+    "countryCode": "MT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd759" },
+    "sourceID": "managingip",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd75a" },
+    "sourceID": "manicapost",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd75b" },
+    "sourceID": "marada",
+    "country": "Lebanon",
+    "countryCode": "LB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd75c" },
+    "sourceID": "maravipost",
+    "country": "Malawi",
+    "countryCode": "MW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd75d" },
+    "sourceID": "marianasvariety",
+    "country": "Nepal",
+    "countryCode": "NP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd75e" },
+    "sourceID": "marianasvariety-guam",
+    "country": "Guam",
+    "countryCode": "GU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd75f" },
+    "sourceID": "marinelink",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd760" },
+    "sourceID": "maritimetoday",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd761" },
+    "sourceID": "nigeriamasterweb",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd762" },
+    "sourceID": "max-planck-innovation",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd763" },
+    "sourceID": "meathchronicle",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd764" },
+    "sourceID": "mediamonitoringafrica",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd765" },
+    "sourceID": "mediafax-en",
+    "country": "Romania",
+    "countryCode": "RO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd766" },
+    "sourceID": "mediafrik",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd767" },
+    "sourceID": "mercopress",
+    "country": "Brazil",
+    "countryCode": "BR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd768" },
+    "sourceID": "messenger-inquirer",
+    "country": "Cayman Islands",
+    "countryCode": "KY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd769" },
+    "sourceID": "metro-uk",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd76a" },
+    "sourceID": "metroeireann",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd76b" },
+    "sourceID": "micanaltv",
+    "country": "Mexico",
+    "countryCode": "MX"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd76c" },
+    "sourceID": "mid-day",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd76d" },
+    "sourceID": "menewsline",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd76e" },
+    "sourceID": "middle-east-online_en",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd76f" },
+    "sourceID": "midlandtribune",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd770" },
+    "sourceID": "midlandsradio",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd771" },
+    "sourceID": "mwir",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd772" },
+    "sourceID": "milligazette",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd773" },
+    "sourceID": "mineweb",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd774" },
+    "sourceID": "mining",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd775" },
+    "sourceID": "me",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd776" },
+    "sourceID": "miningnews",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd777" },
+    "sourceID": "mining-technology",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd778" },
+    "sourceID": "miningweekly",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd779" },
+    "sourceID": "zdravlje-en",
+    "country": "Serbia",
+    "countryCode": "RS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd77a" },
+    "sourceID": "interno",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd77b" },
+    "sourceID": "esteri",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd77c" },
+    "sourceID": "security-gov-vc",
+    "country": "Saint Vincent and the Grenadines",
+    "countryCode": "VC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd77d" },
+    "sourceID": "minnesota-publicradio",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd77e" },
+    "sourceID": "misna-en",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd77f" },
+    "sourceID": "mizzima",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd780" },
+    "sourceID": "mmegi",
+    "country": "Botswana",
+    "countryCode": "BW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd781" },
+    "sourceID": "mo-en",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd782" },
+    "sourceID": "mondovisione",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd783" },
+    "sourceID": "moneyweek",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd784" },
+    "sourceID": "monstersandcritics",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd785" },
+    "sourceID": "montrealgazette",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd786" },
+    "sourceID": "monusco-en",
+    "country": "Republic Congo",
+    "countryCode": "CG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd787" },
+    "sourceID": "morningstar",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd788" },
+    "sourceID": "mumbaimirror",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd789" },
+    "sourceID": "muscatinejournal",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd78a" },
+    "sourceID": "myjoyonline",
+    "country": "Ghana",
+    "countryCode": "GH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd78b" },
+    "sourceID": "MSF-ca",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd78c" },
+    "sourceID": "MSF-ie",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd78d" },
+    "sourceID": "MSF-uk",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd78e" },
+    "sourceID": "MSF-USA",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd78f" },
+    "sourceID": "MSF-mediterranean-migration",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd790" },
+    "sourceID": "nbcsvg",
+    "country": "Saint Vincent and the Grenadines",
+    "countryCode": "VC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd791" },
+    "sourceID": "nbcnews",
+    "country": "Mexico",
+    "countryCode": "MX"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd792" },
+    "sourceID": "nerc",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd793" },
+    "sourceID": "news-am",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd794" },
+    "sourceID": "nna-en",
+    "country": "Lebanon",
+    "countryCode": "LB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd795" },
+    "sourceID": "npr",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd796" },
+    "sourceID": "nydailynews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd797" },
+    "sourceID": "nzherald",
+    "country": "New Zealand",
+    "countryCode": "NZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd798" },
+    "sourceID": "konj-en",
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd799" },
+    "sourceID": "law",
+    "country": "Belarus",
+    "countryCode": "BY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd79a" },
+    "sourceID": "nationalmirroronline",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd79b" },
+    "sourceID": "naturalgaseurope",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd79c" },
+    "sourceID": "resourcegovernance",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd79d" },
+    "sourceID": "navy_en",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd79e" },
+    "sourceID": "nepalnews",
+    "country": "Nepal",
+    "countryCode": "NP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd79f" },
+    "sourceID": "nce",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7a0" },
+    "sourceID": "neweconomics",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7a1" },
+    "sourceID": "newera",
+    "country": "Namibia",
+    "countryCode": "NA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7a2" },
+    "sourceID": "neurope",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7a3" },
+    "sourceID": "newstatesman",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7a4" },
+    "sourceID": "nst",
+    "country": "Malaysia",
+    "countryCode": "MY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7a5" },
+    "sourceID": "nypost",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7a6" },
+    "sourceID": "newzimbabwe",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7a7" },
+    "sourceID": "newscientist",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7a8" },
+    "sourceID": "newsletter",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7a9" },
+    "sourceID": "newstalkzb",
+    "country": "New Zealand",
+    "countryCode": "NZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7aa" },
+    "sourceID": "newswales",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ab" },
+    "sourceID": "newswatchngr",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ac" },
+    "sourceID": "newsfromafrica",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ad" },
+    "sourceID": "newsblogged",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ae" },
+    "sourceID": "newschannel5",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7af" },
+    "sourceID": "newsday",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7b0" },
+    "sourceID": "newsday-tt",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7b1" },
+    "sourceID": "newstalk",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7b2" },
+    "sourceID": "torrentfreak",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7b3" },
+    "sourceID": "mynewswatchtimesng",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7b4" },
+    "sourceID": "nigerianobservernews",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7b5" },
+    "sourceID": "nipponnews",
+    "country": "Japan",
+    "countryCode": "JP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7b6" },
+    "sourceID": "nordea",
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7b7" },
+    "sourceID": "noseweek",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7b8" },
+    "sourceID": "novascotia",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7b9" },
+    "sourceID": "novinite",
+    "country": "Bulgaria",
+    "countryCode": "BG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ba" },
+    "sourceID": "nowlebanon",
+    "country": "Lebanon",
+    "countryCode": "LB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7bb" },
+    "sourceID": "NuclearThreatInitiative",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7bc" },
+    "sourceID": "nyasatimes",
+    "country": "Malawi",
+    "countryCode": "MW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7bd" },
+    "sourceID": "unocha",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7be" },
+    "sourceID": "oecd-nea",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7bf" },
+    "sourceID": "oecdobserver",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7c0" },
+    "sourceID": "osce",
+    "country": "Austria",
+    "countryCode": "AT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7c1" },
+    "sourceID": "objectiv",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7c2" },
+    "sourceID": "oceanfm",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7c3" },
+    "sourceID": "offalyexpress",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7c4" },
+    "sourceID": "offalyindependent",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7c5" },
+    "sourceID": "offsite",
+    "country": "Cyprus",
+    "countryCode": "CY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7c6" },
+    "sourceID": "olufamous",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7c7" },
+    "sourceID": "omaha",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7c8" },
+    "sourceID": "oneworld",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7c9" },
+    "sourceID": "onlinenigeria",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ca" },
+    "sourceID": "opednews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7cb" },
+    "sourceID": "openeurope",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7cc" },
+    "sourceID": "diariolibre-en",
+    "country": "Domenican Republic",
+    "countryCode": "DO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7cd" },
+    "sourceID": "oratert-en",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ce" },
+    "sourceID": "oic-oci",
+    "country": "Palestine",
+    "countryCode": "PS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7cf" },
+    "sourceID": "ottawacitizen",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7d0" },
+    "sourceID": "timescolonist",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7d1" },
+    "sourceID": "ovationinternational",
+    "country": "Ghana",
+    "countryCode": "GH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7d2" },
+    "sourceID": "oxfordanalytica",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7d3" },
+    "sourceID": "oxfam",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7d4" },
+    "sourceID": "oxfam-es",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7d5" },
+    "sourceID": "pchrgaza",
+    "country": "Palestine",
+    "countryCode": "PS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7d6" },
+    "sourceID": "politico",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7d7" },
+    "sourceID": "politico-eu",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7d8" },
+    "sourceID": "pr-inside",
+    "country": "Austria",
+    "countryCode": "AT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7d9" },
+    "sourceID": "prnewswire",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7da" },
+    "sourceID": "ptvworldnews",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7db" },
+    "sourceID": "guampdn",
+    "country": "Guam",
+    "countryCode": "GU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7dc" },
+    "sourceID": "pina",
+    "country": "Fiji",
+    "countryCode": "FJ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7dd" },
+    "sourceID": "pidp",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7de" },
+    "sourceID": "pakobserver",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7df" },
+    "sourceID": "pakistantribune",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7e0" },
+    "sourceID": "wafa-en",
+    "country": "Palestine",
+    "countryCode": "PS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7e1" },
+    "sourceID": "palestinewater",
+    "country": "Palestine",
+    "countryCode": "PS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7e2" },
+    "sourceID": "zawya-palestine",
+    "country": "Palestine",
+    "countryCode": "PS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7e3" },
+    "sourceID": "pambazuka",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7e4" },
+    "sourceID": "paneuropeannetworks",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7e5" },
+    "sourceID": "panarmenian-en",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7e6" },
+    "sourceID": "panampost",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7e7" },
+    "sourceID": "panorama-am-en",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7e8" },
+    "sourceID": "peoplesreview",
+    "country": "Nepal",
+    "countryCode": "NP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7e9" },
+    "sourceID": "peopledaily",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ea" },
+    "sourceID": "peoplesdaily-online",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7eb" },
+    "sourceID": "periodico26",
+    "country": "Cuba",
+    "countryCode": "CU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ec" },
+    "sourceID": "pesarourbinonotizie",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ed" },
+    "sourceID": "petra-en",
+    "country": "Jordan",
+    "countryCode": "JO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ee" },
+    "sourceID": "phantis",
+    "country": "Greece",
+    "countryCode": "GR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ef" },
+    "sourceID": "phys",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7f0" },
+    "sourceID": "picusonline",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7f1" },
+    "sourceID": "post-gazette",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7f2" },
+    "sourceID": "planettonga",
+    "country": "Tonga",
+    "countryCode": "TO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7f3" },
+    "sourceID": "pap",
+    "country": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7f4" },
+    "sourceID": "pi-news-en",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7f5" },
+    "sourceID": "portafolio",
+    "country": "Colombia",
+    "countryCode": "CO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7f6" },
+    "sourceID": "portfolio-hu-en",
+    "country": "Hungary",
+    "countryCode": "HU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7f7" },
+    "sourceID": "praguemonitor",
+    "country": "Czech Republic",
+    "countryCode": "CZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7f8" },
+    "sourceID": "plenglish",
+    "country": "Cuba",
+    "countryCode": "CU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7f9" },
+    "sourceID": "privacyinternational",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7fa" },
+    "sourceID": "armradio",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7fb" },
+    "sourceID": "publictechnology",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7fc" },
+    "sourceID": "publishwhatyoupay",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7fd" },
+    "sourceID": "rian-en",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7fe" },
+    "sourceID": "ri-se",
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd7ff" },
+    "sourceID": "rnw",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd800" },
+    "sourceID": "RTERadio",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd801" },
+    "sourceID": "rttnews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd802" },
+    "sourceID": "radioaustralianews",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd803" },
+    "sourceID": "rcistlucia",
+    "country": "St. Lucia",
+    "countryCode": "LC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd804" },
+    "sourceID": "dabangasudan",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd805" },
+    "sourceID": "rfi-en",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd806" },
+    "sourceID": "rferl",
+    "country": "Czech Republic",
+    "countryCode": "CZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd807" },
+    "sourceID": "monumental",
+    "country": "CostaRica",
+    "countryCode": "CR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd808" },
+    "sourceID": "rnzi",
+    "country": "New Zealand",
+    "countryCode": "NZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd809" },
+    "sourceID": "radio-cz-en",
+    "country": "Czech Republic",
+    "countryCode": "CZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd80a" },
+    "sourceID": "rslonline",
+    "country": "St. Lucia",
+    "countryCode": "LC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd80b" },
+    "sourceID": "radiotamazuj",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd80c" },
+    "sourceID": "rtbnews",
+    "country": "Brunei",
+    "countryCode": "BN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd80d" },
+    "sourceID": "radioaustralia",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd80e" },
+    "sourceID": "railwaymagazine",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd80f" },
+    "sourceID": "forbes",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd810" },
+    "sourceID": "redpepper",
+    "country": "Uganda",
+    "countryCode": "UG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd811" },
+    "sourceID": "rediff",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd812" },
+    "sourceID": "refworld",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd813" },
+    "sourceID": "regiony-impuls",
+    "country": "Czech Republic",
+    "countryCode": "CZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd814" },
+    "sourceID": "reliefWeb",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd815" },
+    "sourceID": "repeatingislands",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd816" },
+    "sourceID": "omanobserver-om",
+    "country": "Oman",
+    "countryCode": "OM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd817" },
+    "sourceID": "reporter365",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd818" },
+    "sourceID": "republicofmining",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd819" },
+    "sourceID": "reuters",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd81a" },
+    "sourceID": "reuters-af",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd81b" },
+    "sourceID": "reuters-uk",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd81c" },
+    "sourceID": "reuters-in",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd81d" },
+    "sourceID": "roumanie-en",
+    "country": "Romania",
+    "countryCode": "RO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd81e" },
+    "sourceID": "rough-polished",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd81f" },
+    "sourceID": "routes-news",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd820" },
+    "sourceID": "rt",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd821" },
+    "sourceID": "rnanews",
+    "country": "Ruanda",
+    "countryCode": "RW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd822" },
+    "sourceID": "rtvs-en",
+    "country": "Slovakia",
+    "countryCode": "SK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd823" },
+    "sourceID": "Sana-en",
+    "country": "Syria",
+    "countryCode": "SY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd824" },
+    "sourceID": "sbs",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd825" },
+    "sourceID": "sebgroup",
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd826" },
+    "sourceID": "sef-en",
+    "country": "Portugal",
+    "countryCode": "PT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd827" },
+    "sourceID": "sintef",
+    "country": "Norway",
+    "countryCode": "NO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd828" },
+    "sourceID": "swradioafrica",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd829" },
+    "sourceID": "swedbank",
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd82a" },
+    "sourceID": "swzonline",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd82b" },
+    "sourceID": "sabanews-en",
+    "country": "Yemen",
+    "countryCode": "YE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd82c" },
+    "sourceID": "spsrasd-en",
+    "country": "West Sahara",
+    "countryCode": "EH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd82d" },
+    "sourceID": "samoanews",
+    "country": "Samoa",
+    "countryCode": "WS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd82e" },
+    "sourceID": "samoaobserver",
+    "country": "Northern Marianas",
+    "countryCode": "MP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd82f" },
+    "sourceID": "utsandiego",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd830" },
+    "sourceID": "sfgate",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd831" },
+    "sourceID": "satsentinel",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd832" },
+    "sourceID": "saudigazette",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd833" },
+    "sourceID": "savethechildren",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd834" },
+    "sourceID": "sciencemag",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd835" },
+    "sourceID": "sciencealert",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd836" },
+    "sourceID": "scidev",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd837" },
+    "sourceID": "scientificamerican",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd838" },
+    "sourceID": "heraldscotland",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd839" },
+    "sourceID": "seatrade-global",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd83a" },
+    "sourceID": "securityassistance",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd83b" },
+    "sourceID": "securitycouncilreport",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd83c" },
+    "sourceID": "securityfocus",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd83d" },
+    "sourceID": "justf",
+    "country": "Colombia",
+    "countryCode": "CO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd83e" },
+    "sourceID": "senegambianews",
+    "country": "Gambia",
+    "countryCode": "GM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd83f" },
+    "sourceID": "shabelle",
+    "country": "Somalia",
+    "countryCode": "SO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd840" },
+    "sourceID": "shannonside",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd841" },
+    "sourceID": "shippingtimes",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd842" },
+    "sourceID": "shippingwatch-en",
+    "country": "Denmark",
+    "countryCode": "DK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd843" },
+    "sourceID": "siliconrepublic",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd844" },
+    "sourceID": "siouxcityjournal",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd845" },
+    "sourceID": "sligoweekender",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd846" },
+    "sourceID": "socialistsanddemocrats",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd847" },
+    "sourceID": "sofiaecho",
+    "country": "Bulgaria",
+    "countryCode": "BG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd848" },
+    "sourceID": "sanews",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd849" },
+    "sourceID": "scmp",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd84a" },
+    "sourceID": "ssna",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd84b" },
+    "sourceID": "spiceislander",
+    "country": "Grenada",
+    "countryCode": "GD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd84c" },
+    "sourceID": "spiegel-en",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd84d" },
+    "sourceID": "sportfishingmag",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd84e" },
+    "sourceID": "ruvr-en",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd84f" },
+    "sourceID": "stluciastar",
+    "country": "St. Lucia",
+    "countryCode": "LC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd850" },
+    "sourceID": "urban-gov-vc",
+    "country": "Saint Vincent and the Grenadines",
+    "countryCode": "VC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd851" },
+    "sourceID": "searchlight",
+    "country": "Saint Vincent and the Grenadines",
+    "countryCode": "VC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd852" },
+    "sourceID": "sunstkitts",
+    "country": "Saint Kitts and Nevis",
+    "countryCode": "KN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd853" },
+    "sourceID": "stabroeknews",
+    "country": "Guyana",
+    "countryCode": "GY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd854" },
+    "sourceID": "standardmedia",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd855" },
+    "sourceID": "standardtimespress",
+    "country": "Sierra Leone",
+    "countryCode": "SL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd856" },
+    "sourceID": "startribune",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd857" },
+    "sourceID": "HonululuAdvertiser",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd858" },
+    "sourceID": "statehouse-sl",
+    "country": "Sierra Leone",
+    "countryCode": "SL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd859" },
+    "sourceID": "statehouse-ug",
+    "country": "Uganda",
+    "countryCode": "UG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd85a" },
+    "sourceID": "stimson",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd85b" },
+    "sourceID": "str",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd85c" },
+    "sourceID": "Stuff",
+    "country": "New Zealand",
+    "countryCode": "NZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd85d" },
+    "sourceID": "suna-sd-en",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd85e" },
+    "sourceID": "sudantribune",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd85f" },
+    "sourceID": "sudanvisiondaily",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd860" },
+    "sourceID": "smc",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd861" },
+    "sourceID": "sudanjem",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd862" },
+    "sourceID": "sunstar",
+    "country": "Philippines",
+    "countryCode": "PH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd863" },
+    "sourceID": "sunherald",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd864" },
+    "sourceID": "sundaystandard",
+    "country": "Botswana",
+    "countryCode": "BW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd865" },
+    "sourceID": "sundayworld",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd866" },
+    "sourceID": "sunraysiadaily",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd867" },
+    "sourceID": "survivalinternational",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd868" },
+    "sourceID": "swazilive",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd869" },
+    "sourceID": "sverigesradio-en",
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd86a" },
+    "sourceID": "admin",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd86b" },
+    "sourceID": "swissinfo",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd86c" },
+    "sourceID": "swissinfo-ar",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd86d" },
+    "sourceID": "tavhavalimanlari-en",
+    "country": "Turkey",
+    "countryCode": "TR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd86e" },
+    "sourceID": "talkcity91fm",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd86f" },
+    "sourceID": "tamilnet",
+    "country": "Sri Lanka",
+    "countryCode": "LK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd870" },
+    "sourceID": "tampabay",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd871" },
+    "sourceID": "www.tax-news",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd872" },
+    "sourceID": "teagasc",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd873" },
+    "sourceID": "techcrunch",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd874" },
+    "sourceID": "technologyreview",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd875" },
+    "sourceID": "tehrantimes",
+    "country": "Iran",
+    "countryCode": "IR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd876" },
+    "sourceID": "telegraphnepal",
+    "country": "Nepal",
+    "countryCode": "NP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd877" },
+    "sourceID": "teletica",
+    "country": "CostaRica",
+    "countryCode": "CR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd878" },
+    "sourceID": "televisionjamaica",
+    "country": "Jamaica",
+    "countryCode": "JM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd879" },
+    "sourceID": "thainews",
+    "country": "Thailand",
+    "countryCode": "TH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd87a" },
+    "sourceID": "thanetgazette",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd87b" },
+    "sourceID": "thanhniennews",
+    "country": "Viet Nam",
+    "countryCode": "VN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd87c" },
+    "sourceID": "phnompenhpost",
+    "country": "Cambodia",
+    "countryCode": "KH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd87d" },
+    "sourceID": "theafricareport",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd87e" },
+    "sourceID": "globaltimes",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd87f" },
+    "sourceID": "theafronews",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd880" },
+    "sourceID": "anglocelt",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd881" },
+    "sourceID": "anguillian",
+    "country": "Anguilla",
+    "countryCode": "AI"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd882" },
+    "sourceID": "anuakjustice",
+    "country": "Ethiopia",
+    "countryCode": "ET"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd883" },
+    "sourceID": "theargus",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd884" },
+    "sourceID": "azcentral",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd885" },
+    "sourceID": "theatlantic",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd886" },
+    "sourceID": "TheAustralian",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd887" },
+    "sourceID": "jonesbahamas",
+    "country": "Bahamas",
+    "countryCode": "BS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd888" },
+    "sourceID": "baltimoresun",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd889" },
+    "sourceID": "nationittefaq",
+    "country": "Bangladesh",
+    "countryCode": "BD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd88a" },
+    "sourceID": "barbadosadvocate",
+    "country": "Barbados",
+    "countryCode": "BB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd88b" },
+    "sourceID": "belizetimes",
+    "country": "Belize",
+    "countryCode": "BZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd88c" },
+    "sourceID": "bermudasun",
+    "country": "Bermuda",
+    "countryCode": "BM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd88d" },
+    "sourceID": "borglobe",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd88e" },
+    "sourceID": "broadstreetjournalbarbados",
+    "country": "Barbados",
+    "countryCode": "BB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd88f" },
+    "sourceID": "bt-bn",
+    "country": "Brunei",
+    "countryCode": "BN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd890" },
+    "sourceID": "budapesttimes",
+    "country": "Hungary",
+    "countryCode": "HU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd891" },
+    "sourceID": "buffalonews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd892" },
+    "sourceID": "thebulgarianpost",
+    "country": "Bulgaria",
+    "countryCode": "BG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd893" },
+    "sourceID": "riksbank",
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd894" },
+    "sourceID": "charlotteobserver",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd895" },
+    "sourceID": "ChinaPost",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd896" },
+    "sourceID": "chosun",
+    "country": "South Korea",
+    "countryCode": "KR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd897" },
+    "sourceID": "csmonitor",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd898" },
+    "sourceID": "cincinnati",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd899" },
+    "sourceID": "clarechampion",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd89a" },
+    "sourceID": "svensktnaringsliv-en",
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd89b" },
+    "sourceID": "con-telegraph",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd89c" },
+    "sourceID": "thecostaricanews",
+    "country": "CostaRica",
+    "countryCode": "CR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd89d" },
+    "sourceID": "thecourier",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd89e" },
+    "sourceID": "couriermail",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd89f" },
+    "sourceID": "businesspost-ie",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8a0" },
+    "sourceID": "dailycaller",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8a1" },
+    "sourceID": "thedaily-cz",
+    "country": "Czech Republic",
+    "countryCode": "CZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8a2" },
+    "sourceID": "thedailyherald",
+    "country": "Netherlands Antilles",
+    "countryCode": "AN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8a3" },
+    "sourceID": "observer-gm",
+    "country": "Gambia",
+    "countryCode": "GM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8a4" },
+    "sourceID": "dailystar-LB",
+    "country": "Lebanon",
+    "countryCode": "LB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8a5" },
+    "sourceID": "tribuneonline",
+    "country": "Philippines",
+    "countryCode": "PH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8a6" },
+    "sourceID": "derryjournal",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8a7" },
+    "sourceID": "desmoinesregister",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8a8" },
+    "sourceID": "ddiglobal",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8a9" },
+    "sourceID": "thedominican",
+    "country": "Domenican Republic",
+    "countryCode": "DO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8aa" },
+    "sourceID": "EastAfrican",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ab" },
+    "sourceID": "theecho",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ac" },
+    "sourceID": "economictimes",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ad" },
+    "sourceID": "economist",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ae" },
+    "sourceID": "tribune",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8af" },
+    "sourceID": "fijitimes",
+    "country": "Fiji",
+    "countryCode": "FJ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8b0" },
+    "sourceID": "financialexpress",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8b1" },
+    "sourceID": "financialgazette",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8b2" },
+    "sourceID": "fiia",
+    "country": "Finland",
+    "countryCode": "FI"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8b3" },
+    "sourceID": "fishing",
+    "country": "New Zealand",
+    "countryCode": "NZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8b4" },
+    "sourceID": "freeport",
+    "country": "Bahamas",
+    "countryCode": "BS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8b5" },
+    "sourceID": "TheFrontierPost-en",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8b6" },
+    "sourceID": "thegazette",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8b7" },
+    "sourceID": "geotimes",
+    "country": "Georgia",
+    "countryCode": "GE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8b8" },
+    "sourceID": "theglobeandmail",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8b9" },
+    "sourceID": "TheGovernmentOfBotswana",
+    "country": "Botswana",
+    "countryCode": "BW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ba" },
+    "sourceID": "green-efa-en",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8bb" },
+    "sourceID": "thegrio",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8bc" },
+    "sourceID": "ngrguardiannews",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8bd" },
+    "sourceID": "guardian-BZ",
+    "country": "Belize",
+    "countryCode": "BZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8be" },
+    "sourceID": "guardian",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8bf" },
+    "sourceID": "herald",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8c0" },
+    "sourceID": "thehimalayantimes",
+    "country": "Nepal",
+    "countryCode": "NP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8c1" },
+    "sourceID": "thehindu",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8c2" },
+    "sourceID": "Hindu",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8c3" },
+    "sourceID": "chron",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8c4" },
+    "sourceID": "theipkat",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8c5" },
+    "sourceID": "independent-UK",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8c6" },
+    "sourceID": "independent-UG",
+    "country": "Uganda",
+    "countryCode": "UG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8c7" },
+    "sourceID": "indystar",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8c8" },
+    "sourceID": "insiderzim",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8c9" },
+    "sourceID": "iiss",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ca" },
+    "sourceID": "irishtimes",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8cb" },
+    "sourceID": "theirishworld",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8cc" },
+    "sourceID": "irrawaddy",
+    "country": "Thailand",
+    "countryCode": "TH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8cd" },
+    "sourceID": "island",
+    "country": "Sri Lanka",
+    "countryCode": "LK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ce" },
+    "sourceID": "JakartaPost",
+    "country": "Indonesia",
+    "countryCode": "ID"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8cf" },
+    "sourceID": "jamestown",
+    "country": "Iraq",
+    "countryCode": "IQ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8d0" },
+    "sourceID": "thejakartaglobe",
+    "country": "Indonesia",
+    "countryCode": "ID"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8d1" },
+    "sourceID": "jpost",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8d2" },
+    "sourceID": "jordantimes",
+    "country": "Jordan",
+    "countryCode": "JO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8d3" },
+    "sourceID": "koreatimes",
+    "country": "South Korea",
+    "countryCode": "KR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8d4" },
+    "sourceID": "labourspokesman",
+    "country": "Saint Kitts and Nevis",
+    "countryCode": "KN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8d5" },
+    "sourceID": "theleader",
+    "country": "Spain",
+    "countryCode": "ES"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8d6" },
+    "sourceID": "finlandtimes",
+    "country": "Finland",
+    "countryCode": "FI"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8d7" },
+    "sourceID": "dailynews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8d8" },
+    "sourceID": "MaltaBusinessWeekly",
+    "country": "Malta",
+    "countryCode": "MT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8d9" },
+    "sourceID": "MaltaIndipendent",
+    "country": "Malta",
+    "countryCode": "MT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8da" },
+    "sourceID": "manilatimes",
+    "country": "Philippines",
+    "countryCode": "PH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8db" },
+    "sourceID": "MayoNews",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8dc" },
+    "sourceID": "miamiherald",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8dd" },
+    "sourceID": "mindanaoexaminer",
+    "country": "Philippines",
+    "countryCode": "PH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8de" },
+    "sourceID": "themirror",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8df" },
+    "sourceID": "themontserratreporter",
+    "country": "Monserrat",
+    "countryCode": "MS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8e0" },
+    "sourceID": "mnweekly",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8e1" },
+    "sourceID": "MoscowTimes",
+    "country": "Russia",
+    "countryCode": "RU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8e2" },
+    "sourceID": "mmtimes",
+    "country": "Myanmar",
+    "countryCode": "MM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8e3" },
+    "sourceID": "economist-na",
+    "country": "Namibia",
+    "countryCode": "NA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8e4" },
+    "sourceID": "namibian",
+    "country": "Namibia",
+    "countryCode": "NA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8e5" },
+    "sourceID": "thenassauguardian",
+    "country": "Bahamas",
+    "countryCode": "BS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8e6" },
+    "sourceID": "nation",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8e7" },
+    "sourceID": "thenation",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8e8" },
+    "sourceID": "nationnews",
+    "country": "Barbados",
+    "countryCode": "BB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8e9" },
+    "sourceID": "nationalist",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ea" },
+    "sourceID": "thenewage",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8eb" },
+    "sourceID": "newpolandexpress",
+    "country": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ec" },
+    "sourceID": "newsudanvision",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ed" },
+    "sourceID": "newtimes-RW",
+    "country": "Ruanda",
+    "countryCode": "RW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ee" },
+    "sourceID": "newvision",
+    "country": "Uganda",
+    "countryCode": "UG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ef" },
+    "sourceID": "thenews-pk",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8f0" },
+    "sourceID": "news-gazette",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8f1" },
+    "sourceID": "north-africa",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8f2" },
+    "sourceID": "northernminer",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8f3" },
+    "sourceID": "northernstandard",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8f4" },
+    "sourceID": "norwaypost",
+    "country": "Norway",
+    "countryCode": "NO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8f5" },
+    "sourceID": "nusaset",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8f6" },
+    "sourceID": "observer-ug",
+    "country": "Uganda",
+    "countryCode": "UG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8f7" },
+    "sourceID": "ettelaat",
+    "country": "Iran",
+    "countryCode": "IR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8f8" },
+    "sourceID": "oregonlive",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8f9" },
+    "sourceID": "thepmnews",
+    "country": "Malaysia",
+    "countryCode": "MY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8fa" },
+    "sourceID": "palestinechronicle",
+    "country": "Palestine",
+    "countryCode": "PS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8fb" },
+    "sourceID": "palestine-info-en",
+    "country": "Palestine",
+    "countryCode": "PS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8fc" },
+    "sourceID": "patriotpost",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8fd" },
+    "sourceID": "thepeninsulaqatar",
+    "country": "Qatar",
+    "countryCode": "QA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8fe" },
+    "sourceID": "thepoint",
+    "country": "Gambia",
+    "countryCode": "GM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd8ff" },
+    "sourceID": "theportugalnews",
+    "country": "Portugal",
+    "countryCode": "PT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd900" },
+    "sourceID": "thepost-ls",
+    "country": "Lesotho",
+    "countryCode": "LS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd901" },
+    "sourceID": "postnewsline",
+    "country": "Cameroon",
+    "countryCode": "CM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd902" },
+    "sourceID": "PraguePost",
+    "country": "Czech Republic",
+    "countryCode": "CZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd903" },
+    "sourceID": "thepresidency-za",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd904" },
+    "sourceID": "punchng",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd905" },
+    "sourceID": "register",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd906" },
+    "sourceID": "reporter-bz",
+    "country": "Belize",
+    "countryCode": "BZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd907" },
+    "sourceID": "therepublic",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd908" },
+    "sourceID": "grapevine",
+    "country": "Iceland",
+    "countryCode": "IS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd909" },
+    "sourceID": "therwandan",
+    "country": "Ruanda",
+    "countryCode": "RW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd90a" },
+    "sourceID": "sltrib",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd90b" },
+    "sourceID": "sanpedrosun",
+    "country": "Belize",
+    "countryCode": "BZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd90c" },
+    "sourceID": "independent",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd90d" },
+    "sourceID": "TheScotsman",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd90e" },
+    "sourceID": "scotland-gov",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd90f" },
+    "sourceID": "seattletimes",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd910" },
+    "sourceID": "smh",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd911" },
+    "sourceID": "spectator",
+    "country": "Slovakia",
+    "countryCode": "SK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd912" },
+    "sourceID": "southernminn",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd913" },
+    "sourceID": "smithvilleherald",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd914" },
+    "sourceID": "sofiaglobe",
+    "country": "Bulgaria",
+    "countryCode": "BG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd915" },
+    "sourceID": "thesourceng",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd916" },
+    "sourceID": "southernstar",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd917" },
+    "sourceID": "thespectator",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd918" },
+    "sourceID": "the-star",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd919" },
+    "sourceID": "thestar-my",
+    "country": "Malaysia",
+    "countryCode": "MY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd91a" },
+    "sourceID": "straitstimesSG",
+    "country": "Singapore",
+    "countryCode": "SG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd91b" },
+    "sourceID": "thesun",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd91c" },
+    "sourceID": "sunnewsonline",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd91d" },
+    "sourceID": "observer-sz",
+    "country": "Swaziland",
+    "countryCode": "SZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd91e" },
+    "sourceID": "telegraph",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd91f" },
+    "sourceID": "nola",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd920" },
+    "sourceID": "torontosun",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd921" },
+    "sourceID": "Triniad-guardian",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd922" },
+    "sourceID": "vancouversun",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd923" },
+    "sourceID": "thevincentian",
+    "country": "Saint Vincent and the Grenadines",
+    "countryCode": "VC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd924" },
+    "sourceID": "thevisitor",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd925" },
+    "sourceID": "thevoiceslu",
+    "country": "St. Lucia",
+    "countryCode": "LC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd926" },
+    "sourceID": "thevoicebw",
+    "country": "Botswana",
+    "countryCode": "BW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd927" },
+    "sourceID": "washtimes",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd928" },
+    "sourceID": "westmeathindependent",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd929" },
+    "sourceID": "thezambezian",
+    "country": "Botswana",
+    "countryCode": "BW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd92a" },
+    "sourceID": "zambiadailynation",
+    "country": "Zambia",
+    "countryCode": "ZM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd92b" },
+    "sourceID": "postzambia",
+    "country": "Zambia",
+    "countryCode": "ZM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd92c" },
+    "sourceID": "theindependent",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd92d" },
+    "sourceID": "thezimbabwemail",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd92e" },
+    "sourceID": "thezimbabwean",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd92f" },
+    "sourceID": "theafrican",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd930" },
+    "sourceID": "thedailystarBD",
+    "country": "Bangladesh",
+    "countryCode": "BD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd931" },
+    "sourceID": "thediamondloupe",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd932" },
+    "sourceID": "thegrenadainformer",
+    "country": "Grenada",
+    "countryCode": "GD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd933" },
+    "sourceID": "thelocal-at",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd934" },
+    "sourceID": "thelocal-dk",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd935" },
+    "sourceID": "thelocal-fr",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd936" },
+    "sourceID": "thelocal-de",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd937" },
+    "sourceID": "thelocal-it",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd938" },
+    "sourceID": "thelocal-no",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd939" },
+    "sourceID": "thelocal-es",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd93a" },
+    "sourceID": "thelocal-se",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd93b" },
+    "sourceID": "thelocal-ch",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd93c" },
+    "sourceID": "thenational",
+    "country": "United Arab Emirates",
+    "countryCode": "AE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd93d" },
+    "sourceID": "thenews-pl",
+    "country": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd93e" },
+    "sourceID": "theparliament",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd93f" },
+    "sourceID": "thestandard-ph",
+    "country": "Philippines",
+    "countryCode": "PH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd940" },
+    "sourceID": "thestarkenya",
+    "country": "Kenya",
+    "countryCode": "KE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd941" },
+    "sourceID": "thesundaytimes",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd942" },
+    "sourceID": "thetimes",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd943" },
+    "sourceID": "thetimes-za",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd944" },
+    "sourceID": "thisdayonline",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd945" },
+    "sourceID": "thisisafricaonline",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd946" },
+    "sourceID": "thisisderbyshire",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd947" },
+    "sourceID": "thisisnottingham",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd948" },
+    "sourceID": "thisisstaffordshire",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd949" },
+    "sourceID": "ticotimes",
+    "country": "CostaRica",
+    "countryCode": "CR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd94a" },
+    "sourceID": "timesdaily",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd94b" },
+    "sourceID": "timesofoman",
+    "country": "Oman",
+    "countryCode": "OM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd94c" },
+    "sourceID": "times-co-sz",
+    "country": "Swaziland",
+    "countryCode": "SZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd94d" },
+    "sourceID": "timesofzambia",
+    "country": "Zambia",
+    "countryCode": "ZM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd94e" },
+    "sourceID": "timesofindia",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd94f" },
+    "sourceID": "tippfm",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd950" },
+    "sourceID": "tipperarystar",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd951" },
+    "sourceID": "thetobagonews",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd952" },
+    "sourceID": "todayfm",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd953" },
+    "sourceID": "todayszaman",
+    "country": "Turkey",
+    "countryCode": "TR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd954" },
+    "sourceID": "topix",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd955" },
+    "sourceID": "TorontoStar",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd956" },
+    "sourceID": "tradearabia",
+    "country": "Bahrain",
+    "countryCode": "BH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd957" },
+    "sourceID": "tradewindsnews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd958" },
+    "sourceID": "tradingmarkets",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd959" },
+    "sourceID": "trendnews-az",
+    "country": "Azerbaijan",
+    "countryCode": "AZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd95a" },
+    "sourceID": "triblive",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd95b" },
+    "sourceID": "tribune242",
+    "country": "Bahamas",
+    "countryCode": "BS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd95c" },
+    "sourceID": "ebctt",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd95d" },
+    "sourceID": "trinidadexpress",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd95e" },
+    "sourceID": "tripolipost",
+    "country": "Libya",
+    "countryCode": "LY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd95f" },
+    "sourceID": "tubitak",
+    "country": "Turkey",
+    "countryCode": "TR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd960" },
+    "sourceID": "ATAP-en",
+    "country": "Tunisia",
+    "countryCode": "TN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd961" },
+    "sourceID": "tvnz",
+    "country": "New Zealand",
+    "countryCode": "NZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd962" },
+    "sourceID": "twincities",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd963" },
+    "sourceID": "usnews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd964" },
+    "sourceID": "un-org",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd965" },
+    "sourceID": "undispatch",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd966" },
+    "sourceID": "unhcr-org",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd967" },
+    "sourceID": "unhcr-mediterranean",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd968" },
+    "sourceID": "unian-en",
+    "country": "Ukraine",
+    "countryCode": "UA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd969" },
+    "sourceID": "unmis",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd96a" },
+    "sourceID": "upi",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd96b" },
+    "sourceID": "state-gov",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd96c" },
+    "sourceID": "sec",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd96d" },
+    "sourceID": "usaToday",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd96e" },
+    "sourceID": "usaidlandtenure",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd96f" },
+    "sourceID": "u-tv",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd970" },
+    "sourceID": "uniradioinforma",
+    "country": "Mexico",
+    "countryCode": "MX"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd971" },
+    "sourceID": "uaeinteract",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd972" },
+    "sourceID": "udm",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd973" },
+    "sourceID": "un-az",
+    "country": "Azerbaijan",
+    "countryCode": "AZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd974" },
+    "sourceID": "irinnews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd975" },
+    "sourceID": "unamid",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd976" },
+    "sourceID": "unodc",
+    "country": "Austria",
+    "countryCode": "AT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd977" },
+    "sourceID": "unmultimedia-en",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd978" },
+    "sourceID": "wfp",
+    "country": "Italy",
+    "countryCode": "IT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd979" },
+    "sourceID": "uga",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd97a" },
+    "sourceID": "uzreport",
+    "country": "Uzbekistan",
+    "countryCode": "UZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd97b" },
+    "sourceID": "vanguardngr",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd97c" },
+    "sourceID": "daniel-venezuela",
+    "country": "Venezuela",
+    "countryCode": "VE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd97d" },
+    "sourceID": "vibeghana",
+    "country": "Ghana",
+    "countryCode": "GH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd97e" },
+    "sourceID": "vnanet-en",
+    "country": "Vietnam",
+    "countryCode": "VN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd97f" },
+    "sourceID": "vietnamnews",
+    "country": "Vietnam",
+    "countryCode": "VN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd980" },
+    "sourceID": "vietnamplus-en",
+    "country": "Vietnam",
+    "countryCode": "VN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd981" },
+    "sourceID": "vindy",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd982" },
+    "sourceID": "virginislandsdailynews",
+    "country": "Virgin Islands",
+    "countryCode": "VI"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd983" },
+    "sourceID": "virtualseychelles",
+    "country": "Seychelles",
+    "countryCode": "SC"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd984" },
+    "sourceID": "voanews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd985" },
+    "sourceID": "vob929",
+    "country": "Barbados",
+    "countryCode": "BB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd986" },
+    "sourceID": "wam-en",
+    "country": "United Arab Emirates",
+    "countryCode": "AE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd987" },
+    "sourceID": "wbur",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd988" },
+    "sourceID": "wwf",
+    "country": "Switzerland",
+    "countryCode": "CH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd989" },
+    "sourceID": "wsj-en",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd98a" },
+    "sourceID": "wandsworthguardian",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd98b" },
+    "sourceID": "WarsawBusiness",
+    "country": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd98c" },
+    "sourceID": "warsawvoice",
+    "country": "Poland",
+    "countryCode": "PL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd98d" },
+    "sourceID": "WashingtonPost",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd98e" },
+    "sourceID": "washingtonexaminer",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd98f" },
+    "sourceID": "watchingamerica",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd990" },
+    "sourceID": "waterford-news",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd991" },
+    "sourceID": "wcfcourier",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd992" },
+    "sourceID": "wis-wander",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd993" },
+    "sourceID": "westafricanminerals",
+    "country": "Cameroon",
+    "countryCode": "CM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd994" },
+    "sourceID": "westernpeople",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd995" },
+    "sourceID": "westerntelegraph",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd996" },
+    "sourceID": "Whitehouse",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd997" },
+    "sourceID": "wired",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd998" },
+    "sourceID": "wisconsinproject",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd999" },
+    "sourceID": "workpermit",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd99a" },
+    "sourceID": "wbws",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd99b" },
+    "sourceID": "wcoomd",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd99c" },
+    "sourceID": "worlddiamondcouncil",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd99d" },
+    "sourceID": "worldfinance",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd99e" },
+    "sourceID": "worldfishing",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd99f" },
+    "sourceID": "worldipreview",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9a0" },
+    "sourceID": "worldmaritimenews",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9a1" },
+    "sourceID": "bdlive",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9a2" },
+    "sourceID": "cctv-en",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9a3" },
+    "sourceID": "world-nuclear",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9a4" },
+    "sourceID": "world-nuclear-news",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9a5" },
+    "sourceID": "wnti",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9a6" },
+    "sourceID": "wn",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9a7" },
+    "sourceID": "worldcrunch",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9a8" },
+    "sourceID": "WortLuxembourg-en",
+    "country": "Luxemburg",
+    "countryCode": "LU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9a9" },
+    "sourceID": "wxow",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9aa" },
+    "sourceID": "xinhuanet_en",
+    "country": "China",
+    "countryCode": "CN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ab" },
+    "sourceID": "yle-en",
+    "country": "Finland",
+    "countryCode": "FI"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ac" },
+    "sourceID": "yalibnan",
+    "country": "Lebanon",
+    "countryCode": "LB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ad" },
+    "sourceID": "news-yahoo",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ae" },
+    "sourceID": "news-yahoo-in",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9af" },
+    "sourceID": "yobserver",
+    "country": "Yemen",
+    "countryCode": "YE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9b0" },
+    "sourceID": "yemenpost",
+    "country": "Yemen",
+    "countryCode": "YE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9b1" },
+    "sourceID": "yementimes",
+    "country": "Yemen",
+    "countryCode": "YE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9b2" },
+    "sourceID": "ynetnews",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9b3" },
+    "sourceID": "YorkshirePost",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9b4" },
+    "sourceID": "zdnet",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9b5" },
+    "sourceID": "dailymail-zm",
+    "country": "Zambia",
+    "countryCode": "ZM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9b6" },
+    "sourceID": "zambiareports",
+    "country": "Zambia",
+    "countryCode": "ZM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9b7" },
+    "sourceID": "zambianwatchdog",
+    "country": "Zambia",
+    "countryCode": "ZM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9b8" },
+    "sourceID": "zodiakmalawi",
+    "country": "Malawi",
+    "countryCode": "MW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9b9" },
+    "sourceID": "zerohedge",
+    "country": "Bulgaria",
+    "countryCode": "BG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ba" },
+    "sourceID": "zimeye",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9bb" },
+    "sourceID": "zbc",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9bc" },
+    "sourceID": "thestandard-zw",
+    "country": "Zimbabwe",
+    "countryCode": "ZW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9bd" },
+    "sourceID": "znsbahamas",
+    "country": "Bahamas",
+    "countryCode": "BS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9be" },
+    "sourceID": "a1plus",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9bf" },
+    "sourceID": "africatime",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9c0" },
+    "sourceID": "afrol",
+    "country": "Norway",
+    "countryCode": "NO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9c1" },
+    "sourceID": "portugalglobal-en",
+    "country": "Portugal",
+    "countryCode": "PT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9c2" },
+    "sourceID": "almalnews-en",
+    "country": "Egypt",
+    "countryCode": "EG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9c3" },
+    "sourceID": "amna-en",
+    "country": "Greece",
+    "countryCode": "GR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9c4" },
+    "sourceID": "naharnet-en",
+    "country": "Lebanon",
+    "countryCode": "LB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9c5" },
+    "sourceID": "apk-inform",
+    "country": "Ukraine",
+    "countryCode": "UA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9c6" },
+    "sourceID": "ap3-en",
+    "country": "Estonia",
+    "countryCode": "EE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9c7" },
+    "sourceID": "asm-pace",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9c8" },
+    "sourceID": "awate",
+    "country": "Eritrea",
+    "countryCode": "ER"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9c9" },
+    "sourceID": "azomining",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ca" },
+    "sourceID": "b92net_en",
+    "country": "Serbia",
+    "countryCode": "RS"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9cb" },
+    "sourceID": "banknetindia",
+    "country": "India",
+    "countryCode": "IN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9cc" },
+    "sourceID": "barentsobserver",
+    "country": "Norway",
+    "countryCode": "NO"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9cd" },
+    "sourceID": "bdonline",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ce" },
+    "sourceID": "bulatlat",
+    "country": "Philippines",
+    "countryCode": "PH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9cf" },
+    "sourceID": "businesswire",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9d0" },
+    "sourceID": "cananews",
+    "country": "Barbados",
+    "countryCode": "BB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9d1" },
+    "sourceID": "capitaleritrea",
+    "country": "Eritrea",
+    "countryCode": "ER"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9d2" },
+    "sourceID": "cfo",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9d3" },
+    "sourceID": "clare",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9d4" },
+    "sourceID": "climate-weather",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9d5" },
+    "sourceID": "cnc3",
+    "country": "Trinidad and Tobago",
+    "countryCode": "TT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9d6" },
+    "sourceID": "csis",
+    "country": "Mexico",
+    "countryCode": "MX"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9d7" },
+    "sourceID": "dailymonitor",
+    "country": "Uganda",
+    "countryCode": "UG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9d8" },
+    "sourceID": "dailytimesPK",
+    "country": "Pakistan",
+    "countryCode": "PK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9d9" },
+    "sourceID": "dehai",
+    "country": "Eritrea",
+    "countryCode": "ER"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9da" },
+    "sourceID": "deredactie-en",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9db" },
+    "sourceID": "diamondintelligence",
+    "country": "Israel",
+    "countryCode": "IL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9dc" },
+    "sourceID": "digjitale",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9dd" },
+    "sourceID": "ecanadanow",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9de" },
+    "sourceID": "enca",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9df" },
+    "sourceID": "ech-chorouk-en",
+    "country": "Algeria",
+    "countryCode": "DZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9e0" },
+    "sourceID": "eco-business",
+    "country": "Singapore",
+    "countryCode": "SG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9e1" },
+    "sourceID": "electronicscomponentsworld",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9e2" },
+    "sourceID": "engadget",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9e3" },
+    "sourceID": "enoughblog",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9e4" },
+    "sourceID": "euagenda",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9e5" },
+    "sourceID": "euinside",
+    "country": "Bulgaria",
+    "countryCode": "BG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9e6" },
+    "sourceID": "eurostat",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9e7" },
+    "sourceID": "fec",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9e8" },
+    "sourceID": "globalvoicesonline",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9e9" },
+    "sourceID": "haveeru",
+    "country": "Maldives",
+    "countryCode": "MV"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ea" },
+    "sourceID": "helmholtz",
+    "country": "Germany",
+    "countryCode": "DE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9eb" },
+    "sourceID": "huffingtonpost-us-en",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ec" },
+    "sourceID": "huffingtonpost-uk-en",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ed" },
+    "sourceID": "ibotswana",
+    "country": "Botswana",
+    "countryCode": "BW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ee" },
+    "sourceID": "iafrica",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ef" },
+    "sourceID": "icWales",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9f0" },
+    "sourceID": "imec",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9f1" },
+    "sourceID": "impel",
+    "country": "Belgium",
+    "countryCode": "BE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9f2" },
+    "sourceID": "inewsmalta",
+    "country": "Malta",
+    "countryCode": "MT"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9f3" },
+    "sourceID": "informante",
+    "country": "Namibia",
+    "countryCode": "NA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9f4" },
+    "sourceID": "inria",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9f5" },
+    "sourceID": "hri",
+    "country": "Greece",
+    "countryCode": "GR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9f6" },
+    "sourceID": "iol",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9f7" },
+    "sourceID": "jihadology",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9f8" },
+    "sourceID": "kabar",
+    "country": "Kyrgyzstan",
+    "countryCode": "KG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9f9" },
+    "sourceID": "kathimerini-en",
+    "country": "Greece",
+    "countryCode": "GR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9fa" },
+    "sourceID": "kcna",
+    "country": "North Korea",
+    "countryCode": "KP"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9fb" },
+    "sourceID": "khaleejtimes",
+    "country": "United Arab Emirates",
+    "countryCode": "AE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9fc" },
+    "sourceID": "kippreport",
+    "country": "United Arab Emirates",
+    "countryCode": "AE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9fd" },
+    "sourceID": "krcrtv",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9fe" },
+    "sourceID": "kuna-en",
+    "country": "Kuwait",
+    "countryCode": "KW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bd9ff" },
+    "sourceID": "marketwatch",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda00" },
+    "sourceID": "mcclatchydc",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda01" },
+    "sourceID": "mcot",
+    "country": "Thailand",
+    "countryCode": "TH"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda02" },
+    "sourceID": "memrijttm",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda03" },
+    "sourceID": "mercurynews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda04" },
+    "sourceID": "messenger",
+    "country": "Georgia",
+    "countryCode": "GE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda05" },
+    "sourceID": "modernghana",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda06" },
+    "sourceID": "nasa",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda07" },
+    "sourceID": "newrepublic",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda08" },
+    "sourceID": "news24",
+    "country": "South Africa",
+    "countryCode": "ZA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda09" },
+    "sourceID": "news_com_au",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda0a" },
+    "sourceID": "brisbanetimes",
+    "country": "Australia",
+    "countryCode": "AU"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda0b" },
+    "sourceID": "news-lk",
+    "country": "Sri Lanka",
+    "countryCode": "LK"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda0c" },
+    "sourceID": "noravank",
+    "country": "Armenia",
+    "countryCode": "AM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda0d" },
+    "sourceID": "nrcu-en",
+    "country": "Ukraine",
+    "countryCode": "UA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda0e" },
+    "sourceID": "publicfinanceinternational",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda0f" },
+    "sourceID": "rabble",
+    "country": "Canada",
+    "countryCode": "CA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda10" },
+    "sourceID": "renews",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda11" },
+    "sourceID": "saharareporters",
+    "country": "Nigeria",
+    "countryCode": "NG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda12" },
+    "sourceID": "sipri",
+    "country": "Sweden",
+    "countryCode": "SE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda13" },
+    "sourceID": "skynews",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda14" },
+    "sourceID": "spm",
+    "country": "Cameroon",
+    "countryCode": "CM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda15" },
+    "sourceID": "taipeitimes",
+    "country": "Taiwan",
+    "countryCode": "TW"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda16" },
+    "sourceID": "tcpalm",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda17" },
+    "sourceID": "tecnalia",
+    "country": "Spain",
+    "countryCode": "ES"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda18" },
+    "sourceID": "theCitizen",
+    "country": "Tanzania",
+    "countryCode": "TZ"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda19" },
+    "sourceID": "thejournal",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda1a" },
+    "sourceID": "time",
+    "country": "USA",
+    "countryCode": "US"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda1b" },
+    "sourceID": "timor-leste",
+    "country": "Singapore",
+    "countryCode": "SG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda1c" },
+    "sourceID": "tishreen-en",
+    "country": "Syria",
+    "countryCode": "SY"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda1d" },
+    "sourceID": "tno",
+    "country": "Netherlands",
+    "countryCode": "NL"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda1e" },
+    "sourceID": "todayonline",
+    "country": "Singapore",
+    "countryCode": "SG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda1f" },
+    "sourceID": "trust",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda20" },
+    "sourceID": "turkmenistan",
+    "country": "Turkmenistan",
+    "countryCode": "TM"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda21" },
+    "sourceID": "tv3-ie",
+    "country": "Ireland",
+    "countryCode": "IE"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda22" },
+    "sourceID": "unmiss",
+    "country": "Sudan",
+    "countryCode": "SD"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda23" },
+    "sourceID": "vieuws",
+    "country": "France",
+    "countryCode": "FR"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda24" },
+    "sourceID": "vietnamnet-en",
+    "country": "Vietnam",
+    "countryCode": "VN"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda25" },
+    "sourceID": "zdrave",
+    "country": "Bulgaria",
+    "countryCode": "BG"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda26" },
+    "sourceID": "zik-en",
+    "country": "Ukraine",
+    "countryCode": "UA"
+  },
+  {
+    "_id": { "$oid": "5725ed585adbab0f671bda27" },
+    "sourceID": "ceskenoviny-en",
+    "country": "Czech Republic",
+    "countryCode": "CZ"
+  }
+]

@@ -1,0 +1,1857 @@
+[
+  {
+    "_id": { "$oid": "56e7c2a75adbab0dfd63adcf" },
+    "episodeTitle": "Bangladesh central bank governor resigns over heist",
+    "rssUpdFirst": "2016-03-15T04:36"
+  },
+  {
+    "_id": { "$oid": "56e7c4cc5adbab0dfd63ae09" },
+    "episodeTitle": "Mass killer Breivik to sue Norway for “inhuman treatment”",
+    "rssUpdFirst": "2016-03-15T05:13"
+  },
+  {
+    "_id": { "$oid": "56e7edcb5adbab0dfd63b423" },
+    "episodeTitle": "Pope Francis approves Mother Teresa elevation to sainthood",
+    "rssUpdFirst": "2016-03-15T09:07"
+  },
+  {
+    "_id": { "$oid": "56e7b7325adbab0d7f0f0f8b" },
+    "episodeTitle": "Trump, other White House hopefuls face huge test Tuesday",
+    "rssUpdFirst": "2016-03-15T09:18:09.451"
+  },
+  {
+    "_id": { "$oid": "56e7f2245adbab0dfd63b439" },
+    "episodeTitle": "Suspected Car Bomb in Berlin Kills Only Driver",
+    "rssUpdFirst": "2016-03-15T10:08"
+  },
+  {
+    "_id": { "$oid": "56e8037f5adbab0dfd63b780" },
+    "episodeTitle": "Valeant falls short in 4Q, slashes guidance",
+    "rssUpdFirst": "2016-03-15T10:21"
+  },
+  {
+    "_id": { "$oid": "56e8793f5adbab0dfd63cd43" },
+    "episodeTitle": "WT20: Spin gamble pays off, New Zealand spank India",
+    "rssUpdFirst": "2016-03-15T10:45"
+  },
+  {
+    "_id": { "$oid": "56e8261f5adbab0dfd63bd78" },
+    "episodeTitle": "Obama Administration Loosens Rules on Cuba Travel, Dollar",
+    "rssUpdFirst": "2016-03-15T11:15"
+  },
+  {
+    "_id": { "$oid": "56e84fa35adbab0dfd63c51e" },
+    "episodeTitle": "Former EPA official defends actions on Flint water crisis",
+    "rssUpdFirst": "2016-03-15T11:28"
+  },
+  {
+    "_id": { "$oid": "56e839c65adbab0dfd63bff9" },
+    "episodeTitle": "In reversal, Obama admin to block oil drilling in Atlantic",
+    "rssUpdFirst": "2016-03-15T11:56"
+  },
+  {
+    "_id": { "$oid": "56e835605adbab0dfd63bee9" },
+    "episodeTitle": "Prison officer injured in New IRA bomb attack dies in hospital",
+    "rssUpdFirst": "2016-03-15T12:36"
+  },
+  {
+    "_id": { "$oid": "56e85f0d5adbab0dfd63c566" },
+    "episodeTitle": "Turkey IDs Ankara bomber as female Kurdish rebel",
+    "rssUpdFirst": "2016-03-15T14:09"
+  },
+  {
+    "_id": { "$oid": "56e835605adbab0dfd63bee3" },
+    "episodeTitle": "Belgian police probing Paris attacks hunt gunman after shots fired in Brussels",
+    "rssUpdFirst": "2016-03-15T14:22"
+  },
+  {
+    "_id": { "$oid": "56e870825adbab0dfd63c872" },
+    "episodeTitle": "Valeant shocks with missed 4Q results, slashed 2016 guidance",
+    "rssUpdFirst": "2016-03-15T14:26"
+  },
+  {
+    "_id": { "$oid": "56e897ce5adbab0dfd63d0c8" },
+    "episodeTitle": "Robotics expert: Self-driving cars not ready for deployment",
+    "rssUpdFirst": "2016-03-15T14:44"
+  },
+  {
+    "_id": { "$oid": "56e877185adbab0dfd63cced" },
+    "episodeTitle": "Obama deeply dismayed by vulgarity, violence of campaign",
+    "rssUpdFirst": "2016-03-15T16:48"
+  },
+  {
+    "_id": { "$oid": "56e85f0d5adbab0dfd63c563" },
+    "episodeTitle": "CDC guidelines aim to curb painkiller prescribing",
+    "rssUpdFirst": "2016-03-15T17:12"
+  },
+  {
+    "_id": { "$oid": "56e82a765adbab0dfd63bd8f" },
+    "episodeTitle": "Low gas prices drag down US retail sales in February",
+    "rssUpdFirst": "2016-03-15T17:29:56.036"
+  },
+  {
+    "_id": { "$oid": "56e865905adbab0dfd63c621" },
+    "episodeTitle": "'Indiana Jones’ to return with Ford and Spielberg",
+    "rssUpdFirst": "2016-03-15T17:46"
+  },
+  {
+    "_id": { "$oid": "56e895a15adbab0dfd63d0be" },
+    "episodeTitle": "Google reveals 77 percent of its online traffic is encrypted",
+    "rssUpdFirst": "2016-03-15T19:24"
+  },
+  {
+    "_id": { "$oid": "56e8a92f5adbab0dfd63d3f1" },
+    "episodeTitle": "Apple: U.S. founders would be 'appalled' by DOJ iPhone request",
+    "rssUpdFirst": "2016-03-15T19:33"
+  },
+  {
+    "_id": { "$oid": "56e89e515adbab0dfd63d1d2" },
+    "episodeTitle": "Chipotle says sales recovering, but down 26 percent in Feb.",
+    "rssUpdFirst": "2016-03-15T20:08"
+  },
+  {
+    "_id": { "$oid": "56e88ab85adbab0dfd63d086" },
+    "episodeTitle": "Head of DC metro system announces 29-hour shutdown",
+    "rssUpdFirst": "2016-03-15T20:17"
+  },
+  {
+    "_id": { "$oid": "56e893795adbab0dfd63d0b4" },
+    "episodeTitle": "PlayStation VR to debut in October for less than Rift, Vive",
+    "rssUpdFirst": "2016-03-15T20:39"
+  },
+  {
+    "_id": { "$oid": "56e8ad8d5adbab0dfd63d838" },
+    "episodeTitle": "City ignore injuries to secure Champions League first",
+    "rssUpdFirst": "2016-03-15T20:39"
+  },
+  {
+    "_id": { "$oid": "56e8ea445adbab0dfd63e40b" },
+    "episodeTitle": "Argentina coast guard sinks Chinese trawler fishing illegally",
+    "rssUpdFirst": "2016-03-15T21:08"
+  },
+  {
+    "_id": { "$oid": "56e8a2bc5adbab0dfd63d2dc" },
+    "episodeTitle": "Pennsylvania man to admit stealing stars' nude images",
+    "rssUpdFirst": "2016-03-15T21:09"
+  },
+  {
+    "_id": { "$oid": "56e8b6455adbab0dfd63d912" },
+    "episodeTitle": "Instagram to show posts in order of 'relevance'",
+    "rssUpdFirst": "2016-03-15T21:42"
+  },
+  {
+    "_id": { "$oid": "56e8ad8d5adbab0dfd63d83b" },
+    "episodeTitle": "22 killed when Ecuadorean army plane crashes in jungle",
+    "rssUpdFirst": "2016-03-15T21:48"
+  },
+  {
+    "_id": { "$oid": "56e8c54e5adbab0dfd63dac4" },
+    "episodeTitle": "Rubio ends White House quest after humiliating Florida loss",
+    "rssUpdFirst": "2016-03-15T22:12"
+  },
+  {
+    "_id": { "$oid": "56e8c3285adbab0dfd63dabf" },
+    "episodeTitle": "NTSB says feed truck shifted track before Amtrak accident",
+    "rssUpdFirst": "2016-03-15T22:14"
+  },
+  {
+    "_id": { "$oid": "56e8bede5adbab0dfd63da7d" },
+    "episodeTitle": "Women with Zika in Tahiti had 1 percent birth defects risk",
+    "rssUpdFirst": "2016-03-15T22:53"
+  },
+  {
+    "_id": { "$oid": "56e8d0295adbab0dfd63dafd" },
+    "episodeTitle": "Homeless man who spotted California fugitives gets $100K",
+    "rssUpdFirst": "2016-03-15T23:05"
+  },
+  {
+    "_id": { "$oid": "56e929de5adbab0dfd63f0f9" },
+    "episodeTitle": "Breivik to address court in human rights trial",
+    "rssUpdFirst": "2016-03-15T23:24"
+  },
+  {
+    "_id": { "$oid": "56e8c9a55adbab0dfd63dae0" },
+    "episodeTitle": "Ferguson City Council votes to accept DOJ reform deal",
+    "rssUpdFirst": "2016-03-15T23:49"
+  },
+  {
+    "_id": { "$oid": "56e8e3b65adbab0dfd63e027" },
+    "episodeTitle": "Suu Kyi aide elected Myanmar president",
+    "rssUpdFirst": "2016-03-16T00:28"
+  },
+  {
+    "_id": { "$oid": "56e8df605adbab0dfd63dca5" },
+    "episodeTitle": "Keyboardist Keith Emerson's death ruled a suicide",
+    "rssUpdFirst": "2016-03-16T00:37"
+  },
+  {
+    "_id": { "$oid": "56e8df605adbab0dfd63dca6" },
+    "episodeTitle": "Stocks and dollar hold breath for Fed, oil bounces",
+    "rssUpdFirst": "2016-03-16T00:38"
+  },
+  {
+    "_id": { "$oid": "56e8d2515adbab0dfd63db07" },
+    "episodeTitle": "Cuba reports first case of Zika contracted in the country",
+    "rssUpdFirst": "2016-03-16T00:49"
+  },
+  {
+    "_id": { "$oid": "56e8e5e55adbab0dfd63e36d" },
+    "episodeTitle": "Now it’s Donald Trump vs. Ted Cruz for the GOP nomination",
+    "rssUpdFirst": "2016-03-16T02:14"
+  },
+  {
+    "_id": { "$oid": "56e900265adbab0dfd63e574" },
+    "episodeTitle": "Marco Rubio ends White House bid",
+    "rssUpdFirst": "2016-03-16T02:26"
+  },
+  {
+    "_id": { "$oid": "56e8e8105adbab0dfd63e3a9" },
+    "episodeTitle": "Markets Live: On tenterhooks ahead of Fed",
+    "rssUpdFirst": "2016-03-16T02:46"
+  },
+  {
+    "_id": { "$oid": "56e93b795adbab0dfd63f218" },
+    "episodeTitle": "China's Li pledges more reform, tries to reassure on growth",
+    "rssUpdFirst": "2016-03-16T03:24"
+  },
+  {
+    "_id": { "$oid": "56e8ea445adbab0dfd63e407" },
+    "episodeTitle": "North Korea sentences US tourist to 15 years in prison",
+    "rssUpdFirst": "2016-03-16T03:27"
+  },
+  {
+    "_id": { "$oid": "56e9048b5adbab0dfd63e58c" },
+    "episodeTitle": "UPDATE 1-China-U.S. relations will progress no matter who wins U.S. election: China's Li",
+    "rssUpdFirst": "2016-03-16T03:32"
+  },
+  {
+    "_id": { "$oid": "56e8b86a5adbab0dfd63d9cb" },
+    "episodeTitle": "Marco Rubio drops out of Republican presidential race",
+    "rssUpdFirst": "2016-03-16T03:35:32.992"
+  },
+  {
+    "_id": { "$oid": "56e8ee995adbab0dfd63e443" },
+    "episodeTitle": "The Latest: Cruz hails 'good night' after primary losses",
+    "rssUpdFirst": "2016-03-16T03:39"
+  },
+  {
+    "_id": { "$oid": "56e8f7525adbab0dfd63e51f" },
+    "episodeTitle": "Bus blast kills 15 government employees in northwest Pakistan",
+    "rssUpdFirst": "2016-03-16T03:58"
+  },
+  {
+    "_id": { "$oid": "56e8e8105adbab0dfd63e3a7" },
+    "episodeTitle": "TV uživo Sada DW News 04:30 UTC Made in Germany",
+    "rssUpdFirst": "2016-03-16T04:00"
+  },
+  {
+    "_id": { "$oid": "56e92e565adbab0dfd63f151" },
+    "episodeTitle": "Japan ruling party considers international arbitration over China dispute",
+    "rssUpdFirst": "2016-03-16T04:04"
+  },
+  {
+    "_id": { "$oid": "56e8c54e5adbab0dfd63dacb" },
+    "episodeTitle": "Exit poll: Trump wins outsider voter in FL",
+    "rssUpdFirst": "2016-03-16T04:30:37.969"
+  },
+  {
+    "_id": { "$oid": "56e94acc5adbab0dfd63f478" },
+    "episodeTitle": "Obama: 'I've made my decision' on Supreme Court nominee",
+    "rssUpdFirst": "2016-03-16T05:05"
+  },
+  {
+    "_id": { "$oid": "56e8d0295adbab0dfd63dafe" },
+    "episodeTitle": "Trump tops Rubio in Florida, falls to Kasich in Ohio",
+    "rssUpdFirst": "2016-03-16T05:16:57.520"
+  },
+  {
+    "_id": { "$oid": "56e90f9f5adbab0dfd63e6d6" },
+    "episodeTitle": "Australia: Debris on French Island Unlikely to Be From MH370",
+    "rssUpdFirst": "2016-03-16T05:23"
+  },
+  {
+    "_id": { "$oid": "56e8d2515adbab0dfd63db00" },
+    "episodeTitle": "Rubio ends White House quest after humiliating Florida loss",
+    "rssUpdFirst": "2016-03-16T05:26:01.148"
+  },
+  {
+    "_id": { "$oid": "56e8d8dd5adbab0dfd63dc28" },
+    "episodeTitle": "GOP Primary Election Results….Trump Wins Florida, Kasich Wins Ohio, Rubio Drops Out",
+    "rssUpdFirst": "2016-03-16T05:53:59.617"
+  },
+  {
+    "_id": { "$oid": "56e984be5adbab0dfd64025d" },
+    "episodeTitle": "EU is not giving Turkey “a free ride” with migrant deal – EU’s Timmermans",
+    "rssUpdFirst": "2016-03-16T06:18"
+  },
+  {
+    "_id": { "$oid": "56e8e18a5adbab0dfd63dd1a" },
+    "episodeTitle": "Exit poll: Trump wins outsider voter in FL",
+    "rssUpdFirst": "2016-03-16T06:31:03.894"
+  },
+  {
+    "_id": { "$oid": "56e8e18a5adbab0dfd63dd1c" },
+    "episodeTitle": "Kasich wins in home state of Ohio",
+    "rssUpdFirst": "2016-03-16T06:31:05.501"
+  },
+  {
+    "_id": { "$oid": "56e8e5e55adbab0dfd63e365" },
+    "episodeTitle": "Rubio ends White House quest after humiliating Florida loss",
+    "rssUpdFirst": "2016-03-16T06:49:29.778"
+  },
+  {
+    "_id": { "$oid": "56e8e5e55adbab0dfd63e366" },
+    "episodeTitle": "Kasich still a long-shot for nomination",
+    "rssUpdFirst": "2016-03-16T06:49:30.486"
+  },
+  {
+    "_id": { "$oid": "56e937175adbab0dfd63f204" },
+    "episodeTitle": "Major oil producers to talk output freeze in Qatar in April",
+    "rssUpdFirst": "2016-03-16T07:18"
+  },
+  {
+    "_id": { "$oid": "56e923555adbab0dfd63f0a2" },
+    "episodeTitle": "Deutsche Boerse, LSE see 450 million eur cost savings in merger",
+    "rssUpdFirst": "2016-03-16T07:19"
+  },
+  {
+    "_id": { "$oid": "56e8ee995adbab0dfd63e43c" },
+    "episodeTitle": "Trump picks up 3 states as Rubio exits the race 3 mins ago",
+    "rssUpdFirst": "2016-03-16T07:26:41.545"
+  },
+  {
+    "_id": { "$oid": "56e937175adbab0dfd63f205" },
+    "episodeTitle": "Sylvia Anderson, voice of Thunderbirds' Lady Penelope, dies at 88",
+    "rssUpdFirst": "2016-03-16T07:36"
+  },
+  {
+    "_id": { "$oid": "56e95c9f5adbab0dfd63fec0" },
+    "episodeTitle": "UK Treasury chief to unveil budget with warning on economy",
+    "rssUpdFirst": "2016-03-16T08:19"
+  },
+  {
+    "_id": { "$oid": "56e932b15adbab0dfd63f1ef" },
+    "episodeTitle": "Rescuers: Female suicide bombers kill 22 at Nigerian mosque",
+    "rssUpdFirst": "2016-03-16T09:04"
+  },
+  {
+    "_id": { "$oid": "56e91a975adbab0dfd63e7ab" },
+    "episodeTitle": "Chinese premier strikes mild tone on regional disputes",
+    "rssUpdFirst": "2016-03-16T10:34:31.983"
+  },
+  {
+    "_id": { "$oid": "56e958375adbab0dfd63fd3f" },
+    "episodeTitle": "FIFA admits to World Cup hosting bribes, asks US for cash",
+    "rssUpdFirst": "2016-03-16T11:17"
+  },
+  {
+    "_id": { "$oid": "56e9acec5adbab0dfd640f4f" },
+    "episodeTitle": "Wall Street little changed as investors await Fed statement",
+    "rssUpdFirst": "2016-03-16T11:24"
+  },
+  {
+    "_id": { "$oid": "56e992095adbab0dfd640b60" },
+    "episodeTitle": "US consumer prices slip in February",
+    "rssUpdFirst": "2016-03-16T12:46"
+  },
+  {
+    "_id": { "$oid": "56e99f745adbab0dfd640d7c" },
+    "episodeTitle": "Brazil's Rousseff resumes talks with Lula on Cabinet post",
+    "rssUpdFirst": "2016-03-16T12:53"
+  },
+  {
+    "_id": { "$oid": "56e9a3d45adbab0dfd640f2c" },
+    "episodeTitle": "Sanders needs big-time wins, superdelegates to catch Clinton",
+    "rssUpdFirst": "2016-03-16T12:56"
+  },
+  {
+    "_id": { "$oid": "56e9966d5adbab0dfd640cea" },
+    "episodeTitle": "Britain to impose sugar tax on soft drinks to cut obesity",
+    "rssUpdFirst": "2016-03-16T13:13"
+  },
+  {
+    "_id": { "$oid": "56e9c1245adbab0dfd64122d" },
+    "episodeTitle": "GOP Debate in Utah Canceled After Trump, Kasich Said They Won't Participate",
+    "rssUpdFirst": "2016-03-16T13:15"
+  },
+  {
+    "_id": { "$oid": "56e99f745adbab0dfd640d7d" },
+    "episodeTitle": "Obama to Travel to Britain, Saudi Arabia in April",
+    "rssUpdFirst": "2016-03-16T13:27"
+  },
+  {
+    "_id": { "$oid": "56e99f745adbab0dfd640d80" },
+    "episodeTitle": "Osborne taxes sweet drinks but beer and petrol frozen",
+    "rssUpdFirst": "2016-03-16T13:40"
+  },
+  {
+    "_id": { "$oid": "56e9d7365adbab0dfd641d1d" },
+    "episodeTitle": "The Latest: Chief: Officer slain a case of mistaken identity",
+    "rssUpdFirst": "2016-03-16T13:43"
+  },
+  {
+    "_id": { "$oid": "56e9489b5adbab0dfd63f42b" },
+    "episodeTitle": "Syrian Kurds set to announce federal system in northern Syria",
+    "rssUpdFirst": "2016-03-16T13:50:51.151"
+  },
+  {
+    "_id": { "$oid": "56ea31ea5adbab0dfd64349c" },
+    "episodeTitle": "Deficit-slashing plan advances through House panel",
+    "rssUpdFirst": "2016-03-16T14:29"
+  },
+  {
+    "_id": { "$oid": "56e9a83d5adbab0dfd640f40" },
+    "episodeTitle": "South Africa's deputy finmin says rejected finmin role offered by Gupta family",
+    "rssUpdFirst": "2016-03-16T15:41"
+  },
+  {
+    "_id": { "$oid": "56e9b16e5adbab0dfd640f68" },
+    "episodeTitle": "Four arrested for planning attack in Paris - TF1 television",
+    "rssUpdFirst": "2016-03-16T16:16"
+  },
+  {
+    "_id": { "$oid": "56e9ba595adbab0dfd640fc6" },
+    "episodeTitle": "ICC World T20: Gayle blows stun England",
+    "rssUpdFirst": "2016-03-16T17:47"
+  },
+  {
+    "_id": { "$oid": "56e9c35e5adbab0dfd6412bb" },
+    "episodeTitle": "Researchers infect volunteers with dengue virus Volunteers let researchers inject them with the dengue virus, a cousin of the Zika virus,",
+    "rssUpdFirst": "2016-03-16T18:12"
+  },
+  {
+    "_id": { "$oid": "56e9e4975adbab0dfd64201f" },
+    "episodeTitle": "Formidable Barcelona beat Arsenal 3-1 to reach Champions League quarters",
+    "rssUpdFirst": "2016-03-16T18:42"
+  },
+  {
+    "_id": { "$oid": "56e9e8f95adbab0dfd642033" },
+    "episodeTitle": "Michigan driver charged with murder files $10 million lawsuit against Uber",
+    "rssUpdFirst": "2016-03-16T19:49"
+  },
+  {
+    "_id": { "$oid": "56ea1c0d5adbab0dfd6431ec" },
+    "episodeTitle": "Nike unveils its first self-lacing sneaker",
+    "rssUpdFirst": "2016-03-16T19:51"
+  },
+  {
+    "_id": { "$oid": "56e9d7365adbab0dfd641d1c" },
+    "episodeTitle": "Obama sanctions North Korea for nuclear, missile tests",
+    "rssUpdFirst": "2016-03-16T20:01"
+  },
+  {
+    "_id": { "$oid": "56ea24cc5adbab0dfd643214" },
+    "episodeTitle": "UC Berkeley to review head coach's role in harassment case",
+    "rssUpdFirst": "2016-03-16T20:12"
+  },
+  {
+    "_id": { "$oid": "56ea3ef55adbab0dfd643c52" },
+    "episodeTitle": "Fox GOP Debate Canceled After Kasich and Trump Bow Out",
+    "rssUpdFirst": "2016-03-16T21:31"
+  },
+  {
+    "_id": { "$oid": "56e9ed8c5adbab0dfd642048" },
+    "episodeTitle": "The Latest: Governor: State agency misled him on Flint water",
+    "rssUpdFirst": "2016-03-16T21:42"
+  },
+  {
+    "_id": { "$oid": "56ea26f45adbab0dfd64321c" },
+    "episodeTitle": "Singapore’s exports up 2.1% in February, beating expectations",
+    "rssUpdFirst": "2016-03-16T22:12"
+  },
+  {
+    "_id": { "$oid": "56ea158b5adbab0dfd642dd5" },
+    "episodeTitle": "Obama to lay out vision for Cuba in historic Havana speech",
+    "rssUpdFirst": "2016-03-16T22:13"
+  },
+  {
+    "_id": { "$oid": "56ea0aa85adbab0dfd642c4a" },
+    "episodeTitle": "5 sheriff’s deputies disciplined for actions at Trump rally",
+    "rssUpdFirst": "2016-03-16T23:14"
+  },
+  {
+    "_id": { "$oid": "56ea47b05adbab0dfd643ce2" },
+    "episodeTitle": "Japanese journalist believed to be held in Syria...",
+    "rssUpdFirst": "2016-03-17T00:03"
+  },
+  {
+    "_id": { "$oid": "56ea0f065adbab0dfd642d0c" },
+    "episodeTitle": "Texas officer who killed teen arrested on murder charge",
+    "rssUpdFirst": "2016-03-17T00:05"
+  },
+  {
+    "_id": { "$oid": "56ea458a5adbab0dfd643cd9" },
+    "episodeTitle": "Asia jumps as cautious Fed lifts risk appetite, dollar on defensive",
+    "rssUpdFirst": "2016-03-17T00:16"
+  },
+  {
+    "_id": { "$oid": "56ea90485adbab0dfd6450a9" },
+    "episodeTitle": "2 jets evacuated in bomb scares at New Delhi airport",
+    "rssUpdFirst": "2016-03-17T00:18"
+  },
+  {
+    "_id": { "$oid": "56ea19e75adbab0dfd6431e1" },
+    "episodeTitle": "Japan Reports Biggest Trade Surplus in Over 4 Years in Feb",
+    "rssUpdFirst": "2016-03-17T00:26"
+  },
+  {
+    "_id": { "$oid": "56ea0f065adbab0dfd642d0b" },
+    "episodeTitle": "Sinatra Family: Frank Sinatra Jr. has died",
+    "rssUpdFirst": "2016-03-17T00:44"
+  },
+  {
+    "_id": { "$oid": "56ea386f5adbab0dfd643ab9" },
+    "episodeTitle": "U.S. oil rises 2 percent, adding to gains after supplier meeting agreed",
+    "rssUpdFirst": "2016-03-17T01:07"
+  },
+  {
+    "_id": { "$oid": "56ea2d885adbab0dfd64323c" },
+    "episodeTitle": "Developer drops lawsuit against Facebook's Zuckerberg",
+    "rssUpdFirst": "2016-03-17T01:21"
+  },
+  {
+    "_id": { "$oid": "56ea386f5adbab0dfd643aba" },
+    "episodeTitle": "Bergdahl explains his reasoning in newly released documents",
+    "rssUpdFirst": "2016-03-17T01:21"
+  },
+  {
+    "_id": { "$oid": "56ea6d535adbab0dfd644653" },
+    "episodeTitle": "Guardiola is wowed by Bayern’s four-goal comeback against Juventus",
+    "rssUpdFirst": "2016-03-17T02:26"
+  },
+  {
+    "_id": { "$oid": "56ea87a05adbab0dfd645036" },
+    "episodeTitle": "Russia says to complete withdrawing most of Syria force in 2-3 days",
+    "rssUpdFirst": "2016-03-17T03:35"
+  },
+  {
+    "_id": { "$oid": "56ea0cce5adbab0dfd642d02" },
+    "episodeTitle": "US stocks rise as Fed gives cautious outlook",
+    "rssUpdFirst": "2016-03-17T03:47:58.484"
+  },
+  {
+    "_id": { "$oid": "56ea5b8c5adbab0dfd6445a0" },
+    "episodeTitle": "FIFA claim South Africa paid $10m bribe to host 2010 World Cup",
+    "rssUpdFirst": "2016-03-17T03:53"
+  },
+  {
+    "_id": { "$oid": "56ea78685adbab0dfd644e79" },
+    "episodeTitle": "Trump victory a major global risk: EIU",
+    "rssUpdFirst": "2016-03-17T03:53"
+  },
+  {
+    "_id": { "$oid": "56ea6f805adbab0dfd644706" },
+    "episodeTitle": "Scandal-plagued Toshiba sells medical unit to Canon",
+    "rssUpdFirst": "2016-03-17T03:55"
+  },
+  {
+    "_id": { "$oid": "56ea49ef5adbab0dfd643db5" },
+    "episodeTitle": "Brazil judge sees efforts to curry favor for ex-president",
+    "rssUpdFirst": "2016-03-17T05:03"
+  },
+  {
+    "_id": { "$oid": "56ea64565adbab0dfd6445bf" },
+    "episodeTitle": "German submarine builder warns Australia of Japanese risk",
+    "rssUpdFirst": "2016-03-17T05:21"
+  },
+  {
+    "_id": { "$oid": "56ea7cba5adbab0dfd644ee8" },
+    "episodeTitle": "Israeli ex-Mossad spy chief Meir Dagan dies at 71",
+    "rssUpdFirst": "2016-03-17T06:30"
+  },
+  {
+    "_id": { "$oid": "56eadf265adbab0dfd645a1e" },
+    "episodeTitle": "Lawmaker Says Michigan Gov. Rick Snyder Is Responsible for Flint Water Contamination",
+    "rssUpdFirst": "2016-03-17T06:34"
+  },
+  {
+    "_id": { "$oid": "56eaec6f5adbab0dfd645b29" },
+    "episodeTitle": "South African president rejects allegations of corruption",
+    "rssUpdFirst": "2016-03-17T07:36"
+  },
+  {
+    "_id": { "$oid": "56ea74085adbab0dfd644cfb" },
+    "episodeTitle": "Kurdish TAK militant group says it was behind Ankara bombing that killed 37",
+    "rssUpdFirst": "2016-03-17T07:39"
+  },
+  {
+    "_id": { "$oid": "56ea857c5adbab0dfd644f65" },
+    "episodeTitle": "DC subway shutdown ends, but systemic problems remain",
+    "rssUpdFirst": "2016-03-17T08:13"
+  },
+  {
+    "_id": { "$oid": "56ea90485adbab0dfd6450ab" },
+    "episodeTitle": "Lufthansa's full-year profits get cheap fuel boost",
+    "rssUpdFirst": "2016-03-17T08:13"
+  },
+  {
+    "_id": { "$oid": "56eb02125adbab0dfd645ea1" },
+    "episodeTitle": "NYC St. Patrick's Day Parade kicks off, gay groups included",
+    "rssUpdFirst": "2016-03-17T08:46"
+  },
+  {
+    "_id": { "$oid": "56ea81305adbab0dfd644f11" },
+    "episodeTitle": "Magician Paul Daniels dies aged 77",
+    "rssUpdFirst": "2016-03-17T08:52"
+  },
+  {
+    "_id": { "$oid": "56eaaa6d5adbab0dfd645481" },
+    "episodeTitle": "Norway cuts key interest rate, suggests it could go negative",
+    "rssUpdFirst": "2016-03-17T09:13"
+  },
+  {
+    "_id": { "$oid": "56ea94ad5adbab0dfd645381" },
+    "episodeTitle": "Egypt says scan of King Tut's burial tomb shows hidden rooms",
+    "rssUpdFirst": "2016-03-17T09:16"
+  },
+  {
+    "_id": { "$oid": "56ea9b2d5adbab0dfd6453b5" },
+    "episodeTitle": "SeaWorld announces end to captive orca whale breeding",
+    "rssUpdFirst": "2016-03-17T09:25"
+  },
+  {
+    "_id": { "$oid": "56eb47905adbab0dfd64674a" },
+    "episodeTitle": "Guinea confirms 2 new Ebola cases, 3 probable in southeast",
+    "rssUpdFirst": "2016-03-17T09:55"
+  },
+  {
+    "_id": { "$oid": "56eaa6005adbab0dfd6453fa" },
+    "episodeTitle": "Israeli army: 2 Palestinians stab Israeli and are shot dead",
+    "rssUpdFirst": "2016-03-17T10:15"
+  },
+  {
+    "_id": { "$oid": "56eb22bd5adbab0dfd64612c" },
+    "episodeTitle": "Feds sue to block Tribune Publishing from buying 2 Calif. papers",
+    "rssUpdFirst": "2016-03-17T10:25"
+  },
+  {
+    "_id": { "$oid": "56ead2135adbab0dfd64592a" },
+    "episodeTitle": "Syrian Kurds declare federal region amid wide criticism",
+    "rssUpdFirst": "2016-03-17T11:17"
+  },
+  {
+    "_id": { "$oid": "56eadf265adbab0dfd645a20" },
+    "episodeTitle": "Cranking up pressure, Garland ready for first Senate visits",
+    "rssUpdFirst": "2016-03-17T11:32"
+  },
+  {
+    "_id": { "$oid": "56eac4c95adbab0dfd6458d7" },
+    "episodeTitle": "Kerry determines IS group committing genocide in Iraq, Syria",
+    "rssUpdFirst": "2016-03-17T11:57"
+  },
+  {
+    "_id": { "$oid": "56ead2135adbab0dfd645930" },
+    "episodeTitle": "US current account trade deficit hits $484.1 billion in 2015",
+    "rssUpdFirst": "2016-03-17T12:44"
+  },
+  {
+    "_id": { "$oid": "56eaf7415adbab0dfd645cbb" },
+    "episodeTitle": "Automakers agree to put automatic braking in cars by 2022",
+    "rssUpdFirst": "2016-03-17T13:08"
+  },
+  {
+    "_id": { "$oid": "56eb74cf5adbab0dfd646d6d" },
+    "episodeTitle": "Former ruler Musharraf leaves Pakistan after government lifts travel ban",
+    "rssUpdFirst": "2016-03-17T13:18"
+  },
+  {
+    "_id": { "$oid": "56ea98fd5adbab0dfd6453a8" },
+    "episodeTitle": "The Latest: Germany closes Ankara embassy amid terror threat",
+    "rssUpdFirst": "2016-03-17T13:45:57.361"
+  },
+  {
+    "_id": { "$oid": "56eae5d55adbab0dfd645a90" },
+    "episodeTitle": "US stocks muddled in early trading as gold, silver surge",
+    "rssUpdFirst": "2016-03-17T13:48"
+  },
+  {
+    "_id": { "$oid": "56eb31f65adbab0dfd646310" },
+    "episodeTitle": "Cuba plans to lift penalty on US dollar, demands embargo end",
+    "rssUpdFirst": "2016-03-17T14:34"
+  },
+  {
+    "_id": { "$oid": "56eaaa6d5adbab0dfd64547c" },
+    "episodeTitle": "The Latest: Germany closes Ankara embassy amid terror threat",
+    "rssUpdFirst": "2016-03-17T15:00:23.535"
+  },
+  {
+    "_id": { "$oid": "56eaaee45adbab0dfd64558b" },
+    "episodeTitle": "The Latest: Damascus and Opposition Reject Kurd Declaration",
+    "rssUpdFirst": "2016-03-17T15:19:30.722"
+  },
+  {
+    "_id": { "$oid": "56eafdc55adbab0dfd645d2b" },
+    "episodeTitle": "Authorities: Lawsuit against Uber by shooting suspect bogus",
+    "rssUpdFirst": "2016-03-17T15:34"
+  },
+  {
+    "_id": { "$oid": "56eb0f235adbab0dfd645eec" },
+    "episodeTitle": "Paul Ryan: Contested convention now 'more likely'",
+    "rssUpdFirst": "2016-03-17T16:10"
+  },
+  {
+    "_id": { "$oid": "56eabc215adbab0dfd6457b5" },
+    "episodeTitle": "Pressure piles on Zuma ahead of date with parliament",
+    "rssUpdFirst": "2016-03-17T16:15:57.781"
+  },
+  {
+    "_id": { "$oid": "56eb08ac5adbab0dfd645ecb" },
+    "episodeTitle": "Blatter appeals against ban",
+    "rssUpdFirst": "2016-03-17T16:33"
+  },
+  {
+    "_id": { "$oid": "56eb3a9d5adbab0dfd6465cf" },
+    "episodeTitle": "North Korea fires ballistic missile into sea: Yonhap",
+    "rssUpdFirst": "2016-03-17T17:44"
+  },
+  {
+    "_id": { "$oid": "56eb43485adbab0dfd646718" },
+    "episodeTitle": "Cameron declares Brussels victory to end \"tampon tax\"",
+    "rssUpdFirst": "2016-03-17T18:02"
+  },
+  {
+    "_id": { "$oid": "56eb1c3f5adbab0dfd64610d" },
+    "episodeTitle": "Graham offers tepid endorsement of Cruz as Trump alternative",
+    "rssUpdFirst": "2016-03-17T18:08"
+  },
+  {
+    "_id": { "$oid": "56eb41185adbab0dfd64670f" },
+    "episodeTitle": "Coutinho magic helps Liverpool dump Man United out of Europe",
+    "rssUpdFirst": "2016-03-17T18:33"
+  },
+  {
+    "_id": { "$oid": "56eb5f415adbab0dfd6468b5" },
+    "episodeTitle": "Gas pipeline explosions bring new US safety proposal",
+    "rssUpdFirst": "2016-03-17T18:53"
+  },
+  {
+    "_id": { "$oid": "56eb456b5adbab0dfd646723" },
+    "episodeTitle": "Google gives federal plan for self-driving car",
+    "rssUpdFirst": "2016-03-17T19:39"
+  },
+  {
+    "_id": { "$oid": "56eb3a9d5adbab0dfd6465d5" },
+    "episodeTitle": "The Latest: Man convicted of conspiracy to support IS",
+    "rssUpdFirst": "2016-03-17T20:32"
+  },
+  {
+    "_id": { "$oid": "56eb3a9d5adbab0dfd6465d3" },
+    "episodeTitle": "TransCanada to buy Columbia Pipeline Group for $10.2 billion",
+    "rssUpdFirst": "2016-03-17T20:47"
+  },
+  {
+    "_id": { "$oid": "56eb79255adbab0dfd646e00" },
+    "episodeTitle": "Exclusive: U.S. sees new Chinese activity around South China Sea shoal",
+    "rssUpdFirst": "2016-03-17T20:59"
+  },
+  {
+    "_id": { "$oid": "56eb9baa5adbab0dfd64708e" },
+    "episodeTitle": "A 76-year-old Cuban woman has received a letter from Barack ...",
+    "rssUpdFirst": "2016-03-17T21:11"
+  },
+  {
+    "_id": { "$oid": "56eb3ef25adbab0dfd646700" },
+    "episodeTitle": "Sanders concedes Missouri Democratic primary; Clinton wins",
+    "rssUpdFirst": "2016-03-17T22:14"
+  },
+  {
+    "_id": { "$oid": "56eb569a5adbab0dfd64688d" },
+    "episodeTitle": "The Latest: Worker plunged 800 feet from L.A. skyscraper",
+    "rssUpdFirst": "2016-03-17T22:16"
+  },
+  {
+    "_id": { "$oid": "56eb5d1c5adbab0dfd6468a9" },
+    "episodeTitle": "Faisal Mohammad inspired by ISIS in University of California-Merced stabbings",
+    "rssUpdFirst": "2016-03-17T23:22"
+  },
+  {
+    "_id": { "$oid": "56eb9baa5adbab0dfd64708f" },
+    "episodeTitle": "Gambia forms ties with China after rejecting Taiwan",
+    "rssUpdFirst": "2016-03-18T00:35"
+  },
+  {
+    "_id": { "$oid": "56ebb1435adbab0dfd647765" },
+    "episodeTitle": "Japanese electronics maker Toshiba in US accounting probe",
+    "rssUpdFirst": "2016-03-18T00:47"
+  },
+  {
+    "_id": { "$oid": "56eb76fb5adbab0dfd646ddb" },
+    "episodeTitle": "Emmy-winning ‘L.A. Law’ actor Larry Drake dies at 66",
+    "rssUpdFirst": "2016-03-18T00:50"
+  },
+  {
+    "_id": { "$oid": "56ebcb395adbab0dfd648067" },
+    "episodeTitle": "Oil prices hit 2016 high on output-freeze hopes",
+    "rssUpdFirst": "2016-03-18T01:04"
+  },
+  {
+    "_id": { "$oid": "56eb97555adbab0dfd64707b" },
+    "episodeTitle": "Kerry determines Islamic State group committing genocide in Iraq, Syria",
+    "rssUpdFirst": "2016-03-18T01:48"
+  },
+  {
+    "_id": { "$oid": "56eb81c15adbab0dfd646f2b" },
+    "episodeTitle": "Seattle police release photos of Kurt Cobain suicide gun",
+    "rssUpdFirst": "2016-03-18T02:30"
+  },
+  {
+    "_id": { "$oid": "56eb930b5adbab0dfd647068" },
+    "episodeTitle": "Ravens CB Tray Walker seriously injured in motorcycle crash",
+    "rssUpdFirst": "2016-03-18T02:50"
+  },
+  {
+    "_id": { "$oid": "56ebdc815adbab0dfd648713" },
+    "episodeTitle": "Coutinho helps steer Liverpool past United",
+    "rssUpdFirst": "2016-03-18T03:09"
+  },
+  {
+    "_id": { "$oid": "56ebd8335adbab0dfd648701" },
+    "episodeTitle": "Hamilton quickest, Rosberg crashes in rain",
+    "rssUpdFirst": "2016-03-18T03:16"
+  },
+  {
+    "_id": { "$oid": "56eb90de5adbab0dfd64705d" },
+    "episodeTitle": "لائیو اب Quadriga 05:00 UTC DW News",
+    "rssUpdFirst": "2016-03-18T03:49"
+  },
+  {
+    "_id": { "$oid": "56ec334d5adbab0dfd64a861" },
+    "episodeTitle": "Global stocks mostly higher as Fed underpins sentiment",
+    "rssUpdFirst": "2016-03-18T04:14"
+  },
+  {
+    "_id": { "$oid": "56ebe0d05adbab0dfd648728" },
+    "episodeTitle": "Cricket: India look for turnaround against Pakistan",
+    "rssUpdFirst": "2016-03-18T04:15"
+  },
+  {
+    "_id": { "$oid": "56eb9dcf5adbab0dfd647099" },
+    "episodeTitle": "Houston police fatally shoot 2 suspects at furniture store",
+    "rssUpdFirst": "2016-03-18T04:35"
+  },
+  {
+    "_id": { "$oid": "56ebe5245adbab0dfd648738" },
+    "episodeTitle": "Liverpool looking into claims a youth team player mocked the Munich air disaster",
+    "rssUpdFirst": "2016-03-18T05:07"
+  },
+  {
+    "_id": { "$oid": "56ebacee5adbab0dfd647753" },
+    "episodeTitle": "Decision time for California governor’s big water project",
+    "rssUpdFirst": "2016-03-18T05:25"
+  },
+  {
+    "_id": { "$oid": "56ebb3685adbab0dfd647771" },
+    "episodeTitle": "In fight against Zika, Brazil battles neglect, cash crunch",
+    "rssUpdFirst": "2016-03-18T05:25"
+  },
+  {
+    "_id": { "$oid": "56ebcb395adbab0dfd648066" },
+    "episodeTitle": "Official says lion injures 1 after straying from Kenya park",
+    "rssUpdFirst": "2016-03-18T06:36"
+  },
+  {
+    "_id": { "$oid": "56ebe0d05adbab0dfd648725" },
+    "episodeTitle": "Mark Zuckerberg enjoys smoggy Beijing run ahead of forum",
+    "rssUpdFirst": "2016-03-18T06:44"
+  },
+  {
+    "_id": { "$oid": "56ebdc815adbab0dfd648712" },
+    "episodeTitle": "Dutch lawmaker Wilders in court on hate speech charges",
+    "rssUpdFirst": "2016-03-18T07:41"
+  },
+  {
+    "_id": { "$oid": "56ebd3d95adbab0dfd648443" },
+    "episodeTitle": "US gov't sets record for failures to find files when asked",
+    "rssUpdFirst": "2016-03-18T07:47"
+  },
+  {
+    "_id": { "$oid": "56ebf8b35adbab0dfd648f8e" },
+    "episodeTitle": "Family in South African scandal says it is a scapegoat",
+    "rssUpdFirst": "2016-03-18T08:15"
+  },
+  {
+    "_id": { "$oid": "56ebcd5f5adbab0dfd64806f" },
+    "episodeTitle": "The Latest: Turkish leader says don't bargain over migrants",
+    "rssUpdFirst": "2016-03-18T08:26"
+  },
+  {
+    "_id": { "$oid": "56ebff255adbab0dfd6490fb" },
+    "episodeTitle": "Bangladesh Bank heist shows weak spots in finance safeguards",
+    "rssUpdFirst": "2016-03-18T08:45"
+  },
+  {
+    "_id": { "$oid": "56ebe7545adbab0dfd64889e" },
+    "episodeTitle": "Court acquits ex-Porsche executives over VW bid",
+    "rssUpdFirst": "2016-03-18T08:55"
+  },
+  {
+    "_id": { "$oid": "56ec05a15adbab0dfd64971e" },
+    "episodeTitle": "Cricket-New Zealand set Australia 143 to win in Dharamsala",
+    "rssUpdFirst": "2016-03-18T09:26"
+  },
+  {
+    "_id": { "$oid": "56ec2aa05adbab0dfd64a34b" },
+    "episodeTitle": "Syrian opposition: Government procrastinating in peace talks",
+    "rssUpdFirst": "2016-03-18T09:52"
+  },
+  {
+    "_id": { "$oid": "56ebdea85adbab0dfd64871d" },
+    "episodeTitle": "Statoil says gas facility in Algerian Sahara attacked",
+    "rssUpdFirst": "2016-03-18T09:58"
+  },
+  {
+    "_id": { "$oid": "56ebf6825adbab0dfd648f85" },
+    "episodeTitle": "Man City take on PSG in Champions League last eight",
+    "rssUpdFirst": "2016-03-18T10:09"
+  },
+  {
+    "_id": { "$oid": "56ec07c75adbab0dfd64975b" },
+    "episodeTitle": "Europa League draw: Liverpool face Borussia Dortmund",
+    "rssUpdFirst": "2016-03-18T10:20"
+  },
+  {
+    "_id": { "$oid": "56ec53d65adbab0dfd64b31e" },
+    "episodeTitle": "The Latest: Jurors begin deliberating in Hogan-Gawker trial",
+    "rssUpdFirst": "2016-03-18T10:25"
+  },
+  {
+    "_id": { "$oid": "56ec014c5adbab0dfd6491c8" },
+    "episodeTitle": "Paris gets sausages and steaks 24/7 from vending machine",
+    "rssUpdFirst": "2016-03-18T11:00"
+  },
+  {
+    "_id": { "$oid": "56ec0e505adbab0dfd64978b" },
+    "episodeTitle": "Man charged with murder of prison officer killed by van bomb",
+    "rssUpdFirst": "2016-03-18T11:35"
+  },
+  {
+    "_id": { "$oid": "56ec53d65adbab0dfd64b31f" },
+    "episodeTitle": "Twitter to keep 140-character limit, CEO says",
+    "rssUpdFirst": "2016-03-18T11:48"
+  },
+  {
+    "_id": { "$oid": "56ec240a5adbab0dfd64a32d" },
+    "episodeTitle": "AP source: Threatening letter sent to Trump son's home",
+    "rssUpdFirst": "2016-03-18T11:57"
+  },
+  {
+    "_id": { "$oid": "56ec58355adbab0dfd64b333" },
+    "episodeTitle": "England stun South Africa in highest World T20 run-chase",
+    "rssUpdFirst": "2016-03-18T12:26"
+  },
+  {
+    "_id": { "$oid": "56ec63235adbab0dfd64b4a3" },
+    "episodeTitle": "U.N. tells Syrian government to go faster, get specific in Geneva talks",
+    "rssUpdFirst": "2016-03-18T12:53"
+  },
+  {
+    "_id": { "$oid": "56ec17005adbab0dfd649905" },
+    "episodeTitle": "Starwood takes improved bid from Anbang",
+    "rssUpdFirst": "2016-03-18T13:00"
+  },
+  {
+    "_id": { "$oid": "56ec4d5a5adbab0dfd64afc9" },
+    "episodeTitle": "Obama to nominate 1st woman to head US combatant command",
+    "rssUpdFirst": "2016-03-18T13:07"
+  },
+  {
+    "_id": { "$oid": "56ecaf495adbabdd815bbbdf" },
+    "episodeTitle": "Judges knock down challenge to Brazil ex-president",
+    "rssUpdFirst": "2016-03-18T13:11"
+  },
+  {
+    "_id": { "$oid": "56ec12ad5adbab0dfd64979e" },
+    "episodeTitle": "Paris attack suspect's DNA found in Brussels flat",
+    "rssUpdFirst": "2016-03-18T13:18"
+  },
+  {
+    "_id": { "$oid": "56ec31185adbab0dfd64a50a" },
+    "episodeTitle": "Germany: ex-foreign minister Guido Westerwelle dies at 54",
+    "rssUpdFirst": "2016-03-18T13:52"
+  },
+  {
+    "_id": { "$oid": "56ec44a05adbab0dfd64aaa8" },
+    "episodeTitle": "FIFA inks WCup deal with Chinese sponsor linked to Blatter",
+    "rssUpdFirst": "2016-03-18T14:14"
+  },
+  {
+    "_id": { "$oid": "56ec40525adbab0dfd64aa95" },
+    "episodeTitle": "US Airmen at nuclear base probed for illegal drug use",
+    "rssUpdFirst": "2016-03-18T14:41"
+  },
+  {
+    "_id": { "$oid": "56ec334d5adbab0dfd64a860" },
+    "episodeTitle": "Concert pianist's 2 daughters killed, wife stabbed in Texas",
+    "rssUpdFirst": "2016-03-18T15:09"
+  },
+  {
+    "_id": { "$oid": "56ec6dfe5adbab0dfd64bab7" },
+    "episodeTitle": "Bail revoked for prep school grad, who's taken into custody",
+    "rssUpdFirst": "2016-03-18T16:40"
+  },
+  {
+    "_id": { "$oid": "56ec8e155adbabdd815bb476" },
+    "episodeTitle": "Syrian troops push toward Palmyra, with Russian support",
+    "rssUpdFirst": "2016-03-18T16:52"
+  },
+  {
+    "_id": { "$oid": "56ec80ab5adbabdd815bb309" },
+    "episodeTitle": "White Sox ace Sale accuses GM of lying about LaRoche's son",
+    "rssUpdFirst": "2016-03-18T17:33"
+  },
+  {
+    "_id": { "$oid": "56ec63235adbab0dfd64b4a5" },
+    "episodeTitle": "General Mills to label products with GMOs ahead of Vt. law",
+    "rssUpdFirst": "2016-03-18T17:42"
+  },
+  {
+    "_id": { "$oid": "56ec7e775adbabdd815bb2d7" },
+    "episodeTitle": "Dylan O'Brien injured on set of 'Maze Runner' sequel",
+    "rssUpdFirst": "2016-03-18T19:29"
+  },
+  {
+    "_id": { "$oid": "56ec7e775adbabdd815bb2d3" },
+    "episodeTitle": "Romney to vote for Cruz in Utah caucuses",
+    "rssUpdFirst": "2016-03-18T20:09"
+  },
+  {
+    "_id": { "$oid": "56ec991c5adbabdd815bb9dc" },
+    "episodeTitle": "NFL: Ravens cornerback Tray Walker dies of injuries from dirt bike crash",
+    "rssUpdFirst": "2016-03-18T20:26"
+  },
+  {
+    "_id": { "$oid": "56ec8e155adbabdd815bb474" },
+    "episodeTitle": "Soyuz heads for space station with 2 Russians, 1 American",
+    "rssUpdFirst": "2016-03-18T20:59"
+  },
+  {
+    "_id": { "$oid": "56ec8e155adbabdd815bb473" },
+    "episodeTitle": "UK minister says cuts indefensible, quits",
+    "rssUpdFirst": "2016-03-18T21:06"
+  },
+  {
+    "_id": { "$oid": "56ec9b4e5adbabdd815bba09" },
+    "episodeTitle": "Middle Tennessee State upsets No. 2 seed Michigan State, 90-81",
+    "rssUpdFirst": "2016-03-18T21:14"
+  },
+  {
+    "_id": { "$oid": "56eca4365adbabdd815bbb22" },
+    "episodeTitle": "Market Finishes 5th Week of Gains, Turning S\u0026P 500 Positive",
+    "rssUpdFirst": "2016-03-18T21:16"
+  },
+  {
+    "_id": { "$oid": "56ecad175adbabdd815bbbc0" },
+    "episodeTitle": "Drone comes within 200 feet of airliner near LA airport",
+    "rssUpdFirst": "2016-03-18T22:30"
+  },
+  {
+    "_id": { "$oid": "56ecb3c45adbabdd815bbc01" },
+    "episodeTitle": "Mexican drug lord reading self-help book in prison",
+    "rssUpdFirst": "2016-03-18T22:44"
+  },
+  {
+    "_id": { "$oid": "56ecb8435adbabdd815bbc15" },
+    "episodeTitle": "Fox: Trump has 'extreme, sick obsession' with Megyn Kelly",
+    "rssUpdFirst": "2016-03-19T00:15"
+  },
+  {
+    "_id": { "$oid": "56ecf64d5adbabdd815bc0f4" },
+    "episodeTitle": "The Latest: Judge stalls Tribune purchase of newspapers",
+    "rssUpdFirst": "2016-03-19T01:25"
+  },
+  {
+    "_id": { "$oid": "56ecc1095adbabdd815bbde1" },
+    "episodeTitle": "Russian Boeing 738 passenger jet crashes attempting to land at Rostov-on-Don airport: report",
+    "rssUpdFirst": "2016-03-19T02:05"
+  },
+  {
+    "_id": { "$oid": "56eceb205adbabdd815bc0a4" },
+    "episodeTitle": "India vs Pakistan World T20 showdown: Afridi speaks of love; Kohli gifts bat to Amir",
+    "rssUpdFirst": "2016-03-19T02:25"
+  },
+  {
+    "_id": { "$oid": "56ed20445adbab39d0f14838" },
+    "episodeTitle": "Al-Qaida claims attack on foreign-linked Algerian gas plant",
+    "rssUpdFirst": "2016-03-19T02:35"
+  },
+  {
+    "_id": { "$oid": "56ecd2b05adbabdd815bbed6" },
+    "episodeTitle": "Top Brazilian judge blocks Cabinet post for ex-president",
+    "rssUpdFirst": "2016-03-19T02:41"
+  },
+  {
+    "_id": { "$oid": "56ed4bb45adbabc1475fd26a" },
+    "episodeTitle": "Uttarakhand crisis: I will resign if I lose majority, Harish Rawat says",
+    "rssUpdFirst": "2016-03-19T03:25"
+  },
+  {
+    "_id": { "$oid": "56ed19a75adbab39d0f1452b" },
+    "episodeTitle": "Captive British journalist appears in new IS video",
+    "rssUpdFirst": "2016-03-19T03:32"
+  },
+  {
+    "_id": { "$oid": "56ed154e5adbab39d0f14516" },
+    "episodeTitle": "Israeli police: Palestinian stabs officer, shot dead",
+    "rssUpdFirst": "2016-03-19T04:39"
+  },
+  {
+    "_id": { "$oid": "56ed13215adbab39d0f144b3" },
+    "episodeTitle": "Hamilton takes pole in farcical qualifying",
+    "rssUpdFirst": "2016-03-19T04:41"
+  },
+  {
+    "_id": { "$oid": "56ed4de35adbabc1475fd29d" },
+    "episodeTitle": "Sydney among first cities to switch off lights for Earth Hour",
+    "rssUpdFirst": "2016-03-19T06:03"
+  },
+  {
+    "_id": { "$oid": "56ed1bd55adbab39d0f147ac" },
+    "episodeTitle": "Putin orders assistance to relatives of those killed in plane crash in Russia - agencies",
+    "rssUpdFirst": "2016-03-19T06:34"
+  },
+  {
+    "_id": { "$oid": "56ed154e5adbab39d0f14517" },
+    "episodeTitle": "China journalist with rumored link to Xi petition is missing",
+    "rssUpdFirst": "2016-03-19T07:15"
+  },
+  {
+    "_id": { "$oid": "56ed474e5adbabc1475fd0e6" },
+    "episodeTitle": "AP Exclusive: Dead Brussels Gunman Sought IS Suicide Mission",
+    "rssUpdFirst": "2016-03-19T09:17"
+  },
+  {
+    "_id": { "$oid": "56ed79c35adbabc7c59b755e" },
+    "episodeTitle": "Obama's historic trip to Cuba rife with risk, opportunity",
+    "rssUpdFirst": "2016-03-19T09:21"
+  },
+  {
+    "_id": { "$oid": "56ed2d6d5adbab39d0f14b78" },
+    "episodeTitle": "The Latest: 3 reported killed in Istanbul blast",
+    "rssUpdFirst": "2016-03-19T09:25"
+  },
+  {
+    "_id": { "$oid": "56ed66085adbabc7c59b6e98" },
+    "episodeTitle": "Britain's Prince Harry begins 5-day official trip to Nepal",
+    "rssUpdFirst": "2016-03-19T09:33"
+  },
+  {
+    "_id": { "$oid": "56ed5f725adbabc7c59b6d05" },
+    "episodeTitle": "Obama, Republicans take Supreme Court fight to airwaves",
+    "rssUpdFirst": "2016-03-19T10:10"
+  },
+  {
+    "_id": { "$oid": "56ed13215adbab39d0f144b4" },
+    "episodeTitle": "Putin orders assistance to relatives of those killed in plane crash in Russia - agencies",
+    "rssUpdFirst": "2016-03-19T10:51:36.179"
+  },
+  {
+    "_id": { "$oid": "56ed70fd5adbabc7c59b72be" },
+    "episodeTitle": "Pope Francis Makes Dignified Debut On Instagram",
+    "rssUpdFirst": "2016-03-19T12:03"
+  },
+  {
+    "_id": { "$oid": "56ed91e35adbabc7c59b7b76" },
+    "episodeTitle": "NYC Teacher Fined $300 for Showing Students Beheading Video",
+    "rssUpdFirst": "2016-03-19T12:10"
+  },
+  {
+    "_id": { "$oid": "56ed84bb5adbabc7c59b75fd" },
+    "episodeTitle": "Arsenal beats Everton 2-0, keeps alive fading EPL challenge",
+    "rssUpdFirst": "2016-03-19T12:19"
+  },
+  {
+    "_id": { "$oid": "56ed66085adbabc7c59b6e95" },
+    "episodeTitle": "Dozens killed or wounded in air strikes on Syria's Raqqa - Syrian Observatory",
+    "rssUpdFirst": "2016-03-19T12:34"
+  },
+  {
+    "_id": { "$oid": "56ed8d865adbabc7c59b7b12" },
+    "episodeTitle": "WWF calls on people to observe Earth Hour",
+    "rssUpdFirst": "2016-03-19T12:55"
+  },
+  {
+    "_id": { "$oid": "56ed5b0b5adbabc1475fd6d6" },
+    "episodeTitle": "With orca changes, SeaWorld must live without iconic Shamu",
+    "rssUpdFirst": "2016-03-19T12:59"
+  },
+  {
+    "_id": { "$oid": "56ed66085adbabc7c59b6e9a" },
+    "episodeTitle": "Greece scrambles to implement migration deal",
+    "rssUpdFirst": "2016-03-19T12:59"
+  },
+  {
+    "_id": { "$oid": "56ed70fd5adbabc7c59b72bd" },
+    "episodeTitle": "U.S. service member killed in Iraq fighting Islamic State",
+    "rssUpdFirst": "2016-03-19T13:19"
+  },
+  {
+    "_id": { "$oid": "56eda1465adbabc7c59b7cf0" },
+    "episodeTitle": "Microsoft says hiring go-go dancers at Xbox party was wrong",
+    "rssUpdFirst": "2016-03-19T13:26"
+  },
+  {
+    "_id": { "$oid": "56ed9f115adbabc7c59b7be3" },
+    "episodeTitle": "Muhammad Ali's boyhood home restored, to be open to public",
+    "rssUpdFirst": "2016-03-19T15:19"
+  },
+  {
+    "_id": { "$oid": "56edb8de5adbabd7c29e6f70" },
+    "episodeTitle": "Free-scoring Wales hammer Italy",
+    "rssUpdFirst": "2016-03-19T16:30"
+  },
+  {
+    "_id": { "$oid": "56edeb605adbabd7c29e705e" },
+    "episodeTitle": "Orange County Register to be sold to Digital First Media",
+    "rssUpdFirst": "2016-03-19T16:32"
+  },
+  {
+    "_id": { "$oid": "56eea1c45adbabd7c29e73fb" },
+    "episodeTitle": "Istanbul bomber suicide identified as IS member, Turkish police on high alert (Update 1)",
+    "rssUpdFirst": "2016-03-19T16:42"
+  },
+  {
+    "_id": { "$oid": "56edb01a5adbabd7c29e6f48" },
+    "episodeTitle": "Leicester City surge on towards title after beating Crystal Palace",
+    "rssUpdFirst": "2016-03-19T17:00"
+  },
+  {
+    "_id": { "$oid": "56edbf755adbabd7c29e6f8e" },
+    "episodeTitle": "Coast Guard: 9 Cuban migrants die, 18 rescued off Florida",
+    "rssUpdFirst": "2016-03-19T17:18"
+  },
+  {
+    "_id": { "$oid": "56ee2af45adbabd7c29e718f" },
+    "episodeTitle": "Anti-Trump protesters block Arizona road; march in New York",
+    "rssUpdFirst": "2016-03-19T17:35"
+  },
+  {
+    "_id": { "$oid": "56edc1ac5adbabd7c29e6f96" },
+    "episodeTitle": "Ireland end 6 Nations campaign on a high with victory against Scotland",
+    "rssUpdFirst": "2016-03-19T18:33"
+  },
+  {
+    "_id": { "$oid": "56edd9d05adbabd7c29e700c" },
+    "episodeTitle": "No major injuries after bus carrying Indiana team overturns",
+    "rssUpdFirst": "2016-03-19T18:58"
+  },
+  {
+    "_id": { "$oid": "56edd1115adbabd7c29e6fe6" },
+    "episodeTitle": "At least 13 Egyptian policemen killed in Sinai attack",
+    "rssUpdFirst": "2016-03-19T19:28"
+  },
+  {
+    "_id": { "$oid": "56edca7c5adbabd7c29e6fc8" },
+    "episodeTitle": "Woman shot by Virginia police was holding fake gun",
+    "rssUpdFirst": "2016-03-19T20:04"
+  },
+  {
+    "_id": { "$oid": "56ee17365adbabd7c29e712c" },
+    "episodeTitle": "WASHINGTON — President Obama will open a new era in ...",
+    "rssUpdFirst": "2016-03-19T20:49"
+  },
+  {
+    "_id": { "$oid": "56ee1b985adbabd7c29e7143" },
+    "episodeTitle": "INDIAN WELLS, Calif (AP) — Novak Djokovic continued ...",
+    "rssUpdFirst": "2016-03-19T21:09"
+  },
+  {
+    "_id": { "$oid": "56eda5a45adbabc7c59b7d8c" },
+    "episodeTitle": "Protesters block main road to Trump rally",
+    "rssUpdFirst": "2016-03-19T21:16:51.421"
+  },
+  {
+    "_id": { "$oid": "56edff225adbabd7c29e70bf" },
+    "episodeTitle": "Former Vale CEO Agnelli killed in crash in Brazil - Globo",
+    "rssUpdFirst": "2016-03-19T21:39"
+  },
+  {
+    "_id": { "$oid": "56edefc35adbabd7c29e7072" },
+    "episodeTitle": "Six Nations: Eddie Jones leads England to first grand slam in 13 years",
+    "rssUpdFirst": "2016-03-19T22:15"
+  },
+  {
+    "_id": { "$oid": "56ee01515adbabd7c29e70c9" },
+    "episodeTitle": "Skyslide airlifted to downtown Los Angeles skyscraper",
+    "rssUpdFirst": "2016-03-19T22:26"
+  },
+  {
+    "_id": { "$oid": "56ee10a75adbabd7c29e710f" },
+    "episodeTitle": "WASHINGTON — President Obama will open a new era in ...",
+    "rssUpdFirst": "2016-03-19T22:33"
+  },
+  {
+    "_id": { "$oid": "56edf6515adbabd7c29e708c" },
+    "episodeTitle": "US hotel company Starwood to run 3 Cuban hotels",
+    "rssUpdFirst": "2016-03-19T23:45"
+  },
+  {
+    "_id": { "$oid": "56ee1b985adbabd7c29e7145" },
+    "episodeTitle": "Indiana tops Kentucky 73-67 for Sweet 16 berth",
+    "rssUpdFirst": "2016-03-19T23:55"
+  },
+  {
+    "_id": { "$oid": "56ee2f625adbabd7c29e71aa" },
+    "episodeTitle": "Kohli sparkles, India beat Pakistan to revive campaign",
+    "rssUpdFirst": "2016-03-20T00:13"
+  },
+  {
+    "_id": { "$oid": "56ee40fc5adbabd7c29e7204" },
+    "episodeTitle": "Trump Campaign: Manager Didn't Grab Protester in Video",
+    "rssUpdFirst": "2016-03-20T01:36"
+  },
+  {
+    "_id": { "$oid": "56ede2995adbabd7c29e7036" },
+    "episodeTitle": "US releases video of Obama with Cuba’s best-known comedian",
+    "rssUpdFirst": "2016-03-20T01:36:57.077"
+  },
+  {
+    "_id": { "$oid": "56ee8df15adbabd7c29e739d" },
+    "episodeTitle": "Pensions minister claims Iain Duncan Smith had been 'planning to find a reason to resign'",
+    "rssUpdFirst": "2016-03-20T01:37"
+  },
+  {
+    "_id": { "$oid": "56ee5fc55adbabd7c29e72b1" },
+    "episodeTitle": "Greece delays sending refugees back to Turkey under EU deal",
+    "rssUpdFirst": "2016-03-20T02:30"
+  },
+  {
+    "_id": { "$oid": "56ee3ec55adbabd7c29e71fa" },
+    "episodeTitle": "Jury says Vegas man bilked investors with Nigerian oil scam",
+    "rssUpdFirst": "2016-03-20T03:02"
+  },
+  {
+    "_id": { "$oid": "56ee4e2e5adbabd7c29e7259" },
+    "episodeTitle": "Djokovic reaches the BNP Paribas Open final for the second ...",
+    "rssUpdFirst": "2016-03-20T03:07"
+  },
+  {
+    "_id": { "$oid": "56ee319a5adbabd7c29e71ba" },
+    "episodeTitle": "Facebook's Zuckerberg meets China's propaganda chief",
+    "rssUpdFirst": "2016-03-20T03:25"
+  },
+  {
+    "_id": { "$oid": "56ee665d5adbabd7c29e72d3" },
+    "episodeTitle": "Bangladesh heist exposes Philippine dirty money secrets",
+    "rssUpdFirst": "2016-03-20T03:36"
+  },
+  {
+    "_id": { "$oid": "56ee3c965adbabd7c29e71f1" },
+    "episodeTitle": "2 migrants found dead on Greek island",
+    "rssUpdFirst": "2016-03-20T04:53"
+  },
+  {
+    "_id": { "$oid": "56ee77ea5adbabd7c29e732f" },
+    "episodeTitle": "Niger Holds Presidential Run-off Despite Boycott",
+    "rssUpdFirst": "2016-03-20T05:00"
+  },
+  {
+    "_id": { "$oid": "56eebc2f5adbabd7c29e7482" },
+    "episodeTitle": "Flight recorders badly damaged in Russia plane crash",
+    "rssUpdFirst": "2016-03-20T05:13"
+  },
+  {
+    "_id": { "$oid": "56ee7e7b5adbabd7c29e734c" },
+    "episodeTitle": "Military spokesman David Obonyo said two Kenyan soldiers were also killed and five others wounded.",
+    "rssUpdFirst": "2016-03-20T05:14"
+  },
+  {
+    "_id": { "$oid": "56ee4bf65adbabd7c29e724d" },
+    "episodeTitle": "Tibetans voting for government-in-exile",
+    "rssUpdFirst": "2016-03-20T05:31"
+  },
+  {
+    "_id": { "$oid": "56ee54c65adbabd7c29e727d" },
+    "episodeTitle": "Man dies in Telluride ski crash, 2nd such death in 10 days",
+    "rssUpdFirst": "2016-03-20T05:34"
+  },
+  {
+    "_id": { "$oid": "56ee52965adbabd7c29e7270" },
+    "episodeTitle": "Chinese planner promises foreign companies access to markets",
+    "rssUpdFirst": "2016-03-20T05:45"
+  },
+  {
+    "_id": { "$oid": "56ee6ac45adbabd7c29e72e9" },
+    "episodeTitle": "Alonso walks away from huge crash in Australia",
+    "rssUpdFirst": "2016-03-20T06:19"
+  },
+  {
+    "_id": { "$oid": "56ee75b45adbabd7c29e7320" },
+    "episodeTitle": "Trump’s immigration stance resonates at tense rallies",
+    "rssUpdFirst": "2016-03-20T07:00"
+  },
+  {
+    "_id": { "$oid": "56ee5b635adbabd7c29e729b" },
+    "episodeTitle": "Motor racing-Rosberg wins dramatic Australian Grand Prix",
+    "rssUpdFirst": "2016-03-20T07:14"
+  },
+  {
+    "_id": { "$oid": "56ee82df5adbabd7c29e7364" },
+    "episodeTitle": "Iran's leaders offer different economic visions for coming year",
+    "rssUpdFirst": "2016-03-20T07:17"
+  },
+  {
+    "_id": { "$oid": "56ee688d5adbabd7c29e72da" },
+    "episodeTitle": "Home of relative of Palestinian arson victims set ablaze",
+    "rssUpdFirst": "2016-03-20T07:23"
+  },
+  {
+    "_id": { "$oid": "56ee665d5adbabd7c29e72ce" },
+    "episodeTitle": "Exiled Tibetans vote for government shunned by China",
+    "rssUpdFirst": "2016-03-20T07:31"
+  },
+  {
+    "_id": { "$oid": "56eec7295adbabd7c29e74ba" },
+    "episodeTitle": "Prince Harry visits Nepal quake victims, damaged structures",
+    "rssUpdFirst": "2016-03-20T07:33"
+  },
+  {
+    "_id": { "$oid": "56eebe605adbabd7c29e748e" },
+    "episodeTitle": "UN staffers pull out of Western Sahara mission in row with Morocco",
+    "rssUpdFirst": "2016-03-20T08:18"
+  },
+  {
+    "_id": { "$oid": "56ee7a1a5adbabd7c29e7337" },
+    "episodeTitle": "Voting in parliamentary election begins in Kazakhstan",
+    "rssUpdFirst": "2016-03-20T09:01"
+  },
+  {
+    "_id": { "$oid": "56eeb1305adbabd7c29e744b" },
+    "episodeTitle": "South Africa beat Afghanistan by 37 runs in World T20",
+    "rssUpdFirst": "2016-03-20T09:15"
+  },
+  {
+    "_id": { "$oid": "56ee52965adbabd7c29e7271" },
+    "episodeTitle": "Fight over names to historic sites at Yosemite escalates",
+    "rssUpdFirst": "2016-03-20T09:34:46.648"
+  },
+  {
+    "_id": { "$oid": "56ee9b285adbabd7c29e73e3" },
+    "episodeTitle": "Pope blesses palm fronds, olive branches as Holy Week begins",
+    "rssUpdFirst": "2016-03-20T09:43"
+  },
+  {
+    "_id": { "$oid": "56ee89815adbabd7c29e7389" },
+    "episodeTitle": "Spain: Some killed, injured in bus crash on coastal highway",
+    "rssUpdFirst": "2016-03-20T09:57"
+  },
+  {
+    "_id": { "$oid": "56eef7ad5adbabd7c29e757f" },
+    "episodeTitle": "Trump refuses to condemn violence",
+    "rssUpdFirst": "2016-03-20T12:17"
+  },
+  {
+    "_id": { "$oid": "56eeacbd5adbabd7c29e7437" },
+    "episodeTitle": "Online lodging service Airbnb opens Cuba listings to world",
+    "rssUpdFirst": "2016-03-20T12:31"
+  },
+  {
+    "_id": { "$oid": "56eee6195adbabd7c29e7548" },
+    "episodeTitle": "The Latest: Indiana Deputy, Suspect Dead After Gunfight",
+    "rssUpdFirst": "2016-03-20T12:34"
+  },
+  {
+    "_id": { "$oid": "56eed4675adbabd7c29e74f7" },
+    "episodeTitle": "Iraq Exports First Natural Gas Shipment in Its History",
+    "rssUpdFirst": "2016-03-20T13:04"
+  },
+  {
+    "_id": { "$oid": "56eefcb85adbab253b71241e" },
+    "episodeTitle": "Windies beat Sri Lanka by seven wickets in World T20",
+    "rssUpdFirst": "2016-03-20T13:17"
+  },
+  {
+    "_id": { "$oid": "56eee3e85adbabd7c29e753b" },
+    "episodeTitle": "Khamenei says all U.S. presidential candidates hostile to Iran",
+    "rssUpdFirst": "2016-03-20T13:42"
+  },
+  {
+    "_id": { "$oid": "56eecb895adbabd7c29e74d0" },
+    "episodeTitle": "McConnell rules out 'lame duck' action on court",
+    "rssUpdFirst": "2016-03-20T14:05"
+  },
+  {
+    "_id": { "$oid": "56ef1a555adbab2c7d38e858" },
+    "episodeTitle": "Texas mother accused of putting child in oven",
+    "rssUpdFirst": "2016-03-20T14:19"
+  },
+  {
+    "_id": { "$oid": "56ef04395adbab2749732983" },
+    "episodeTitle": "Apple's Latest Product Event Isn't Causing a Big Stir",
+    "rssUpdFirst": "2016-03-20T14:33"
+  },
+  {
+    "_id": { "$oid": "56eefcb85adbab253b71241d" },
+    "episodeTitle": "Record-breaker Rashford wins Manchester derby for United",
+    "rssUpdFirst": "2016-03-20T15:10"
+  },
+  {
+    "_id": { "$oid": "56ef233e5adbab2c7d38e87f" },
+    "episodeTitle": "Israeli police: Arson in West Bank likely not Jewish crime",
+    "rssUpdFirst": "2016-03-20T16:56"
+  },
+  {
+    "_id": { "$oid": "56eef7ad5adbabd7c29e7580" },
+    "episodeTitle": "Sherwin-Williams Buying Rival Valspar for $11.3 Billion",
+    "rssUpdFirst": "2016-03-20T17:11"
+  },
+  {
+    "_id": { "$oid": "56eebe605adbabd7c29e748c" },
+    "episodeTitle": "Belgian minister: Abdeslam planning new acts from Brussels",
+    "rssUpdFirst": "2016-03-20T17:14:37.247"
+  },
+  {
+    "_id": { "$oid": "56ef3ff35adbab2c7d38e901" },
+    "episodeTitle": "Late tip gives Notre Dame 76-75 win over Stephen F. Austin",
+    "rssUpdFirst": "2016-03-20T17:18"
+  },
+  {
+    "_id": { "$oid": "56ef233e5adbab2c7d38e880" },
+    "episodeTitle": "Turnpike employee, worker, suspect killed in robbery attempt",
+    "rssUpdFirst": "2016-03-20T17:28"
+  },
+  {
+    "_id": { "$oid": "56ef1ecc5adbab2c7d38e86c" },
+    "episodeTitle": "South Africa's ruling party ANC says has full confidence in Zuma",
+    "rssUpdFirst": "2016-03-20T18:01"
+  },
+  {
+    "_id": { "$oid": "56ef25765adbab2c7d38e88a" },
+    "episodeTitle": "Marine from Southern California killed in Iraq",
+    "rssUpdFirst": "2016-03-20T18:58"
+  },
+  {
+    "_id": { "$oid": "56ef371c5adbab2c7d38e8d9" },
+    "episodeTitle": "Anker Joergensen, Danish former prime minister, dies at 93",
+    "rssUpdFirst": "2016-03-20T20:08"
+  },
+  {
+    "_id": { "$oid": "56ef2e4d5adbab2c7d38e8b1" },
+    "episodeTitle": "Azarenka shocks Serena Williams in Indian Wells final",
+    "rssUpdFirst": "2016-03-20T20:10"
+  },
+  {
+    "_id": { "$oid": "56ef394d5adbab2c7d38e8e4" },
+    "episodeTitle": "Police issue Amber Alert after a car was stolen in Toronto with a baby inside",
+    "rssUpdFirst": "2016-03-20T20:15"
+  },
+  {
+    "_id": { "$oid": "56eeec4e5adbabd7c29e755b" },
+    "episodeTitle": "Istanbul soccer match called off over unspecified threat",
+    "rssUpdFirst": "2016-03-20T20:30:16.978"
+  },
+  {
+    "_id": { "$oid": "56ef51a95adbab2c7d38e952" },
+    "episodeTitle": "Iran's Supreme Leader Accuses US of Failing to Honor Nuclear Deal",
+    "rssUpdFirst": "2016-03-20T21:01"
+  },
+  {
+    "_id": { "$oid": "56ef3ff35adbab2c7d38e902" },
+    "episodeTitle": "Tournament director: women 'ride on coattails of men'",
+    "rssUpdFirst": "2016-03-20T21:12"
+  },
+  {
+    "_id": { "$oid": "56ef307f5adbab2c7d38e8bc" },
+    "episodeTitle": "Five dead and infant rescued as car goes into water at Donegal pier",
+    "rssUpdFirst": "2016-03-20T21:23"
+  },
+  {
+    "_id": { "$oid": "56ef8e7d5adbab3ada56c4c8" },
+    "episodeTitle": "Indonesia says Chinese coast guard infringed Indonesian waters",
+    "rssUpdFirst": "2016-03-20T21:44"
+  },
+  {
+    "_id": { "$oid": "56ef53e35adbab2c7d38e95a" },
+    "episodeTitle": "Rift in Britain’s ruling Conservative Party deepens",
+    "rssUpdFirst": "2016-03-20T21:47"
+  },
+  {
+    "_id": { "$oid": "56ef5cab5adbab2c7d38e984" },
+    "episodeTitle": "Jimmie Johnson pulled away in overtime to beat Kevin ...",
+    "rssUpdFirst": "2016-03-20T23:19"
+  },
+  {
+    "_id": { "$oid": "56ef6e545adbab2c7d38e9d4" },
+    "episodeTitle": "Brewers' Liriano hit in face by pitch vs Dodgers, taken off",
+    "rssUpdFirst": "2016-03-20T23:49"
+  },
+  {
+    "_id": { "$oid": "56ef4d3f5adbab2c7d38e93c" },
+    "episodeTitle": "Malcolm Turnbull recalls Parliament for April 18 sitting ahead of early election",
+    "rssUpdFirst": "2016-03-21T00:03"
+  },
+  {
+    "_id": { "$oid": "56ef610d5adbab2c7d38e996" },
+    "episodeTitle": "Brexit could cost British economy Â£100 billion: study",
+    "rssUpdFirst": "2016-03-21T00:12"
+  },
+  {
+    "_id": { "$oid": "56ef6c1c5adbab2c7d38e9c9" },
+    "episodeTitle": "The senior star poured it on the second half, finishing with ...",
+    "rssUpdFirst": "2016-03-21T00:23"
+  },
+  {
+    "_id": { "$oid": "56f01dc95adbab3ada56c769" },
+    "episodeTitle": "US leaders must still 'distrust' Iran - Clinton",
+    "rssUpdFirst": "2016-03-21T00:58"
+  },
+  {
+    "_id": { "$oid": "56ef9bc25adbab3ada56c507" },
+    "episodeTitle": "More snow for New England; less for rest of Northeast",
+    "rssUpdFirst": "2016-03-21T01:37"
+  },
+  {
+    "_id": { "$oid": "56ef74f15adbab2c7d38e9f2" },
+    "episodeTitle": "2 British ships arrive in Japan to carry plutonium to US",
+    "rssUpdFirst": "2016-03-21T02:04"
+  },
+  {
+    "_id": { "$oid": "56efa91f5adbab3ada56c542" },
+    "episodeTitle": "Report: North Korea fires missile, short-range projectiles",
+    "rssUpdFirst": "2016-03-21T02:20"
+  },
+  {
+    "_id": { "$oid": "56efb4575adbab3ada56c576" },
+    "episodeTitle": "All eyes on Tuesday, as interest rate cut issue calls for attention",
+    "rssUpdFirst": "2016-03-21T02:32"
+  },
+  {
+    "_id": { "$oid": "56ef99875adbab3ada56c4fe" },
+    "episodeTitle": "Biden reassures pro-Israel group of unwavering support",
+    "rssUpdFirst": "2016-03-21T02:44"
+  },
+  {
+    "_id": { "$oid": "56ef86a45adbab2c7d38ea42" },
+    "episodeTitle": "Asian stocks mixed as investors mull world growth prospects",
+    "rssUpdFirst": "2016-03-21T03:10"
+  },
+  {
+    "_id": { "$oid": "56f063e35adbab3ada56c894" },
+    "episodeTitle": "Water and jobs: Thirst for this theme - EDITORIAL",
+    "rssUpdFirst": "2016-03-21T03:31"
+  },
+  {
+    "_id": { "$oid": "56ef8b1a5adbab2c7d38ea56" },
+    "episodeTitle": "China vows crackdown on fake vaccines amid scandal",
+    "rssUpdFirst": "2016-03-21T03:34"
+  },
+  {
+    "_id": { "$oid": "56ef6c1c5adbab2c7d38e9c8" },
+    "episodeTitle": "Cameron to address IDS fallout in Commons Sky News",
+    "rssUpdFirst": "2016-03-21T03:38"
+  },
+  {
+    "_id": { "$oid": "56ef82305adbab2c7d38ea2d" },
+    "episodeTitle": "Live TV Now Arts.21 05:00 UTC DW News",
+    "rssUpdFirst": "2016-03-21T03:44"
+  },
+  {
+    "_id": { "$oid": "56efb8bb5adbab3ada56c590" },
+    "episodeTitle": "Debris reaches Australia for MH370 analysis",
+    "rssUpdFirst": "2016-03-21T04:16"
+  },
+  {
+    "_id": { "$oid": "56efb4575adbab3ada56c578" },
+    "episodeTitle": "Russian airport where plane crashed Saturday reopens",
+    "rssUpdFirst": "2016-03-21T04:19"
+  },
+  {
+    "_id": { "$oid": "56f05f775adbab3ada56c87d" },
+    "episodeTitle": "Government says no plans for further welfare cuts after disability payments row",
+    "rssUpdFirst": "2016-03-21T04:48"
+  },
+  {
+    "_id": { "$oid": "56efa0325adbab3ada56c517" },
+    "episodeTitle": "ASX chief Elmer Funke Kupper resigns, effective immediately",
+    "rssUpdFirst": "2016-03-21T05:25"
+  },
+  {
+    "_id": { "$oid": "56efbaee5adbab3ada56c597" },
+    "episodeTitle": "Court finds Ukrainian pilot guilty of complicity to murder",
+    "rssUpdFirst": "2016-03-21T06:13"
+  },
+  {
+    "_id": { "$oid": "56efca675adbab3ada56c5e1" },
+    "episodeTitle": "Myanmar's Suu Kyi unlikely to take formal role in new government",
+    "rssUpdFirst": "2016-03-21T06:55"
+  },
+  {
+    "_id": { "$oid": "56efbaee5adbab3ada56c59a" },
+    "episodeTitle": "19 of Yemen's last remaining Jews arrive in Israel",
+    "rssUpdFirst": "2016-03-21T07:13"
+  },
+  {
+    "_id": { "$oid": "56efe4d65adbab3ada56c66b" },
+    "episodeTitle": "Russia says might use force to cease-fire violators in Syria",
+    "rssUpdFirst": "2016-03-21T08:56"
+  },
+  {
+    "_id": { "$oid": "56ef9bc25adbab3ada56c508" },
+    "episodeTitle": "South Korea says prepared for another North nuclear test",
+    "rssUpdFirst": "2016-03-21T08:59:14.944"
+  },
+  {
+    "_id": { "$oid": "56f0071b5adbab3ada56c705" },
+    "episodeTitle": "Ruling party wins presidential vote re-run in Zanzibar",
+    "rssUpdFirst": "2016-03-21T10:02"
+  },
+  {
+    "_id": { "$oid": "56f04b2e5adbab3ada56c827" },
+    "episodeTitle": "The Latest: Hogan-Gawker jury considers punitive damages",
+    "rssUpdFirst": "2016-03-21T10:19"
+  },
+  {
+    "_id": { "$oid": "56eff2e85adbab3ada56c6ab" },
+    "episodeTitle": "IHS and Markit combining in deal valued at more than $13B",
+    "rssUpdFirst": "2016-03-21T10:40"
+  },
+  {
+    "_id": { "$oid": "56f009545adbab3ada56c70f" },
+    "episodeTitle": "UK judge implores Madonna, Ritchie to settle custody dispute",
+    "rssUpdFirst": "2016-03-21T10:42"
+  },
+  {
+    "_id": { "$oid": "56f01dc95adbab3ada56c767" },
+    "episodeTitle": "The Hague court convicts Congolese ex-vice president Bemba of war crimes",
+    "rssUpdFirst": "2016-03-21T10:56"
+  },
+  {
+    "_id": { "$oid": "56f02bac5adbab3ada56c79b" },
+    "episodeTitle": "Millionaires urge NY Governor: Raise our taxes",
+    "rssUpdFirst": "2016-03-21T10:59"
+  },
+  {
+    "_id": { "$oid": "56eff52c5adbab3ada56c6b2" },
+    "episodeTitle": "Marriott wins over Starwood with revised buyout bid",
+    "rssUpdFirst": "2016-03-21T11:28"
+  },
+  {
+    "_id": { "$oid": "56effbdc5adbab3ada56c6d2" },
+    "episodeTitle": "Captured Paris attack suspect 'worth his weight in gold' to police: Lawyer",
+    "rssUpdFirst": "2016-03-21T12:28"
+  },
+  {
+    "_id": { "$oid": "56f063e35adbab3ada56c895" },
+    "episodeTitle": "Utah split hampers Republican efforts to derail Trump’s lead",
+    "rssUpdFirst": "2016-03-21T12:53"
+  },
+  {
+    "_id": { "$oid": "56f00b8d5adbab3ada56c719" },
+    "episodeTitle": "Valeant to replace CEO, adds activist investor to board",
+    "rssUpdFirst": "2016-03-21T13:09"
+  },
+  {
+    "_id": { "$oid": "56f051fe5adbab3ada56c844" },
+    "episodeTitle": "Stocks waver between gains and losses in afternoon trading",
+    "rssUpdFirst": "2016-03-21T13:49"
+  },
+  {
+    "_id": { "$oid": "56f029685adbab3ada56c790" },
+    "episodeTitle": "Justices will hear Samsung-Apple patent dispute",
+    "rssUpdFirst": "2016-03-21T13:52"
+  },
+  {
+    "_id": { "$oid": "56efeb6c5adbab3ada56c68d" },
+    "episodeTitle": "Belgian prosecutors call for details on new terror suspect",
+    "rssUpdFirst": "2016-03-21T14:39:08.240"
+  },
+  {
+    "_id": { "$oid": "56f082105adbab1cf136da9d" },
+    "episodeTitle": "Case settled against NY woman who spent years in solitary",
+    "rssUpdFirst": "2016-03-21T15:10"
+  },
+  {
+    "_id": { "$oid": "56f056965adbab3ada56c858" },
+    "episodeTitle": "Judge approves sale of 2 Southern California newspapers",
+    "rssUpdFirst": "2016-03-21T16:02"
+  },
+  {
+    "_id": { "$oid": "56f046a35adbab3ada56c811" },
+    "episodeTitle": "Fanduel, Draftkings Daily Fantasy Sports Sites Agree To Stop Taking Money In New York",
+    "rssUpdFirst": "2016-03-21T16:14"
+  },
+  {
+    "_id": { "$oid": "56f077f75adbab3ada56c8ef" },
+    "episodeTitle": "Elizabeth Warren labels Trump a loser, bully _ but a threat",
+    "rssUpdFirst": "2016-03-21T16:46"
+  },
+  {
+    "_id": { "$oid": "56f080c95adbab1bf4082a8c" },
+    "episodeTitle": "He looked at me and said ‘Save my baby’ – Buncrana hero describes tragic father’s sacrifice",
+    "rssUpdFirst": "2016-03-21T17:40"
+  },
+  {
+    "_id": { "$oid": "56f06cd55adbab3ada56c8bc" },
+    "episodeTitle": "The Latest: Syria Envoy: 'Premature' to Talk of Transition",
+    "rssUpdFirst": "2016-03-21T17:46"
+  },
+  {
+    "_id": { "$oid": "56f080c95adbab1bf4082a8f" },
+    "episodeTitle": "APNewsBreak: Elon Musk's wife files to divorce billionaire",
+    "rssUpdFirst": "2016-03-21T19:15"
+  },
+  {
+    "_id": { "$oid": "56f0ef2c5adbab3b8f53effa" },
+    "episodeTitle": "Australian Leader Clashes With Predecessor Over Record",
+    "rssUpdFirst": "2016-03-21T19:45"
+  },
+  {
+    "_id": { "$oid": "56f06f0a5adbab3ada56c8c5" },
+    "episodeTitle": "Gunmen attack EU military training base in Mali's capital - sources",
+    "rssUpdFirst": "2016-03-21T19:50"
+  },
+  {
+    "_id": { "$oid": "56f071505adbab3ada56c8d0" },
+    "episodeTitle": "Pianist’s estranged wife charged with killing 2 daughters",
+    "rssUpdFirst": "2016-03-21T20:16"
+  },
+  {
+    "_id": { "$oid": "56f0bc425adbab1cf136ee99" },
+    "episodeTitle": "Officials: Airline worker flees; 70 pounds of cocaine found",
+    "rssUpdFirst": "2016-03-21T21:13"
+  },
+  {
+    "_id": { "$oid": "56f089595adbab1cf136df60" },
+    "episodeTitle": "The Latest: FBI may have found way to unlock attacker iPhone",
+    "rssUpdFirst": "2016-03-21T21:17"
+  },
+  {
+    "_id": { "$oid": "56f096815adbab1cf136e109" },
+    "episodeTitle": "3 people charged, 1 nabbed on Iran sanctions evasion charges",
+    "rssUpdFirst": "2016-03-21T22:01"
+  },
+  {
+    "_id": { "$oid": "56f09d2b5adbab1cf136e361" },
+    "episodeTitle": "Brazil's Petrobras reports $10.2 billion quarterly loss",
+    "rssUpdFirst": "2016-03-21T22:01"
+  },
+  {
+    "_id": { "$oid": "56f09d2b5adbab1cf136e362" },
+    "episodeTitle": "Police charge 2 people in Sydney with funding Islamic State",
+    "rssUpdFirst": "2016-03-21T22:27"
+  },
+  {
+    "_id": { "$oid": "56f0aa965adbab1cf136e9c3" },
+    "episodeTitle": "Ex-Intel CEO Andy Grove Dies at Age 79",
+    "rssUpdFirst": "2016-03-22T00:49"
+  },
+  {
+    "_id": { "$oid": "56f0b3625adbab1cf136ee70" },
+    "episodeTitle": "South Korea registers 1st case of Zika virus",
+    "rssUpdFirst": "2016-03-22T00:56"
+  },
+  {
+    "_id": { "$oid": "56f0e6685adbab3b8f53ed2e" },
+    "episodeTitle": "Myanmar's Aung San Suu Kyi Nominated To Join Cabinet: Parliament Speaker",
+    "rssUpdFirst": "2016-03-22T02:31"
+  },
+  {
+    "_id": { "$oid": "56f117315adbab3b8f53f8a8" },
+    "episodeTitle": "House price growth slows as Sydney goes into reverse",
+    "rssUpdFirst": "2016-03-22T02:36"
+  },
+  {
+    "_id": { "$oid": "56f0e6685adbab3b8f53ed35" },
+    "episodeTitle": "Taxi protest causes traffic chaos in Indonesian capital",
+    "rssUpdFirst": "2016-03-22T03:04"
+  }
+]
