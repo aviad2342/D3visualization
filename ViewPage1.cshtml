@@ -1,0 +1,75 @@
+﻿@using System;
+@using System.Collections.Generic;
+@using System.Linq;
+@using System.Web;
+@using MongoDB.Bson;
+@using MongoDB.Driver;
+
+@{
+    var e = new List<newsItems_Episodes>();
+
+    var clinet = new MongoClient();
+    var db = clinet.GetDatabase("infoMedia_PRD");
+    var coll = db.GetCollection<newsItems_Episodes>("newsItems_Episodes");
+
+    var pbid = new ObjectId("56c468bb5adbab1a826c04ee");
+
+    var Episodes = coll
+        .Find(b => b.episodeTitle.Contains("Apple"))
+        .Limit(5)
+        .ToListAsync()
+        .Result;
+
+    e = Episodes;
+
+   // string name = Episodes.ToString();
+
+
+
+    public class newsItems_Episodes
+    {
+        public string _id { get; set; }
+        public int eventsNum { get; set; }
+        public string episodeTitle { get; set; }
+        public string rssUpdLast { get; set; }
+        public string episodeCategory { get; set; }
+        public int rssLifeExpectancy { get; set; }
+        public int fetchStatus { get; set; }
+        public string urlHTM { get; set; }
+        public DateTime rssRegDate { get; set; }
+        public Entities entities { get; set; }
+        public bool isProceeded { get; set; }
+        public string rssUpdFirst { get; set; }
+        public string urlRSS { get; set; }
+        public bool isExpired { get; set; }
+        public int importanceRank { get; set; }
+        public Keywords keywords { get; set; }
+    }
+
+    public class Entities
+    {
+        public string[] LOCATION { get; set; }
+        public string[] ORGANIZATION { get; set; }
+        public string[] PERSON { get; set; }
+    }
+
+    public class Keywords
+    {
+        public string[] stems { get; set; }
+        public string[] terms { get; set; }
+    }
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body> 
+    <div>
+    <h1>@name</h1>
+    </div>    
+</body>
+</html>

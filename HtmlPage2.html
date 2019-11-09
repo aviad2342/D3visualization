@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+    <script src="Scripts/datamaps.world.min.js"></script>
+    <script src="Scripts/jquery-1.11.3.min.js"></script>
+    <script src="Scripts/d3.min.js"></script>
+    <style>
+/* Chart bars style */
+ .chart {
+    background: #eee;
+    padding: 3px;
+}
+.chart div {
+    width:80%;
+    margin: 10px 10%;
+            border: 2px solid #000;
+            border-radius: 5px;
+            height: 100%;
+            overflow: hidden;
+            background: #F0F8FF;
+}
+.chart div div {
+    display:inline-block;
+}
+.chart div div.rect {
+    transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -webkit-transition: all 1s ease-out;
+    width:0;
+    font: 10px sans-serif;
+    background-color: steelblue;
+    text-align: right;
+    padding: 3px;
+    margin: 5px;
+    color: white;
+    box-shadow: 2px 2px 2px #666;
+}
+
+    </style>
+    <div id="chart"></div>
+    <script>
+        // Add the div containing the whole chart
+        var chart = d3.select('#chart').append('div').attr('class', 'chart');
+
+        // Add one div per bar which will group together both labels and bars
+        var g = chart.selectAll('div')
+            .data([52, 15, 9, 3, 3, 2, 2, 2, 1, 1]).enter()
+            .append('div')
+
+        // Add the labels
+        g.append("div")
+            .style("display", "inline")
+            .text(function (d, i) { return "Label" + i; });
+
+        // Add the bars
+        var bars = g.append("div")
+            .attr("class", "rect")
+            .text(function (d) { return d ; });
+
+        // Execute the transition to show the bars
+        bars.transition()
+            .ease('elastic')
+            .style('width', function (d) { return d + '%'; });
+         
+    </script>
+</body>
+</html>

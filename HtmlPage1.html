@@ -1,0 +1,521 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Visualization Project</title>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="fonts/Bar-chart.ico">
+    <script src="Scripts/d3.min.js"></script>
+    <script src="Scripts/jquery-1.11.3.min.js"></script>
+    <script src="Scripts/topojson.v1.min.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js"></script>
+    <script src="Scripts/jquery-ui.min.js"></script>
+    <link href="Content/VisStyleS.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="bs-example">
+        <input id="inputCountry" type="text" class="typeahead tt-query" autocomplete="off" spellcheck="false" placeholder="Press Map To See Country Name"/>
+        <p class="dtp">Date: <input type="text" id="datepicker" class="typeahead tt-query" placeholder="Choose a Date..."></p>
+        <div id="results">
+            <select id="Episodes" class="epi"></select>
+            <button id="Button1" class="btn"><span>Next Event</span></button>
+            <button id="Button2" class="btn"><span>Play</span></button>
+        </div>
+    </div>
+    <div id="container"></div>
+    <div id="bla"></div>
+    <div id="chart"></div>
+    <script>
+        
+        $(document).ready(function () {
+
+            $('#chart').hide();
+            $('#Button1').hide();
+            $('#Button2').hide();
+            $('#Episodes').hide();
+
+            var names = [];
+            var SourceId = [];
+            var arc = [];
+            var dates = [];
+            var iarc = 0;
+            var timer = null;
+
+            $.getJSON("Content/EpisodesB.json", function (result) {
+                $.each(result, function (i, element) {
+                    dates[i] = $.datepicker.formatDate('dd/mm/yy', new Date(element.rssUpdFirst));
+                })
+            });
+
+            $("#datepicker").datepicker({
+                dateFormat: 'dd/mm/yy',
+                beforeShowDay: function (date) {
+                    availday = $.datepicker.formatDate('dd/mm/yy', new Date(date));
+                    if (jQuery.inArray(availday, dates) != -1) {
+                     return [true, 'markDate'];
+                    }
+                    else{
+                        return [true, ''];
+                    }
+                }
+            });
+
+            $.getJSON("Content/world-topo-min.json", function (result) {
+                $.each(result.objects.countries.geometries, function (i, element) {
+                    names[i] = element.properties.name;
+                })
+                $('#inputCountry').typeahead({
+                    name: 'accounts',
+                    local: names
+                });
+            });
+            $('#container').click(function () {
+                $('#inputCountry').empty();
+
+                tool = tooltip.text();
+                $('#inputCountry').val(tool);
+                $.getJSON("Content/SourcesB.json", function (result) {
+                    $.each(result, function (i, element) {
+                        if (element.country === tool) {
+                            SourceId[i] = element.sourceID;
+                        }
+                    })
+
+                });
+            });
+
+            $('#datepicker').change(function () {
+                clearInterval(timer);
+                arc = [];
+                iarc = 0;
+                $('.gpoint').each(function (j, objc) {
+                    $(this).remove();
+                });
+                redraw();
+                $('#chart').empty();
+                $('#Button1').hide();
+                $('#Button1').css({ color: "white" });
+                $('#Button2').hide();
+                $('#Button2').css({ color: "green" });
+                $('#Episodes').hide();
+                $('#Episodes').empty();
+                $('#Episodes').append('<option id="episode0"> --Select An Episode-- </option>');
+
+                var d = $('#datepicker').val();
+                $.getJSON("Content/EpisodesB.json", function (result) {
+                    $.each(result, function (i, element) {
+                        if ($.datepicker.formatDate('dd/mm/yy', new Date(element.rssUpdFirst)) === d) {
+                            $('#Episodes').append('<option id="' + element._id.$oid + '">' + element.episodeTitle + '</option>');
+                        }
+                    })
+                    if ($('#Episodes option').length > 1) {
+                    $('#Episodes').show();
+                }
+                });
+            });
+
+            $("#Episodes").change(function () {
+                $('#Button1').hide();
+                $('#Button1').css({ color: "green" });
+                $('#Button2').hide();
+                $('#Button2').css({ color: "green" });
+                $('#Button1').prop('disabled', true);
+                $('#Button2').prop('disabled', true);
+                $('#chart').empty();
+                redraw();
+
+                var EpisodeId = $(this).children(":selected").attr("id");
+                var obj = [];
+                var src = [];
+                var ct = [];
+                var eventsCount = [];
+                var j = 0;
+                var b = 0;
+                var k = 0;
+                var c = 0;
+                        
+                $.getJSON("Content/EventsB.json", function (result) {
+                    $.each(result, function (i, element) {
+                        if (element.episodeID === EpisodeId) {
+                            obj[j] = { eventId: element._id.$oid, sourceId: element.source.title, eventDate: new Date(element.published) };
+                            j++;
+                        }
+                    })
+                    obj.sort(function (a, b) {
+                        if (a.eventDate > b.eventDate) {
+                            return 1;
+                        }
+                        if (a.eventDate < b.eventDate) {
+                            return -1;
+                        }
+                        return 0;
+                    });
+                    
+                    $.getJSON("Content/SourcesB.json", function (result) {
+                        $.each(result, function (i, element) {
+                            if (typeof obj[0] !== 'undefined') {
+                                obj.forEach(function (arrayItem) {
+                                    if (element.sourceID === arrayItem.sourceId) {
+                                        src[b] = { countryName: element.country, countryCode: element.countryCode, eventDate: new Date(arrayItem.eventDate) };
+                                        b++;
+                                    }
+                                });
+                            }
+                        })
+                        if (src.length > 0) {
+                       src.sort(function (a, b) {
+                           if (a.eventDate > b.eventDate) {
+                               return 1;
+                           }
+                           if (a.eventDate < b.eventDate) {
+                               return -1;
+                           } 
+                           return 0;
+                       });
+                      
+                       src.forEach(function (item) {
+                           if (jQuery.inArray(item.countryName, ct) < 0) {
+                               ct[c] = item.countryName;
+                               c++;
+                               }
+                       });
+                       ct.forEach(function (item) {
+                           eventsCount[k] = { name: item, num: 0 };
+                           k++;
+                       });
+
+                       src.forEach(function (item) {
+                           eventsCount.forEach(function (tem) {
+                               if (tem.name === item.countryName) {
+                                   tem.num++;
+                               }
+                           });
+                       });
+
+                       eventsCount.sort(function (a, b) {
+                           if (a.num < b.num) {
+                               return 1;
+                           }
+                           if (a.num > b.num) {
+                               return -1;
+                           }
+                           return 0;
+                       });
+
+                       
+                           $('#Button1').css({ color: "green" });
+                           $('#Button1').prop('disabled', false);
+                           $('#Button1').show();
+                           $('#Button2').css({ color: "green" });
+                           $('#Button2').prop('disabled', false);
+                           $('#Button2').show();
+                           arc = src;
+                           addBar(eventsCount);
+                           $('#chart').show();
+                       }
+                    });
+                });
+                
+            });
+            $('#Button1').click(function () {
+                if (iarc < arc.length) {
+                    if ($('#' + arc[iarc].countryCode).length) {
+                        var dandt = $('#' + arc[iarc].countryCode).attr('title') + '\n' + $.datepicker.formatDate('dd/mm/yy', new Date(arc[iarc].eventDate)) + ' ' + new Date(arc[iarc].eventDate).toLocaleTimeString();
+                        $('#' + arc[iarc].countryCode).attr('title', dandt);
+                    } else {
+                        $("path[name='" + arc[iarc].countryName + "']").css({ fill: "#f53838", transition: "2.0s" });
+                        DatePoint(arc[iarc].countryCode, $.datepicker.formatDate('dd/mm/yy', new Date(arc[iarc].eventDate)) + ' ' + new Date(arc[iarc].eventDate).toLocaleTimeString());
+                    }
+                    iarc++;
+                    if (iarc == arc.length) {
+                        $('#Button1').prop('disabled', true);
+                        $('#Button2').prop('disabled', true);
+                        $('#Button1').css({ color: "red" });
+                        $('#Button2').css({ color: "red" });
+                        clearInterval(timer);
+                        timer = null;
+                        $('.text').tooltip();
+                        iarc = 0;
+                        return false;
+                    }
+                }
+            });
+
+            $('#Button2').click(function () {
+                $('#Button1').css({ color: "red" });
+                $('#Button1').prop('disabled', true);
+                timer = setInterval(function () {
+                    $('#Button1').trigger('click');
+                }, 2000);
+                $("#Episodes").change(function () {
+                    clearInterval(timer);
+                    return false;
+                });
+                $("#datepicker").change(function () {
+                    clearInterval(timer);
+                    return false;
+                });
+                
+            });
+        });
+        
+
+        d3.select(window).on("resize", throttle);
+
+        var zoom = d3.behavior.zoom()
+            .scaleExtent([1, 9])
+            .on("zoom", move);
+
+
+        var width = document.getElementById('container').offsetWidth;
+        var height = width / 2;
+
+        var topo, projection, path, svg, g;
+
+        var graticule = d3.geo.graticule();
+
+        var tooltip = d3.select("#container").append("div").attr("class", "tooltip hidden");
+
+        setup(width, height);
+
+        function setup(width, height) {
+            projection = d3.geo.mercator()
+              .translate([(width / 2), (height / 2)])
+              .scale(width / 2 / Math.PI);
+
+            path = d3.geo.path().projection(projection);
+
+            svg = d3.select("#container").append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .call(zoom)
+                .on("click", click)
+                .append("g");
+
+            g = svg.append("g");
+
+        }
+
+        d3.json("Content/world-topo-min.json", function (error, world) {
+
+            var countries = topojson.feature(world, world.objects.countries).features;
+
+            topo = countries;
+            draw(topo);
+
+        });
+
+
+        function draw(topo) {
+
+            svg.append("path")
+               .datum(graticule)
+               .attr("class", "graticule")
+               .attr("d", path);
+
+
+
+            g.append("path")
+             .datum({ type: "LineString", coordinates: [[-180, 0], [-90, 0], [0, 0], [90, 0], [180, 0]] })
+             .attr("class", "equator")
+             .attr("d", path);
+
+            var country = g.selectAll(".country").data(topo);
+
+
+            country.enter().insert("path")
+                .attr("class", "country")
+                .attr("d", path)
+                .attr("id", function (d, i) { return d.id; })
+                .attr("title", function (d, i) { return d.properties.name; })
+                .attr("name", function (d, i) { return d.properties.name; })
+                .style("stroke", "black")
+               .style("fill", "white");
+
+
+            //offsets for tooltips
+            var offsetL = document.getElementById('container').offsetLeft + 20;
+            var offsetT = document.getElementById('container').offsetTop + 10;
+
+            //tooltips
+            country.on("mousemove", function (d, i) {
+
+                var mouse = d3.mouse(svg.node()).map(function (d) { return parseInt(d); });
+
+                tooltip.classed("hidden", false)
+                       .attr("style", "left:" + (mouse[0] + offsetL) + "px;top:" + (mouse[1] + offsetT) + "px")
+                       .html(d.properties.name);
+
+            })
+                .on("mouseout", function (d, i) {
+                    tooltip.classed("hidden", true);
+                });
+
+
+
+
+            // adding capitals from external CSV file
+            /*d3.csv("Content/country-capitals.csv", function (err, capitals) {
+
+              capitals.forEach(function(i){
+                addpoint(i.CapitalLongitude, i.CapitalLatitude, i.CapitalName );
+              });
+
+            });*/
+
+
+        }
+
+        function redraw() {
+            width = document.getElementById('container').offsetWidth;
+            height = width / 2;
+            d3.select('svg').remove();
+            setup(width, height);
+            draw(topo);
+        }
+
+
+        function move() {
+
+            var t = d3.event.translate;
+            var s = d3.event.scale;
+            zscale = s;
+            var h = height / 4;
+
+
+            t[0] = Math.min(
+              (width / height) * (s - 1),
+              Math.max(width * (1 - s), t[0])
+            );
+
+            t[1] = Math.min(
+              h * (s - 1) + h * s,
+              Math.max(height * (1 - s) - h * s, t[1])
+            );
+
+            zoom.translate(t);
+            g.attr("transform", "translate(" + t + ")scale(" + s + ")");
+
+            //adjust the country hover stroke width based on zoom level
+            d3.selectAll(".country").style("stroke-width", 1.5 / s);
+
+        }
+
+
+
+        var throttleTimer;
+        function throttle() {
+            window.clearTimeout(throttleTimer);
+            throttleTimer = window.setTimeout(function () {
+                redraw();
+            }, 200);
+        }
+
+
+        //geo translation on mouse click in map
+        function click() {
+            var latlon = projection.invert(d3.mouse(this));
+            // addpoint(latlon[0], latlon[1], "noob");
+            console.log(latlon);
+        }
+
+
+        //function to add points and text to the map (used in plotting capitals)
+        function addpoint(lat, lon, text, textid) {
+
+            var gpoint = g.append("g").attr("class", "gpoint");
+            var x = projection([lat, lon])[0];
+            var y = projection([lat, lon])[1];
+
+            gpoint.append("circle")
+                  .attr("cx", x)
+                  .attr("cy", y)
+                  .attr("class", "point")
+                  .attr("r", 2.5);
+
+
+            //conditional in case a point has no associated text
+            if (text.length > 0) {
+
+                gpoint.append("text")
+                      .attr("id", textid)
+                      .attr("x", x + 2)
+                      .attr("y", y + 2)
+                      .attr("class", "text")
+                      .attr("title", text)
+                      .text(text);
+            }
+        }
+        function DatePoint(country, date) {
+            $.getJSON("Content/countries.json", function (result) {
+                $.each(result, function (i, element) {
+                    if (element.code2l === country) {
+                        addpoint(element.longitude, element.latitude, date, country);
+                    }                  
+                })
+            });
+        }
+
+        function addPlatt(lat, lon, text) {
+
+            var gpoint = g.append("g").attr("class", "gpoint");
+            var x1 = projection([lat, lon])[0];
+            var y1 = projection([lat, lon])[1];
+
+            gpoint.append("svg:circle")
+                  .attr("cx", x1)
+                  .attr("cy", y1)
+                  .attr("class", "point")
+                  .attr("r", 1.5);
+
+
+            //conditional in case a point has no associated text
+            if (text.length > 0) {
+
+                gpoint.append("text")
+                      .attr("x", x1 + 2)
+                      .attr("y", y1 + 2)
+                      .attr("class", "text")
+                      .text(text);
+            }
+
+        }
+
+        function addBar(object) {
+            $('#chart').empty();
+
+            var count = 0;
+
+            object.forEach(function (item) {
+                count += item.num;
+            });
+
+
+            // Add the div containing the whole chart
+            var chart = d3.select('#chart').append('div').attr('class', 'chart');
+
+            // Add one div per bar which will group together both labels and bars
+            var gl = chart.selectAll('.chart')
+                .data(object).enter()
+                .append('div')
+            .attr("class", "barDiv");
+            
+            // Add the labels
+            gl.append("div")
+              .attr("class", "labels")
+              .text(function (d, i) { return i+1+'. '+d.name; });
+
+            // Add the bars
+            var bars = gl.append("div")
+                .attr("class", "rect")
+                .text(function (d) { return ((d.num*100)/count).toFixed(2)+'% ('+d.num+')'; });
+
+            // Execute the transition to show the bars
+            bars.transition()
+                .ease('elastic')
+                .style('width', function (d) { return 3+(d.num * 100) / count + '%'; });
+        }
+
+    </script>
+</body>
+</html>

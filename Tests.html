@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <meta charset="utf-8" />
+    <script src="Scripts/d3.min.js"></script>
+    <script src="Scripts/jquery-1.11.3.min.js"></script>
+    <script src="Scripts/topojson.v1.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/typeahead.js/0.9.3/typeahead.min.js"></script>
+    <script src="Scripts/jquery-ui.min.js"></script>
+    <link href="Content/VisStyleS.css" rel="stylesheet" />
+    <script>
+
+        $(document).ready(function () {
+            $.ajaxSetup({
+                async: false
+            });
+            var arc = [];
+            $.getJSON("Content/EpisodesT.json", function (result) {
+                $.each(result, function (i, element) {
+                    arc[i] = { a: element._id.$oid, b: element.episodeTitle, date: new Date(element.rssUpdFirst) };
+                    
+                })
+                arc.sort(function (a, b) {
+                    if (a.date > b.date) {
+                        return 1;
+                    }
+                    if (a.date < b.date) {
+                        return -1;
+                    }
+                    // a must be equal to b
+                    return 0;
+                });
+                $('#bla').append('<h5>' + $.datepicker.formatDate('dd/mm/yy', new Date(arc[0].date)) + ' ' + new Date(arc[0].date).toLocaleTimeString() + '</h5><br>');
+                $('#bla').append('<h5>' + $.datepicker.formatDate('dd/mm/yy h:MM', new Date(arc[0].date)) + '</h5><br>');
+                $('#bla').append('<h5>' + $.datepicker.formatDate('dd/mm/yy', new Date())+' ' + new Date().toLocaleTimeString() + '</h5><br>');
+                $('#bla').append('<h5>' + new Date() + '</h5><br>');
+
+            });
+            
+            
+            
+
+           // arc.forEach(function (arrayItem) {
+                //$('#bla').append('<h5>' + $.datepicker.formatDate('dd/mm/yy', new Date(arrayItem.date)) + '</h5><br>');
+
+           // });
+         
+     
+            
+        });
+    </script>
+</head>
+<body>
+    <div id="bla"></div>
+</body>
+</html>
