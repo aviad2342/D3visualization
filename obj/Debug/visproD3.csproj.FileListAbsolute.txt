@@ -1,0 +1,192 @@
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\ApplicationInsights.config
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\csc.exe
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\vbc.exe
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\VBCSCompiler.exe
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\visproD3.dll.config
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\visproD3.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\visproD3.pdb
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Antlr3.Runtime.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\EntityFramework.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\EntityFramework.SqlServer.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AI.Web.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.ApplicationInsights.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.Google.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Newtonsoft.Json.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Owin.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.Optimization.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.Providers.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\WebGrease.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AI.Web.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.ApplicationInsights.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.Optimization.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Antlr3.Runtime.pdb
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Newtonsoft.Json.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\EntityFramework.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\EntityFramework.SqlServer.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.Providers.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.Google.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\obj\Debug\visproD3.csprojResolveAssemblyReference.cache
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\obj\Debug\visproD3.dll
+c:\users\aviad\documents\visual studio 2015\Projects\visproD3\visproD3\obj\Debug\visproD3.pdb
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\MongoDB.Bson.dll
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\MongoDB.Driver.Core.dll
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\MongoDB.Driver.dll
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\MongoDB.Bson.xml
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\MongoDB.Driver.xml
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.Helpers.dll
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.Mvc.dll
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.Razor.dll
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.WebPages.dll
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.Helpers.xml
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.Mvc.xml
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.Razor.xml
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.WebPages.xml
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aviad\documents\visual studio 2015\Projects\visproD3\visproD3\bin\System.Web.WebPages.Razor.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\ApplicationInsights.config
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\csc.exe
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\System.Collections.Immutable.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\System.Reflection.Metadata.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\vbc.exe
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\VBCSCompiler.exe
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\roslyn\VBCSCompiler.exe.config
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\visproD3.dll.config
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\visproD3.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\visproD3.pdb
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Antlr3.Runtime.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\AspNet.ScriptManager.bootstrap.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\AspNet.ScriptManager.jQuery.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\EntityFramework.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\EntityFramework.SqlServer.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AI.Agent.Intercept.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AI.DependencyCollector.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AI.Web.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AI.WindowsServer.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.ApplicationInsights.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AspNet.Identity.Core.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.Cookies.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.Facebook.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.Google.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.OAuth.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.Twitter.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.ScriptManager.WebForms.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Web.Infrastructure.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\MongoDB.Bson.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\MongoDB.Driver.Core.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\MongoDB.Driver.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Newtonsoft.Json.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Owin.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.Helpers.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.Mvc.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.Optimization.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.Providers.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.Razor.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.WebPages.Deployment.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.WebPages.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.WebPages.Razor.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\WebGrease.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AI.DependencyCollector.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AI.Web.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AI.WindowsServer.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.ApplicationInsights.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\MongoDB.Bson.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\MongoDB.Driver.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.Helpers.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.Mvc.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.Razor.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.WebPages.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.WebPages.Deployment.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.WebPages.Razor.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.Optimization.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Antlr3.Runtime.pdb
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Newtonsoft.Json.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\EntityFramework.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\EntityFramework.SqlServer.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AspNet.Identity.Core.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\System.Web.Providers.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.Facebook.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.Cookies.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.Google.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.Twitter.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\bin\Microsoft.Owin.Security.OAuth.xml
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\obj\Debug\visproD3.csprojResolveAssemblyReference.cache
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\obj\Debug\visproD3.dll
+D:\תיקיות\לימודים\תואר\שנה שלישית סמסטר ב\ויזואליזציה\visproD3\visproD3\obj\Debug\visproD3.pdb
